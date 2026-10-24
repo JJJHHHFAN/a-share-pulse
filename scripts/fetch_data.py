@@ -356,6 +356,12 @@ def _yi(v: float) -> str:
     return f"{v / 1e8:+.2f} 亿"
 
 
+def market_data_is_current(klines: dict, today: str) -> bool:
+    """Only archive a snapshot when the Shanghai index has today's daily bar."""
+    series = klines.get("上证指数") or []
+    return bool(series and series[-1]["date"] == today)
+
+
 def main() -> int:
     now = datetime.now(CST)
     print(f"[{now:%Y-%m-%d %H:%M:%S}] 开始抓取 A 股盘中快照 ...")
@@ -365,6 +371,10 @@ def main() -> int:
     sectors = fetch_sectors()
     stocks = fetch_stocks()
     klines = fetch_index_klines(30)
+
+    if not market_data_is_current(klines, now.strftime("%Y-%m-%d")):
+        print("今日行情尚未更新，跳过归档", file=sys.stderr)
+        return 0
 
     turnover = breadth["turnover"]  # 沪深两市成交额（综指口径）
     net_inflow = sum(s["main_net"] for s in sectors["by_money"][:20])
