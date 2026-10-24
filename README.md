@@ -1,12 +1,12 @@
 # A股市场脉搏 · A-Share Market Pulse
 
-一个**零服务器、纯静态**的 A 股每日快照看板：抓取 → 生成洞察 → 提交数据 → 自动发布，全流程由 GitHub Actions 免费托管。
+一个**零服务器、纯静态**的 A 股每日快照看板：本机抓取并提交数据，GitHub Actions 自动发布页面。
 
 ![screenshot](assets/screenshot.png)
 
 ## 它做什么
 
-每个交易日收盘后（北京时间 15:30），自动抓取东方财富公开行情接口，生成一份盘中快照：
+交易日收盘后，本机定时抓取东方财富公开行情接口，生成一份市场快照：
 
 - **主要指数**：上证 / 深成 / 创业板 / 科创50 近 30 日归一化走势
 - **市场宽度**：沪深两市全部 A 股的涨跌家数与上涨占比
@@ -27,15 +27,27 @@ python scripts/fetch_data.py
 
 1. Fork 或把本仓库推到 GitHub
 2. 仓库 **Settings → Pages → Build and deployment → Source** 选择 **GitHub Actions**
-3. 完成。工作流会在每交易日 15:30（北京时间）自动抓取并重新发布
+3. 在负责抓取的 Mac 上安装本机任务（见下文）。数据推送后，工作流会自动重新发布
 
-也可以随时手动触发：**Actions → daily-snapshot → Run workflow**。
+也可以在 **Actions → publish-snapshot → Run workflow** 手动重新发布已有数据。
+
+## Mac 自动抓取
+
+由于东方财富接口会间歇性断开 GitHub 托管运行器的连接，抓取改在一台通常开机联网的 Mac 上运行。首次在该 Mac 的独立仓库副本中执行：
+
+```bash
+python3 -m venv .venv
+.venv/bin/pip install -r requirements.txt
+zsh scripts/install_local_schedule.sh
+```
+
+本机任务每 15 分钟检查一次，只在周一至周五北京时间 15:30 后抓取；用上证指数日线日期确认当日行情已更新，休市日不会归档旧行情。同一天成功提交后不再重复抓取。Mac 关机或断网时无法更新，开机联网后会在下一次检查时重试。日志在 `~/Library/Logs/a-share-pulse/`。本机需保留仓库目录和有效的 GitHub 推送凭据。
 
 ## 设计取舍
 
 | 决策 | 原因 |
 | --- | --- |
-| 只依赖 `requests` | 不用重型数据框架，Actions 冷启动 10 秒内跑完 |
+| 只依赖 `requests` | 不用重型数据框架，本机启动快 |
 | 数据与展示分离 | 爬虫只产出 JSON / market.js，页面永不需要重新构建 |
 | `market.js` 而非 `fetch(json)` | 本地双击 `index.html` 就能看，没有 file:// 的 CORS 限制 |
 | ECharts 打包进 `vendor/` | 不依赖第三方 CDN，国内访问不受影响 |
@@ -61,7 +73,7 @@ python scripts/fetch_data.py
 ├── scripts/
 │   └── fetch_data.py      # 抓取 + 洞察生成 + 历史归档
 └── .github/workflows/
-    └── daily.yml          # 交易日 15:30 自动抓取并部署
+    └── daily.yml          # 数据推送后自动部署
 ```
 
 ## License
