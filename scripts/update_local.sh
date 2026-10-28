@@ -30,7 +30,7 @@ fi
 git add docs/data
 if ! git diff --cached --quiet; then
   git -c user.name='A-Share Pulse Automation' \
-      -c user.email='175279402+floptropical@users.noreply.github.com' \
+      -c user.email='175279402+JJJHHHFAN@users.noreply.github.com' \
       commit -m "snapshot: $today"
   git push origin main
 fi
