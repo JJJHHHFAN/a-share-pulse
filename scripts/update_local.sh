@@ -1,5 +1,6 @@
 #!/bin/zsh
 set -euo pipefail
+export TZ=Asia/Shanghai
 
 repo_dir="${0:A:h:h}"
 cd "$repo_dir"

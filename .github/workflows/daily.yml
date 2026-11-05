@@ -4,7 +4,8 @@ on:
   push:
     branches: [main]
     paths:
-      - "docs/data/**"
+      - "docs/**"
+      - ".github/workflows/daily.yml"
   workflow_dispatch:
 
 permissions:

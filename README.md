@@ -27,7 +27,7 @@ python scripts/fetch_data.py
 
 1. Fork 或把本仓库推到 GitHub
 2. 仓库 **Settings → Pages → Build and deployment → Source** 选择 **GitHub Actions**
-3. 在负责抓取的 Mac 上安装本机任务（见下文）。数据推送后，工作流会自动重新发布
+3. 在负责抓取的 Mac 上安装本机任务（见下文）。`docs/` 中的数据、页面、图表资源或发布工作流发生变更后，工作流会自动重新发布
 
 也可以在 **Actions → publish-snapshot → Run workflow** 手动重新发布已有数据。
 
@@ -41,7 +41,16 @@ python3 -m venv .venv
 zsh scripts/install_local_schedule.sh
 ```
 
-本机任务每 15 分钟检查一次，只在周一至周五北京时间 15:30 后抓取；用上证指数日线日期确认当日行情已更新，休市日不会归档旧行情。同一天成功提交后不再重复抓取。Mac 关机、断网或行情接口不可用时，当天会在下一次检查时重试；跨天不会自动补抓缺失的完整市场快照。日志在 `~/Library/Logs/a-share-pulse/`。本机需保留仓库目录和有效的 GitHub 推送凭据。
+本机任务每 15 分钟检查一次，明确使用 `Asia/Shanghai` 时区，只在周一至周五北京时间 15:30 后抓取；电脑切换时区不会改变抓取时点或归档日期。用上证指数日线日期确认当日行情已更新，休市日不会归档旧行情。同一天成功提交后不再重复抓取。Mac 关机、断网或行情接口不可用时，当天会在下一次检查时重试；跨天不会自动补抓缺失的完整市场快照。日志在 `~/Library/Logs/a-share-pulse/`。本机需保留仓库目录和有效的 GitHub 推送凭据。
+
+## 验证与自动测试
+
+```bash
+.venv/bin/python -m unittest discover -s tests -v
+zsh -n scripts/update_local.sh scripts/install_local_schedule.sh
+```
+
+`tests` 工作流在提交、Pull Request 和手动运行时执行离线检查：行情日期、跨时区调度，以及 JSON、归档与页面数据的一致性。调度测试使用固定时钟和本地命令替身，不访问 GitHub 或行情接口；不会触发真实抓取。GitHub Pages 发布由独立的 `publish-snapshot` 工作流负责，实时数据采集仍由本机执行。
 
 ## 设计取舍
 
