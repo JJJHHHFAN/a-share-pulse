@@ -1,80 +1,76 @@
 {
-  "generated_at": "2026-11-06 15:30:50",
-  "date": "2026-11-06",
+  "generated_at": "2026-11-09 15:42:12",
+  "date": "2026-11-09",
   "indexes": [
     {
       "code": "000001",
       "name": "上证指数",
-      "price": 3649.18,
-      "change_pct": -1.1,
-      "change": -40.73,
-      "turnover": 772634566231.1,
-      "up": 381.0,
-      "down": 1936.0,
-      "flat": 40.0
+      "price": 3660.79,
+      "change_pct": 0.32,
+      "change": 11.61,
+      "turnover": 682532599935.4,
+      "up": 919.0,
+      "down": 1340.0,
+      "flat": 98.0
     },
     {
       "code": "399001",
       "name": "深证成指",
-      "price": 11175.78,
-      "change_pct": -2.57,
-      "change": -295.31,
-      "turnover": 885159900792.1285,
-      "up": 344.0,
-      "down": 2547.0,
-      "flat": 47.0
+      "price": 11145.49,
+      "change_pct": -0.27,
+      "change": -30.29,
+      "turnover": 800080739807.6908,
+      "up": 1158.0,
+      "down": 1688.0,
+      "flat": 92.0
     },
     {
       "code": "399006",
       "name": "创业板指",
-      "price": 2465.23,
-      "change_pct": -3.96,
-      "change": -101.57,
-      "turnover": 444017074033.47,
-      "up": 125.0,
-      "down": 1280.0,
-      "flat": 6.0
+      "price": 2458.56,
+      "change_pct": -0.27,
+      "change": -6.67,
+      "turnover": 404936054219.04,
+      "up": 559.0,
+      "down": 832.0,
+      "flat": 20.0
     },
     {
       "code": "000688",
       "name": "科创50",
-      "price": 1253.2,
-      "change_pct": -2.6,
-      "change": -33.48,
-      "turnover": 89626587141.0,
-      "up": 9.0,
-      "down": 40.0,
-      "flat": 1.0
+      "price": 1256.96,
+      "change_pct": 0.3,
+      "change": 3.76,
+      "turnover": 71734292017.7,
+      "up": 21.0,
+      "down": 29.0,
+      "flat": 0.0
     }
   ],
   "breadth": {
-    "up": 725.0,
-    "down": 4483.0,
-    "flat": 87.0,
-    "turnover": 1657793292330.5085,
+    "up": 2077.0,
+    "down": 3028.0,
+    "flat": 190.0,
+    "turnover": 1482611321625.0908,
     "detail": [
       {
         "market": "上证指数",
-        "up": 381.0,
-        "down": 1936.0,
-        "flat": 40.0,
-        "turnover": 772634566231.1
+        "up": 919.0,
+        "down": 1340.0,
+        "flat": 98.0,
+        "turnover": 682532599935.4
       },
       {
         "market": "深证综指",
-        "up": 344.0,
-        "down": 2547.0,
-        "flat": 47.0,
-        "turnover": 885158726099.4086
+        "up": 1158.0,
+        "down": 1688.0,
+        "flat": 92.0,
+        "turnover": 800078721689.6908
       }
     ]
   },
   "klines": {
     "上证指数": [
-      {
-        "date": "2026-09-18",
-        "close": 3911.87
-      },
       {
         "date": "2026-09-21",
         "close": 3949.91
@@ -190,13 +186,13 @@
       {
         "date": "2026-11-06",
         "close": 3649.18
+      },
+      {
+        "date": "2026-11-09",
+        "close": 3660.79
       }
     ],
     "深证成指": [
-      {
-        "date": "2026-09-18",
-        "close": 13640.87
-      },
       {
         "date": "2026-09-21",
         "close": 13730.02
@@ -312,13 +308,13 @@
       {
         "date": "2026-11-06",
         "close": 11175.78
+      },
+      {
+        "date": "2026-11-09",
+        "close": 11145.49
       }
     ],
     "创业板指": [
-      {
-        "date": "2026-09-18",
-        "close": 3372.68
-      },
       {
         "date": "2026-09-21",
         "close": 3399.59
@@ -434,13 +430,13 @@
       {
         "date": "2026-11-06",
         "close": 2465.23
+      },
+      {
+        "date": "2026-11-09",
+        "close": 2458.56
       }
     ],
     "科创50": [
-      {
-        "date": "2026-09-18",
-        "close": 1652.63
-      },
       {
         "date": "2026-09-21",
         "close": 1657.48
@@ -556,4081 +552,4089 @@
       {
         "date": "2026-11-06",
         "close": 1253.2
+      },
+      {
+        "date": "2026-11-09",
+        "close": 1256.96
       }
     ]
   },
   "sectors": {
     "by_change": [
       {
-        "code": "BK1296",
-        "name": "视频媒体",
-        "change_pct": 6.25,
-        "turnover": 4712426470.0,
-        "main_net": -82393808.0,
-        "main_pct": -1.75,
-        "up": 1.0,
+        "code": "BK1492",
+        "name": "焦炭Ⅲ",
+        "change_pct": 5.39,
+        "turnover": 1644400751.0,
+        "main_net": 194421979.0,
+        "main_pct": 11.82,
+        "up": 7.0,
         "down": 0.0
       },
       {
-        "code": "BK1518",
-        "name": "种子",
-        "change_pct": 4.64,
-        "turnover": 5112514735.0,
-        "main_net": 284286000.0,
-        "main_pct": 5.56,
-        "up": 10.0,
+        "code": "BK1249",
+        "name": "焦炭Ⅱ",
+        "change_pct": 5.39,
+        "turnover": 1644400751.0,
+        "main_net": 194421979.0,
+        "main_pct": 11.82,
+        "up": 7.0,
         "down": 0.0
       },
       {
         "code": "BK1452",
         "name": "卫浴电器",
-        "change_pct": 3.46,
-        "turnover": 592905619.0,
-        "main_net": 157020664.0,
-        "main_pct": 26.48,
-        "up": 2.0,
+        "change_pct": 5.1,
+        "turnover": 201182224.0,
+        "main_net": 59037679.0,
+        "main_pct": 29.35,
+        "up": 3.0,
+        "down": 0.0
+      },
+      {
+        "code": "BK1524",
+        "name": "汽车综合服务",
+        "change_pct": 4.15,
+        "turnover": 979025748.0,
+        "main_net": 44051291.0,
+        "main_pct": 4.5,
+        "up": 1.0,
+        "down": 2.0
+      },
+      {
+        "code": "BK0437",
+        "name": "煤炭",
+        "change_pct": 3.47,
+        "turnover": 13731669035.0,
+        "main_net": 934450272.0,
+        "main_pct": 6.81,
+        "up": 33.0,
         "down": 1.0
       },
       {
-        "code": "BK1510",
-        "name": "其他养殖",
-        "change_pct": 3.18,
-        "turnover": 504335623.0,
-        "main_net": 30058776.0,
-        "main_pct": 5.96,
-        "up": 1.0,
+        "code": "BK1381",
+        "name": "燃气Ⅲ",
+        "change_pct": 3.25,
+        "turnover": 4418368912.0,
+        "main_net": 196453153.0,
+        "main_pct": 4.45,
+        "up": 29.0,
         "down": 2.0
       },
       {
-        "code": "BK1587",
-        "name": "电信运营商",
-        "change_pct": 2.87,
-        "turnover": 3638528175.0,
-        "main_net": 404769136.0,
-        "main_pct": 11.12,
-        "up": 3.0,
+        "code": "BK1028",
+        "name": "燃气Ⅱ",
+        "change_pct": 3.25,
+        "turnover": 4418368912.0,
+        "main_net": 196453153.0,
+        "main_pct": 4.45,
+        "up": 29.0,
+        "down": 2.0
+      },
+      {
+        "code": "BK1493",
+        "name": "动力煤",
+        "change_pct": 3.22,
+        "turnover": 9492914789.0,
+        "main_net": 535211888.0,
+        "main_pct": 5.64,
+        "up": 16.0,
+        "down": 1.0
+      },
+      {
+        "code": "BK1340",
+        "name": "印制电路板",
+        "change_pct": 3.07,
+        "turnover": 68396232945.0,
+        "main_net": 3763197952.0,
+        "main_pct": 5.5,
+        "up": 44.0,
+        "down": 4.0
+      },
+      {
+        "code": "BK1250",
+        "name": "煤炭开采",
+        "change_pct": 2.98,
+        "turnover": 12087268284.0,
+        "main_net": 740028336.0,
+        "main_pct": 6.12,
+        "up": 26.0,
+        "down": 1.0
+      },
+      {
+        "code": "BK1626",
+        "name": "稀土",
+        "change_pct": 2.8,
+        "turnover": 2499678389.0,
+        "main_net": 42387979.0,
+        "main_pct": 1.7,
+        "up": 2.0,
         "down": 0.0
       },
       {
-        "code": "BK1261",
-        "name": "种植业",
-        "change_pct": 2.72,
-        "turnover": 7939746112.0,
-        "main_net": 323068896.0,
-        "main_pct": 4.07,
-        "up": 16.0,
+        "code": "BK1296",
+        "name": "视频媒体",
+        "change_pct": 2.78,
+        "turnover": 4887088384.0,
+        "main_net": -9965136.0,
+        "main_pct": -0.2,
+        "up": 1.0,
+        "down": 0.0
+      },
+      {
+        "code": "BK1408",
+        "name": "机器人",
+        "change_pct": 2.7,
+        "turnover": 13069802058.0,
+        "main_net": 461263872.0,
+        "main_pct": 3.53,
+        "up": 22.0,
+        "down": 0.0
+      },
+      {
+        "code": "BK1567",
+        "name": "其他专业服务",
+        "change_pct": 2.68,
+        "turnover": 228215277.0,
+        "main_net": 17983006.0,
+        "main_pct": 7.88,
+        "up": 4.0,
+        "down": 0.0
+      },
+      {
+        "code": "BK1592",
+        "name": "通信线缆及配套",
+        "change_pct": 2.61,
+        "turnover": 17223777116.0,
+        "main_net": 519073136.0,
+        "main_pct": 3.01,
+        "up": 14.0,
+        "down": 0.0
+      },
+      {
+        "code": "BK1624",
+        "name": "其他小金属",
+        "change_pct": 2.6,
+        "turnover": 8456078026.0,
+        "main_net": 480498672.0,
+        "main_pct": 5.68,
+        "up": 10.0,
         "down": 5.0
       },
       {
-        "code": "BK1347",
-        "name": "纺织鞋类制造",
-        "change_pct": 2.69,
-        "turnover": 212855159.0,
-        "main_net": -1870693.0,
-        "main_pct": -0.88,
-        "up": 1.0,
-        "down": 0.0
-      },
-      {
-        "code": "BK1499",
-        "name": "医美服务",
-        "change_pct": 2.64,
-        "turnover": 283597775.0,
-        "main_net": 20933511.0,
-        "main_pct": 7.38,
-        "up": 2.0,
-        "down": 0.0
-      },
-      {
-        "code": "BK1556",
-        "name": "教育运营及其他",
-        "change_pct": 2.15,
-        "turnover": 745959398.0,
-        "main_net": -4749493.0,
-        "main_pct": -0.64,
-        "up": 2.0,
-        "down": 0.0
-      },
-      {
-        "code": "BK1378",
-        "name": "其他能源发电",
-        "change_pct": 1.96,
-        "turnover": 175443452.0,
-        "main_net": 18783586.0,
-        "main_pct": 10.71,
-        "up": 1.0,
-        "down": 0.0
-      },
-      {
-        "code": "BK1516",
-        "name": "其他种植业",
-        "change_pct": 1.65,
-        "turnover": 1887445485.0,
-        "main_net": 6606935.0,
-        "main_pct": 0.35,
-        "up": 3.0,
-        "down": 2.0
-      },
-      {
-        "code": "BK1315",
-        "name": "光伏电池组件",
-        "change_pct": 1.46,
-        "turnover": 15543919310.0,
-        "main_net": -208386256.0,
-        "main_pct": -1.34,
+        "code": "BK1494",
+        "name": "焦煤",
+        "change_pct": 2.56,
+        "turnover": 2594353494.0,
+        "main_net": 204816443.0,
+        "main_pct": 7.89,
         "up": 10.0,
-        "down": 12.0
+        "down": 0.0
       },
       {
-        "code": "BK1380",
-        "name": "水力发电",
-        "change_pct": 1.46,
-        "turnover": 9080864042.0,
-        "main_net": 633002032.0,
-        "main_pct": 6.97,
-        "up": 9.0,
-        "down": 2.0
+        "code": "BK1295",
+        "name": "其他数字媒体",
+        "change_pct": 2.53,
+        "turnover": 3583723379.0,
+        "main_net": -69809472.0,
+        "main_pct": -1.95,
+        "up": 2.0,
+        "down": 0.0
       },
       {
-        "code": "BK1483",
-        "name": "高速公路",
-        "change_pct": 1.2,
-        "turnover": 2744625979.0,
-        "main_net": 398803848.0,
-        "main_pct": 14.53,
-        "up": 15.0,
+        "code": "BK0459",
+        "name": "元件",
+        "change_pct": 2.49,
+        "turnover": 77818034990.0,
+        "main_net": 3841536512.0,
+        "main_pct": 4.94,
+        "up": 59.0,
+        "down": 8.0
+      },
+      {
+        "code": "BK1240",
+        "name": "厨卫电器",
+        "change_pct": 2.44,
+        "turnover": 701938210.0,
+        "main_net": 81741363.0,
+        "main_pct": 11.65,
+        "up": 8.0,
+        "down": 1.0
+      },
+      {
+        "code": "BK1551",
+        "name": "百货",
+        "change_pct": 2.34,
+        "turnover": 5075717950.0,
+        "main_net": -43611040.0,
+        "main_pct": -0.86,
+        "up": 14.0,
         "down": 3.0
       },
       {
-        "code": "BK1506",
-        "name": "农业综合Ⅲ",
-        "change_pct": 1.17,
-        "turnover": 164816431.0,
-        "main_net": 9483667.0,
-        "main_pct": 5.75,
+        "code": "BK1425",
+        "name": "胶黏剂及胶带",
+        "change_pct": 2.31,
+        "turnover": 2071289495.0,
+        "main_net": 129146654.0,
+        "main_pct": 6.24,
+        "up": 4.0,
+        "down": 2.0
+      },
+      {
+        "code": "BK1590",
+        "name": "其他通信设备",
+        "change_pct": 2.28,
+        "turnover": 1883740690.0,
+        "main_net": 279145060.0,
+        "main_pct": 14.82,
+        "up": 10.0,
+        "down": 4.0
+      },
+      {
+        "code": "BK1355",
+        "name": "运动服装",
+        "change_pct": 2.17,
+        "turnover": 794628937.0,
+        "main_net": 12132448.0,
+        "main_pct": 1.53,
         "up": 2.0,
-        "down": 0.0
+        "down": 2.0
       },
       {
-        "code": "BK1257",
-        "name": "农业综合Ⅱ",
-        "change_pct": 1.17,
-        "turnover": 164816431.0,
-        "main_net": 9483667.0,
-        "main_pct": 5.75,
-        "up": 2.0,
-        "down": 0.0
-      },
-      {
-        "code": "BK1612",
-        "name": "农商行Ⅲ",
-        "change_pct": 1.16,
-        "turnover": 2563117236.0,
-        "main_net": 48820928.0,
-        "main_pct": 1.9,
-        "up": 9.0,
-        "down": 0.0
-      },
-      {
-        "code": "BK1416",
-        "name": "粘胶",
-        "change_pct": 1.16,
-        "turnover": 1017056159.0,
-        "main_net": -32390875.0,
-        "main_pct": -3.18,
+        "code": "BK1454",
+        "name": "其他黑色家电",
+        "change_pct": 2.07,
+        "turnover": 977224586.0,
+        "main_net": 24240.0,
+        "main_pct": 0.0,
         "up": 3.0,
+        "down": 1.0
+      },
+      {
+        "code": "BK1305",
+        "name": "燃料电池",
+        "change_pct": 1.98,
+        "turnover": 89238596.0,
+        "main_net": -665261.0,
+        "main_pct": -0.75,
+        "up": 1.0,
         "down": 0.0
       },
       {
-        "code": "BK1374",
-        "name": "风力发电",
-        "change_pct": 1.12,
-        "turnover": 2925971672.0,
-        "main_net": 3733200.0,
-        "main_pct": 0.13,
+        "code": "BK1385",
+        "name": "航天装备Ⅲ",
+        "change_pct": 1.92,
+        "turnover": 9162877691.0,
+        "main_net": 663729984.0,
+        "main_pct": 7.24,
+        "up": 7.0,
+        "down": 2.0
+      },
+      {
+        "code": "BK1232",
+        "name": "航天装备Ⅱ",
+        "change_pct": 1.92,
+        "turnover": 9162877691.0,
+        "main_net": 663729984.0,
+        "main_pct": 7.24,
+        "up": 7.0,
+        "down": 2.0
+      },
+      {
+        "code": "BK1438",
+        "name": "合成树脂",
+        "change_pct": 1.91,
+        "turnover": 5915226980.0,
+        "main_net": 158909568.0,
+        "main_pct": 2.69,
         "up": 7.0,
         "down": 6.0
       },
       {
+        "code": "BK1458",
+        "name": "个护小家电",
+        "change_pct": 1.88,
+        "turnover": 368760075.0,
+        "main_net": 12152938.0,
+        "main_pct": 3.3,
+        "up": 2.0,
+        "down": 2.0
+      },
+      {
+        "code": "BK1307",
+        "name": "电机Ⅲ",
+        "change_pct": 1.85,
+        "turnover": 6761207715.0,
+        "main_net": 99817872.0,
+        "main_pct": 1.48,
+        "up": 19.0,
+        "down": 7.0
+      },
+      {
+        "code": "BK1030",
+        "name": "电机Ⅱ",
+        "change_pct": 1.85,
+        "turnover": 6761207715.0,
+        "main_net": 99817872.0,
+        "main_pct": 1.48,
+        "up": 19.0,
+        "down": 7.0
+      },
+      {
         "code": "BK1611",
         "name": "国有大型银行Ⅲ",
-        "change_pct": 1.04,
-        "turnover": 13504928217.0,
-        "main_net": 508727424.0,
-        "main_pct": 3.77,
+        "change_pct": 1.85,
+        "turnover": 11727747524.0,
+        "main_net": 646220320.0,
+        "main_pct": 5.51,
         "up": 6.0,
         "down": 0.0
       },
       {
-        "code": "BK1609",
-        "name": "城商行Ⅲ",
-        "change_pct": 1.01,
-        "turnover": 8547852447.0,
-        "main_net": 365281728.0,
-        "main_pct": 4.27,
-        "up": 15.0,
+        "code": "BK1386",
+        "name": "军工电子Ⅲ",
+        "change_pct": 1.79,
+        "turnover": 18099609375.0,
+        "main_net": 399808144.0,
+        "main_pct": 2.21,
+        "up": 56.0,
+        "down": 5.0
+      },
+      {
+        "code": "BK1233",
+        "name": "军工电子Ⅱ",
+        "change_pct": 1.79,
+        "turnover": 18099609375.0,
+        "main_net": 399808144.0,
+        "main_pct": 2.21,
+        "up": 56.0,
+        "down": 5.0
+      },
+      {
+        "code": "BK1516",
+        "name": "其他种植业",
+        "change_pct": 1.74,
+        "turnover": 2030054227.0,
+        "main_net": 57305034.0,
+        "main_pct": 2.82,
+        "up": 3.0,
+        "down": 2.0
+      },
+      {
+        "code": "BK1300",
+        "name": "院线",
+        "change_pct": 1.72,
+        "turnover": 1567905980.0,
+        "main_net": 21922510.0,
+        "main_pct": 1.4,
+        "up": 2.0,
+        "down": 2.0
+      },
+      {
+        "code": "BK1027",
+        "name": "小金属",
+        "change_pct": 1.71,
+        "turnover": 14820419126.0,
+        "main_net": 390216192.0,
+        "main_pct": 2.63,
+        "up": 13.0,
+        "down": 11.0
+      },
+      {
+        "code": "BK0448",
+        "name": "通信设备",
+        "change_pct": 1.7,
+        "turnover": 91650605135.0,
+        "main_net": 3733729024.0,
+        "main_pct": 4.07,
+        "up": 71.0,
+        "down": 23.0
+      },
+      {
+        "code": "BK1526",
+        "name": "底盘与发动机系统",
+        "change_pct": 1.54,
+        "turnover": 24290085384.0,
+        "main_net": 732716016.0,
+        "main_pct": 3.02,
+        "up": 89.0,
+        "down": 27.0
+      },
+      {
+        "code": "BK1512",
+        "name": "生猪养殖",
+        "change_pct": 1.54,
+        "turnover": 3932507740.0,
+        "main_net": 23530704.0,
+        "main_pct": 0.6,
+        "up": 9.0,
+        "down": 2.0
+      },
+      {
+        "code": "BK1591",
+        "name": "通信网络设备及器件",
+        "change_pct": 1.53,
+        "turnover": 63197632034.0,
+        "main_net": 2755503872.0,
+        "main_pct": 4.36,
+        "up": 30.0,
+        "down": 8.0
+      },
+      {
+        "code": "BK1528",
+        "name": "其他汽车零部件",
+        "change_pct": 1.51,
+        "turnover": 8341914182.0,
+        "main_net": 40573136.0,
+        "main_pct": 0.49,
+        "up": 33.0,
+        "down": 19.0
+      },
+      {
+        "code": "BK1410",
+        "name": "其他自动化设备",
+        "change_pct": 1.49,
+        "turnover": 6276484627.0,
+        "main_net": 160436224.0,
+        "main_pct": 2.56,
+        "up": 22.0,
+        "down": 7.0
+      },
+      {
+        "code": "BK1392",
+        "name": "工程机械器件",
+        "change_pct": 1.48,
+        "turnover": 2114744874.0,
+        "main_net": -9537977.0,
+        "main_pct": -0.45,
+        "up": 8.0,
+        "down": 5.0
+      },
+      {
+        "code": "BK1469",
+        "name": "涂料",
+        "change_pct": 1.47,
+        "turnover": 197158948.0,
+        "main_net": 1254666.0,
+        "main_pct": 0.64,
+        "up": 1.0,
         "down": 1.0
+      },
+      {
+        "code": "BK1396",
+        "name": "金属制品",
+        "change_pct": 1.45,
+        "turnover": 18201789861.0,
+        "main_net": 433901504.0,
+        "main_pct": 2.38,
+        "up": 60.0,
+        "down": 20.0
+      },
+      {
+        "code": "BK1400",
+        "name": "制冷空调设备",
+        "change_pct": 1.44,
+        "turnover": 6755995631.0,
+        "main_net": 1135114336.0,
+        "main_pct": 16.8,
+        "up": 12.0,
+        "down": 7.0
+      },
+      {
+        "code": "BK1356",
+        "name": "其他饰品",
+        "change_pct": 1.43,
+        "turnover": 32509717.0,
+        "main_net": -1273794.0,
+        "main_pct": -3.92,
+        "up": 1.0,
+        "down": 0.0
+      },
+      {
+        "code": "BK1525",
+        "name": "车身附件及饰件",
+        "change_pct": 1.41,
+        "turnover": 7275331402.0,
+        "main_net": 249849616.0,
+        "main_pct": 3.43,
+        "up": 32.0,
+        "down": 11.0
+      },
+      {
+        "code": "BK1334",
+        "name": "光学元件",
+        "change_pct": 1.4,
+        "turnover": 11312879154.0,
+        "main_net": 181829040.0,
+        "main_pct": 1.61,
+        "up": 20.0,
+        "down": 6.0
+      },
+      {
+        "code": "BK1617",
+        "name": "黄金",
+        "change_pct": 1.34,
+        "turnover": 10053549514.0,
+        "main_net": 233603664.0,
+        "main_pct": 2.32,
+        "up": 9.0,
+        "down": 1.0
+      },
+      {
+        "code": "BK1562",
+        "name": "人工景区",
+        "change_pct": 1.31,
+        "turnover": 801378187.0,
+        "main_net": 17131389.0,
+        "main_pct": 2.14,
+        "up": 1.0,
+        "down": 4.0
+      },
+      {
+        "code": "BK0732",
+        "name": "贵金属",
+        "change_pct": 1.3,
+        "turnover": 13642793743.0,
+        "main_net": 170610528.0,
+        "main_pct": 1.25,
+        "up": 11.0,
+        "down": 2.0
+      },
+      {
+        "code": "BK1388",
+        "name": "大气治理",
+        "change_pct": 1.3,
+        "turnover": 411016597.0,
+        "main_net": 3023412.0,
+        "main_pct": 0.74,
+        "up": 1.0,
+        "down": 5.0
+      },
+      {
+        "code": "BK1552",
+        "name": "超市",
+        "change_pct": 1.3,
+        "turnover": 1492637571.0,
+        "main_net": 38605719.0,
+        "main_pct": 2.59,
+        "up": 5.0,
+        "down": 1.0
+      },
+      {
+        "code": "BK0481",
+        "name": "汽车零部件",
+        "change_pct": 1.25,
+        "turnover": 49128119320.0,
+        "main_net": 1277613888.0,
+        "main_pct": 2.6,
+        "up": 184.0,
+        "down": 88.0
+      },
+      {
+        "code": "BK1338",
+        "name": "消费电子零部件及组装",
+        "change_pct": 1.24,
+        "turnover": 44293365594.0,
+        "main_net": 2613484800.0,
+        "main_pct": 5.9,
+        "up": 57.0,
+        "down": 28.0
+      },
+      {
+        "code": "BK0482",
+        "name": "一般零售",
+        "change_pct": 1.22,
+        "turnover": 10991253494.0,
+        "main_net": 229713248.0,
+        "main_pct": 2.09,
+        "up": 35.0,
+        "down": 17.0
+      },
+      {
+        "code": "BK1619",
+        "name": "其他金属新材料",
+        "change_pct": 1.21,
+        "turnover": 3747770532.0,
+        "main_net": 67460982.0,
+        "main_pct": 1.8,
+        "up": 11.0,
+        "down": 8.0
+      },
+      {
+        "code": "BK1439",
+        "name": "膜材料",
+        "change_pct": 1.21,
+        "turnover": 7666017890.0,
+        "main_net": 174048352.0,
+        "main_pct": 2.27,
+        "up": 13.0,
+        "down": 8.0
+      },
+      {
+        "code": "BK1037",
+        "name": "消费电子",
+        "change_pct": 1.2,
+        "turnover": 48942415059.0,
+        "main_net": 2655162624.0,
+        "main_pct": 5.43,
+        "up": 65.0,
+        "down": 31.0
+      },
+      {
+        "code": "BK1491",
+        "name": "端到端供应链服务",
+        "change_pct": 1.17,
+        "turnover": 461783406.0,
+        "main_net": 84519711.0,
+        "main_pct": 18.3,
+        "up": 3.0,
+        "down": 4.0
+      },
+      {
+        "code": "BK1593",
+        "name": "通信终端及配件",
+        "change_pct": 1.17,
+        "turnover": 9345455293.0,
+        "main_net": 180007072.0,
+        "main_pct": 1.93,
+        "up": 17.0,
+        "down": 11.0
+      },
+      {
+        "code": "BK1616",
+        "name": "白银",
+        "change_pct": 1.16,
+        "turnover": 3589244229.0,
+        "main_net": -62993136.0,
+        "main_pct": -1.76,
+        "up": 2.0,
+        "down": 1.0
+      },
+      {
+        "code": "BK1204",
+        "name": "国防军工",
+        "change_pct": 1.16,
+        "turnover": 45624971902.0,
+        "main_net": 1009283888.0,
+        "main_pct": 2.21,
+        "up": 107.0,
+        "down": 32.0
+      },
+      {
+        "code": "BK1612",
+        "name": "农商行Ⅲ",
+        "change_pct": 1.15,
+        "turnover": 2529201284.0,
+        "main_net": 30258064.0,
+        "main_pct": 1.2,
+        "up": 9.0,
+        "down": 1.0
+      },
+      {
+        "code": "BK1237",
+        "name": "自动化设备",
+        "change_pct": 1.15,
+        "turnover": 33975481459.0,
+        "main_net": 532045808.0,
+        "main_pct": 1.57,
+        "up": 69.0,
+        "down": 24.0
+      },
+      {
+        "code": "BK0734",
+        "name": "饰品",
+        "change_pct": 1.14,
+        "turnover": 1527018775.0,
+        "main_net": 93331964.0,
+        "main_pct": 6.11,
+        "up": 9.0,
+        "down": 6.0
+      },
+      {
+        "code": "BK1553",
+        "name": "多业态零售",
+        "change_pct": 1.13,
+        "turnover": 2809839163.0,
+        "main_net": 240674539.0,
+        "main_pct": 8.57,
+        "up": 8.0,
+        "down": 4.0
+      },
+      {
+        "code": "BK1440",
+        "name": "其他塑料制品",
+        "change_pct": 1.12,
+        "turnover": 3002225406.0,
+        "main_net": 101807334.0,
+        "main_pct": 3.39,
+        "up": 14.0,
+        "down": 6.0
+      },
+      {
+        "code": "BK1357",
+        "name": "钟表珠宝",
+        "change_pct": 1.11,
+        "turnover": 1494509058.0,
+        "main_net": 94605756.0,
+        "main_pct": 6.33,
+        "up": 8.0,
+        "down": 6.0
+      },
+      {
+        "code": "BK1451",
+        "name": "厨房电器",
+        "change_pct": 1.1,
+        "turnover": 500755986.0,
+        "main_net": 22703684.0,
+        "main_pct": 4.53,
+        "up": 5.0,
+        "down": 1.0
+      },
+      {
+        "code": "BK1241",
+        "name": "黑色家电",
+        "change_pct": 1.1,
+        "turnover": 1640235184.0,
+        "main_net": -39695588.0,
+        "main_pct": -2.42,
+        "up": 4.0,
+        "down": 4.0
+      },
+      {
+        "code": "BK1468",
+        "name": "其他建材Ⅲ",
+        "change_pct": 1.08,
+        "turnover": 2128362479.0,
+        "main_net": 147866564.0,
+        "main_pct": 6.95,
+        "up": 8.0,
+        "down": 8.0
+      },
+      {
+        "code": "BK0545",
+        "name": "通用设备",
+        "change_pct": 1.08,
+        "turnover": 53646481723.0,
+        "main_net": 2032518368.0,
+        "main_pct": 3.79,
+        "up": 165.0,
+        "down": 87.0
+      },
+      {
+        "code": "BK1416",
+        "name": "粘胶",
+        "change_pct": 1.06,
+        "turnover": 726203577.0,
+        "main_net": 1629879.0,
+        "main_pct": 0.22,
+        "up": 2.0,
+        "down": 1.0
+      },
+      {
+        "code": "BK1330",
+        "name": "模拟芯片设计",
+        "change_pct": 1.05,
+        "turnover": 10566252092.0,
+        "main_net": 125681648.0,
+        "main_pct": 1.19,
+        "up": 24.0,
+        "down": 11.0
+      },
+      {
+        "code": "BK1510",
+        "name": "其他养殖",
+        "change_pct": 1.05,
+        "turnover": 553576310.0,
+        "main_net": 12917405.0,
+        "main_pct": 2.33,
+        "up": 2.0,
+        "down": 1.0
+      },
+      {
+        "code": "BK1350",
+        "name": "其他纺织",
+        "change_pct": 1.05,
+        "turnover": 3992654287.0,
+        "main_net": -361028672.0,
+        "main_pct": -9.04,
+        "up": 7.0,
+        "down": 7.0
+      },
+      {
+        "code": "BK1016",
+        "name": "汽车服务",
+        "change_pct": 1.04,
+        "turnover": 1136254342.0,
+        "main_net": 28994877.0,
+        "main_pct": 2.55,
+        "up": 2.0,
+        "down": 7.0
+      },
+      {
+        "code": "BK1550",
+        "name": "贸易Ⅲ",
+        "change_pct": 1.04,
+        "turnover": 1761241964.0,
+        "main_net": -39120079.0,
+        "main_pct": -2.22,
+        "up": 7.0,
+        "down": 7.0
+      },
+      {
+        "code": "BK0484",
+        "name": "贸易Ⅱ",
+        "change_pct": 1.04,
+        "turnover": 1761241964.0,
+        "main_net": -39120079.0,
+        "main_pct": -2.22,
+        "up": 7.0,
+        "down": 7.0
+      },
+      {
+        "code": "BK1427",
+        "name": "民爆制品",
+        "change_pct": 1.03,
+        "turnover": 3255058338.0,
+        "main_net": 25424816.0,
+        "main_pct": 0.78,
+        "up": 5.0,
+        "down": 5.0
+      },
+      {
+        "code": "BK1571",
+        "name": "油品石化贸易",
+        "change_pct": 1.02,
+        "turnover": 738363079.0,
+        "main_net": 6924729.0,
+        "main_pct": 0.94,
+        "up": 3.0,
+        "down": 3.0
+      },
+      {
+        "code": "BK1339",
+        "name": "被动元件",
+        "change_pct": 1.02,
+        "turnover": 9421802045.0,
+        "main_net": 78338256.0,
+        "main_pct": 0.83,
+        "up": 15.0,
+        "down": 4.0
+      },
+      {
+        "code": "BK1599",
+        "name": "其他医疗服务",
+        "change_pct": 1.01,
+        "turnover": 822672613.0,
+        "main_net": 18670668.0,
+        "main_pct": 2.27,
+        "up": 4.0,
+        "down": 1.0
+      },
+      {
+        "code": "BK1211",
+        "name": "汽车",
+        "change_pct": 0.99,
+        "turnover": 58796606584.0,
+        "main_net": 1083540224.0,
+        "main_pct": 1.84,
+        "up": 200.0,
+        "down": 123.0
       },
       {
         "code": "BK1283",
         "name": "银行",
-        "change_pct": 0.99,
-        "turnover": 35435775254.0,
-        "main_net": 852760576.0,
-        "main_pct": 2.41,
+        "change_pct": 0.98,
+        "turnover": 30653558868.0,
+        "main_net": 978803712.0,
+        "main_pct": 3.19,
         "up": 37.0,
         "down": 3.0
       },
       {
         "code": "BK0475",
         "name": "银行Ⅱ",
-        "change_pct": 0.99,
-        "turnover": 35435775254.0,
-        "main_net": 852760576.0,
-        "main_pct": 2.41,
+        "change_pct": 0.98,
+        "turnover": 30653558868.0,
+        "main_net": 978803712.0,
+        "main_pct": 3.19,
         "up": 37.0,
         "down": 3.0
       },
       {
-        "code": "BK1466",
-        "name": "管材",
+        "code": "BK1331",
+        "name": "数字芯片设计",
+        "change_pct": 0.98,
+        "turnover": 76568224085.0,
+        "main_net": 1217379072.0,
+        "main_pct": 1.59,
+        "up": 32.0,
+        "down": 23.0
+      },
+      {
+        "code": "BK1455",
+        "name": "家电零部件Ⅲ",
+        "change_pct": 0.98,
+        "turnover": 7309868683.0,
+        "main_net": 154667744.0,
+        "main_pct": 2.12,
+        "up": 21.0,
+        "down": 14.0
+      },
+      {
+        "code": "BK1242",
+        "name": "家电零部件Ⅱ",
+        "change_pct": 0.98,
+        "turnover": 7309868683.0,
+        "main_net": 154667744.0,
+        "main_pct": 2.12,
+        "up": 21.0,
+        "down": 14.0
+      },
+      {
+        "code": "BK1215",
+        "name": "通信",
+        "change_pct": 0.97,
+        "turnover": 102426970839.0,
+        "main_net": 3246463232.0,
+        "main_pct": 3.17,
+        "up": 79.0,
+        "down": 53.0
+      },
+      {
+        "code": "BK0458",
+        "name": "仪器仪表",
         "change_pct": 0.95,
-        "turnover": 511199653.0,
-        "main_net": 28030068.0,
-        "main_pct": 5.48,
-        "up": 2.0,
-        "down": 5.0
+        "turnover": 12462691610.0,
+        "main_net": 259057696.0,
+        "main_pct": 2.08,
+        "up": 39.0,
+        "down": 25.0
       },
       {
-        "code": "BK1377",
-        "name": "火力发电",
+        "code": "BK1201",
+        "name": "电子",
         "change_pct": 0.91,
-        "turnover": 12243773893.0,
-        "main_net": 58742496.0,
-        "main_pct": 0.48,
-        "up": 22.0,
-        "down": 9.0
+        "turnover": 346055720266.0,
+        "main_net": 9338673920.0,
+        "main_pct": 2.7,
+        "up": 313.0,
+        "down": 196.0
       },
       {
-        "code": "BK1372",
-        "name": "冶钢辅料",
+        "code": "BK1337",
+        "name": "品牌消费电子",
         "change_pct": 0.9,
-        "turnover": 435153817.0,
-        "main_net": -5830667.0,
-        "main_pct": -1.34,
-        "up": 3.0,
+        "turnover": 4649049464.0,
+        "main_net": 41677856.0,
+        "main_pct": 0.9,
+        "up": 8.0,
+        "down": 3.0
+      },
+      {
+        "code": "BK1609",
+        "name": "城商行Ⅲ",
+        "change_pct": 0.87,
+        "turnover": 7525981175.0,
+        "main_net": 298881216.0,
+        "main_pct": 3.97,
+        "up": 15.0,
+        "down": 0.0
+      },
+      {
+        "code": "BK1483",
+        "name": "高速公路",
+        "change_pct": 0.87,
+        "turnover": 2079616698.0,
+        "main_net": 4040280.0,
+        "main_pct": 0.19,
+        "up": 12.0,
+        "down": 6.0
+      },
+      {
+        "code": "BK1288",
+        "name": "金属新材料",
+        "change_pct": 0.86,
+        "turnover": 6015923078.0,
+        "main_net": 89308467.0,
+        "main_pct": 1.48,
+        "up": 21.0,
+        "down": 13.0
+      }
+    ],
+    "by_change_down": [
+      {
+        "code": "BK1556",
+        "name": "教育运营及其他",
+        "change_pct": -6.67,
+        "turnover": 788960058.0,
+        "main_net": -107718446.0,
+        "main_pct": -13.65,
+        "up": 0.0,
+        "down": 2.0
+      },
+      {
+        "code": "BK1507",
+        "name": "宠物食品",
+        "change_pct": -3.48,
+        "turnover": 358370328.0,
+        "main_net": -31803333.0,
+        "main_pct": -8.87,
+        "up": 0.0,
+        "down": 4.0
+      },
+      {
+        "code": "BK1434",
+        "name": "钾肥",
+        "change_pct": -2.98,
+        "turnover": 2980013019.0,
+        "main_net": 20816768.0,
+        "main_pct": 0.7,
+        "up": 1.0,
+        "down": 3.0
+      },
+      {
+        "code": "BK1320",
+        "name": "逆变器",
+        "change_pct": -2.94,
+        "turnover": 12169231284.0,
+        "main_net": -1021310656.0,
+        "main_pct": -8.39,
+        "up": 0.0,
+        "down": 10.0
+      },
+      {
+        "code": "BK1621",
+        "name": "锂",
+        "change_pct": -2.93,
+        "turnover": 6358169968.0,
+        "main_net": -338436448.0,
+        "main_pct": -5.32,
+        "up": 0.0,
+        "down": 8.0
+      },
+      {
+        "code": "BK1606",
+        "name": "线下药店",
+        "change_pct": -2.83,
+        "turnover": 1864790082.0,
+        "main_net": -10094546.0,
+        "main_pct": -0.54,
+        "up": 0.0,
+        "down": 8.0
+      },
+      {
+        "code": "BK1318",
+        "name": "光伏主材",
+        "change_pct": -2.51,
+        "turnover": 2195384907.0,
+        "main_net": -219003908.0,
+        "main_pct": -9.98,
+        "up": 0.0,
+        "down": 2.0
+      },
+      {
+        "code": "BK1315",
+        "name": "光伏电池组件",
+        "change_pct": -2.5,
+        "turnover": 13099834147.0,
+        "main_net": 294634144.0,
+        "main_pct": 2.25,
+        "up": 1.0,
+        "down": 21.0
+      },
+      {
+        "code": "BK1496",
+        "name": "洗护用品",
+        "change_pct": -2.49,
+        "turnover": 240412150.0,
+        "main_net": -7789032.0,
+        "main_pct": -3.24,
+        "up": 0.0,
+        "down": 4.0
+      },
+      {
+        "code": "BK1015",
+        "name": "能源金属",
+        "change_pct": -2.27,
+        "turnover": 8200444606.0,
+        "main_net": -417859456.0,
+        "main_pct": -5.1,
+        "up": 0.0,
+        "down": 12.0
+      },
+      {
+        "code": "BK1031",
+        "name": "光伏设备",
+        "change_pct": -2.22,
+        "turnover": 41313604066.0,
+        "main_net": -1191034368.0,
+        "main_pct": -2.88,
+        "up": 5.0,
+        "down": 60.0
+      },
+      {
+        "code": "BK1412",
+        "name": "氨纶",
+        "change_pct": -2.19,
+        "turnover": 288240098.0,
+        "main_net": 15781999.0,
+        "main_pct": 5.48,
+        "up": 0.0,
         "down": 1.0
       },
       {
         "code": "BK1316",
         "name": "光伏辅材",
-        "change_pct": 0.86,
-        "turnover": 5630244468.0,
-        "main_net": 86999168.0,
-        "main_pct": 1.55,
-        "up": 6.0,
-        "down": 12.0
-      },
-      {
-        "code": "BK1515",
-        "name": "粮食种植",
-        "change_pct": 0.84,
-        "turnover": 461849148.0,
-        "main_net": 14652902.0,
-        "main_pct": 3.17,
+        "change_pct": -2.11,
+        "turnover": 5900940648.0,
+        "main_net": -247541392.0,
+        "main_pct": -4.19,
         "up": 2.0,
-        "down": 0.0
+        "down": 16.0
       },
       {
-        "code": "BK1373",
-        "name": "电能综合服务",
-        "change_pct": 0.84,
-        "turnover": 2302479438.0,
-        "main_net": 78228155.0,
-        "main_pct": 3.4,
-        "up": 9.0,
-        "down": 4.0
-      },
-      {
-        "code": "BK0428",
-        "name": "电力",
-        "change_pct": 0.76,
-        "turnover": 34926896919.0,
-        "main_net": 940243216.0,
-        "main_pct": 2.69,
-        "up": 60.0,
-        "down": 39.0
-      },
-      {
-        "code": "BK1253",
-        "name": "医疗美容",
-        "change_pct": 0.75,
-        "turnover": 952831749.0,
-        "main_net": -385850.0,
-        "main_pct": -0.04,
-        "up": 3.0,
-        "down": 2.0
-      },
-      {
-        "code": "BK1375",
-        "name": "光伏发电",
-        "change_pct": 0.73,
-        "turnover": 3980583158.0,
-        "main_net": 86612560.0,
-        "main_pct": 2.18,
-        "up": 5.0,
-        "down": 7.0
-      },
-      {
-        "code": "BK1610",
-        "name": "股份制银行Ⅲ",
-        "change_pct": 0.73,
-        "turnover": 10819877353.0,
-        "main_net": -70069760.0,
-        "main_pct": -0.65,
-        "up": 7.0,
-        "down": 2.0
-      },
-      {
-        "code": "BK0421",
-        "name": "铁路公路",
-        "change_pct": 0.7,
-        "turnover": 5831669566.0,
-        "main_net": 480785328.0,
-        "main_pct": 8.24,
-        "up": 22.0,
-        "down": 9.0
-      },
-      {
-        "code": "BK1300",
-        "name": "院线",
-        "change_pct": 0.66,
-        "turnover": 1166955454.0,
-        "main_net": -12869100.0,
-        "main_pct": -1.1,
-        "up": 1.0,
+        "code": "BK1319",
+        "name": "硅料硅片",
+        "change_pct": -2.09,
+        "turnover": 840447213.0,
+        "main_net": 8210025.0,
+        "main_pct": 0.98,
+        "up": 0.0,
         "down": 3.0
       },
       {
-        "code": "BK1376",
-        "name": "核力发电",
-        "change_pct": 0.65,
-        "turnover": 1640959697.0,
-        "main_net": 39504312.0,
-        "main_pct": 2.41,
-        "up": 2.0,
-        "down": 1.0
-      },
-      {
-        "code": "BK0427",
-        "name": "公用事业",
-        "change_pct": 0.55,
-        "turnover": 37705432412.0,
-        "main_net": 959415840.0,
-        "main_pct": 2.54,
-        "up": 73.0,
-        "down": 53.0
-      },
-      {
-        "code": "BK1450",
-        "name": "空调",
-        "change_pct": 0.54,
-        "turnover": 4345471969.0,
-        "main_net": -298276192.0,
-        "main_pct": -6.86,
-        "up": 3.0,
-        "down": 1.0
-      },
-      {
-        "code": "BK0433",
-        "name": "农林牧渔",
-        "change_pct": 0.45,
-        "turnover": 27007236935.0,
-        "main_net": 217688720.0,
-        "main_pct": 0.81,
-        "up": 43.0,
-        "down": 65.0
-      },
-      {
-        "code": "BK1412",
-        "name": "氨纶",
-        "change_pct": 0.42,
-        "turnover": 411440502.0,
-        "main_net": -22445364.0,
-        "main_pct": -5.46,
-        "up": 1.0,
-        "down": 0.0
-      },
-      {
-        "code": "BK1259",
-        "name": "养殖业",
-        "change_pct": 0.4,
-        "turnover": 6187704884.0,
-        "main_net": -105658064.0,
-        "main_pct": -1.71,
-        "up": 7.0,
-        "down": 15.0
-      },
-      {
-        "code": "BK1508",
-        "name": "畜禽饲料",
-        "change_pct": 0.39,
-        "turnover": 956581449.0,
-        "main_net": 2634079.0,
-        "main_pct": 0.28,
-        "up": 3.0,
-        "down": 5.0
-      },
-      {
-        "code": "BK1504",
-        "name": "粮油加工",
-        "change_pct": 0.36,
-        "turnover": 3386306286.0,
-        "main_net": 47344112.0,
-        "main_pct": 1.4,
-        "up": 3.0,
-        "down": 5.0
+        "code": "BK1568",
+        "name": "人力资源服务",
+        "change_pct": -2.02,
+        "turnover": 158245282.0,
+        "main_net": -9851413.0,
+        "main_pct": -6.23,
+        "up": 0.0,
+        "down": 3.0
       },
       {
         "code": "BK1365",
         "name": "租赁",
-        "change_pct": 0.3,
-        "turnover": 625285401.0,
-        "main_net": -48269944.0,
-        "main_pct": -7.72,
-        "up": 1.0,
-        "down": 1.0
+        "change_pct": -1.99,
+        "turnover": 778233417.0,
+        "main_net": -99024209.0,
+        "main_pct": -12.72,
+        "up": 0.0,
+        "down": 3.0
       },
       {
-        "code": "BK1512",
-        "name": "生猪养殖",
-        "change_pct": 0.24,
-        "turnover": 4790896470.0,
-        "main_net": -107925264.0,
-        "main_pct": -2.25,
-        "up": 5.0,
-        "down": 6.0
-      },
-      {
-        "code": "BK1292",
-        "name": "广告媒体",
-        "change_pct": 0.22,
-        "turnover": 1082698350.0,
-        "main_net": -611004.0,
-        "main_pct": -0.06,
-        "up": 2.0,
+        "code": "BK1342",
+        "name": "房地产综合服务",
+        "change_pct": -1.9,
+        "turnover": 42888468.0,
+        "main_net": 1088944.0,
+        "main_pct": 2.54,
+        "up": 0.0,
         "down": 1.0
       },
       {
         "code": "BK1517",
         "name": "食用菌",
-        "change_pct": 0.2,
-        "turnover": 477936743.0,
-        "main_net": 17523056.0,
-        "main_pct": 3.67,
-        "up": 1.0,
-        "down": 3.0
-      },
-      {
-        "code": "BK1491",
-        "name": "端到端供应链服务",
-        "change_pct": 0.17,
-        "turnover": 870187776.0,
-        "main_net": 108070304.0,
-        "main_pct": 12.42,
-        "up": 1.0,
-        "down": 6.0
-      },
-      {
-        "code": "BK1484",
-        "name": "公交",
-        "change_pct": 0.12,
-        "turnover": 486411202.0,
-        "main_net": 31120326.0,
-        "main_pct": 6.4,
-        "up": 3.0,
+        "change_pct": -1.81,
+        "turnover": 333336164.0,
+        "main_net": -9428027.0,
+        "main_pct": -2.83,
+        "up": 0.0,
         "down": 4.0
       },
       {
-        "code": "BK1256",
-        "name": "农产品加工",
-        "change_pct": 0.09,
-        "turnover": 7548184661.0,
-        "main_net": -43086832.0,
-        "main_pct": -0.57,
-        "up": 8.0,
-        "down": 18.0
-      },
-      {
-        "code": "BK1568",
-        "name": "人力资源服务",
-        "change_pct": 0.08,
-        "turnover": 255261347.0,
-        "main_net": -4029302.0,
-        "main_pct": -1.58,
-        "up": 1.0,
-        "down": 2.0
-      },
-      {
-        "code": "BK1258",
-        "name": "饲料",
-        "change_pct": 0.01,
-        "turnover": 2952468355.0,
-        "main_net": 161774038.0,
-        "main_pct": 5.48,
-        "up": 7.0,
-        "down": 9.0
-      },
-      {
-        "code": "BK1481",
-        "name": "港口",
-        "change_pct": 0.01,
-        "turnover": 2097187007.0,
-        "main_net": 45785630.0,
-        "main_pct": 2.18,
-        "up": 8.0,
-        "down": 6.0
-      },
-      {
-        "code": "BK1350",
-        "name": "其他纺织",
-        "change_pct": -0.02,
-        "turnover": 2380507850.0,
-        "main_net": 149162656.0,
-        "main_pct": 6.27,
-        "up": 4.0,
-        "down": 11.0
-      },
-      {
-        "code": "BK1505",
-        "name": "其他农产品加工",
-        "change_pct": -0.02,
-        "turnover": 3826729819.0,
-        "main_net": -80560544.0,
-        "main_pct": -2.11,
+        "code": "BK1302",
+        "name": "电池化学品",
+        "change_pct": -1.8,
+        "turnover": 15059321642.0,
+        "main_net": -962923088.0,
+        "main_pct": -6.39,
         "up": 3.0,
-        "down": 10.0
+        "down": 42.0
       },
       {
-        "code": "BK1240",
-        "name": "厨卫电器",
-        "change_pct": -0.03,
-        "turnover": 1001427549.0,
-        "main_net": 164690980.0,
-        "main_pct": 16.45,
-        "up": 3.0,
+        "code": "BK1515",
+        "name": "粮食种植",
+        "change_pct": -1.74,
+        "turnover": 304703847.0,
+        "main_net": 3743115.0,
+        "main_pct": 1.23,
+        "up": 0.0,
+        "down": 2.0
+      },
+      {
+        "code": "BK1292",
+        "name": "广告媒体",
+        "change_pct": -1.57,
+        "turnover": 1226062295.0,
+        "main_net": 45158508.0,
+        "main_pct": 3.68,
+        "up": 0.0,
+        "down": 2.0
+      },
+      {
+        "code": "BK1421",
+        "name": "钛白粉",
+        "change_pct": -1.56,
+        "turnover": 565425626.0,
+        "main_net": -57198710.0,
+        "main_pct": -10.12,
+        "up": 0.0,
         "down": 6.0
       },
       {
-        "code": "BK1467",
-        "name": "耐火材料",
-        "change_pct": -0.06,
-        "turnover": 852535992.0,
-        "main_net": -31309855.0,
-        "main_pct": -3.67,
-        "up": 1.0,
-        "down": 7.0
-      },
-      {
-        "code": "BK1507",
-        "name": "宠物食品",
-        "change_pct": -0.06,
-        "turnover": 355155875.0,
-        "main_net": -8184708.0,
-        "main_pct": -2.3,
-        "up": 2.0,
-        "down": 2.0
-      },
-      {
-        "code": "BK1503",
-        "name": "果蔬加工",
-        "change_pct": -0.09,
-        "turnover": 335148556.0,
-        "main_net": -9870373.0,
-        "main_pct": -2.95,
-        "up": 2.0,
-        "down": 3.0
-      },
-      {
-        "code": "BK1485",
-        "name": "铁路运输",
-        "change_pct": -0.17,
-        "turnover": 2600632385.0,
-        "main_net": 50861152.0,
-        "main_pct": 1.96,
-        "up": 4.0,
-        "down": 2.0
-      },
-      {
-        "code": "BK1514",
-        "name": "水产养殖",
-        "change_pct": -0.19,
-        "turnover": 369800482.0,
-        "main_net": -9013264.0,
-        "main_pct": -2.44,
-        "up": 1.0,
-        "down": 2.0
-      },
-      {
-        "code": "BK1381",
-        "name": "燃气Ⅲ",
-        "change_pct": -0.23,
-        "turnover": 2778535492.0,
-        "main_net": 19172497.0,
-        "main_pct": 0.69,
-        "up": 13.0,
-        "down": 14.0
-      },
-      {
-        "code": "BK1028",
-        "name": "燃气Ⅱ",
-        "change_pct": -0.23,
-        "turnover": 2778535492.0,
-        "main_net": 19172497.0,
-        "main_pct": 0.69,
-        "up": 13.0,
-        "down": 14.0
-      },
-      {
-        "code": "BK1433",
-        "name": "复合肥",
-        "change_pct": -0.26,
-        "turnover": 979236290.0,
-        "main_net": -17997541.0,
-        "main_pct": -1.84,
-        "up": 4.0,
+        "code": "BK1597",
+        "name": "血液制品",
+        "change_pct": -1.53,
+        "turnover": 503976657.0,
+        "main_net": -12112192.0,
+        "main_pct": -2.4,
+        "up": 0.0,
         "down": 6.0
       },
       {
-        "code": "BK1363",
-        "name": "信托",
-        "change_pct": -0.29,
-        "turnover": 291105310.0,
-        "main_net": -4316567.0,
-        "main_pct": -1.48,
-        "up": 1.0,
-        "down": 2.0
-      },
-      {
-        "code": "BK1460",
-        "name": "照明设备Ⅲ",
-        "change_pct": -0.29,
-        "turnover": 3385770895.0,
-        "main_net": 78323616.0,
-        "main_pct": 2.31,
-        "up": 4.0,
-        "down": 9.0
-      },
-      {
-        "code": "BK1245",
-        "name": "照明设备Ⅱ",
-        "change_pct": -0.29,
-        "turnover": 3385770895.0,
-        "main_net": 78323616.0,
-        "main_pct": 2.31,
-        "up": 4.0,
-        "down": 9.0
-      },
-      {
-        "code": "BK1260",
-        "name": "渔业",
-        "change_pct": -0.31,
-        "turnover": 531682058.0,
-        "main_net": -4566603.0,
-        "main_pct": -0.86,
-        "up": 1.0,
-        "down": 4.0
-      },
-      {
-        "code": "BK1476",
-        "name": "化学工程",
-        "change_pct": -0.33,
-        "turnover": 486480279.0,
-        "main_net": -15419740.0,
-        "main_pct": -3.17,
+        "code": "BK1227",
+        "name": "特钢Ⅱ",
+        "change_pct": -1.52,
+        "turnover": 1269926344.0,
+        "main_net": -22020733.0,
+        "main_pct": -1.73,
         "up": 2.0,
-        "down": 4.0
+        "down": 9.0
       },
       {
-        "code": "BK1031",
-        "name": "光伏设备",
-        "change_pct": -0.34,
-        "turnover": 50131658554.0,
-        "main_net": -756841216.0,
-        "main_pct": -1.51,
-        "up": 18.0,
-        "down": 49.0
+        "code": "BK1370",
+        "name": "特钢Ⅲ",
+        "change_pct": -1.52,
+        "turnover": 1269926344.0,
+        "main_net": -22020733.0,
+        "main_pct": -1.73,
+        "up": 2.0,
+        "down": 9.0
       },
       {
-        "code": "BK1368",
-        "name": "钢铁管材",
-        "change_pct": -0.34,
-        "turnover": 166391808.0,
-        "main_net": -5435579.0,
-        "main_pct": -3.27,
+        "code": "BK1269",
+        "name": "旅游零售Ⅱ",
+        "change_pct": -1.46,
+        "turnover": 804896347.0,
+        "main_net": -85615246.0,
+        "main_pct": -10.64,
         "up": 0.0,
         "down": 2.0
       },
       {
         "code": "BK1549",
         "name": "旅游零售Ⅲ",
-        "change_pct": -0.34,
-        "turnover": 1161218301.0,
-        "main_net": -21189187.0,
-        "main_pct": -1.82,
+        "change_pct": -1.46,
+        "turnover": 804896347.0,
+        "main_net": -85615246.0,
+        "main_pct": -10.64,
         "up": 0.0,
         "down": 2.0
       },
       {
-        "code": "BK1269",
-        "name": "旅游零售Ⅱ",
-        "change_pct": -0.34,
-        "turnover": 1161218301.0,
-        "main_net": -21189187.0,
-        "main_pct": -1.82,
+        "code": "BK1499",
+        "name": "医美服务",
+        "change_pct": -1.42,
+        "turnover": 185777289.0,
+        "main_net": -16621763.0,
+        "main_pct": -8.95,
         "up": 0.0,
         "down": 2.0
       },
       {
-        "code": "BK1573",
-        "name": "油田服务",
-        "change_pct": -0.36,
-        "turnover": 1176881728.0,
-        "main_net": -29935679.0,
-        "main_pct": -2.54,
+        "code": "BK0740",
+        "name": "教育",
+        "change_pct": -1.42,
+        "turnover": 2569345510.0,
+        "main_net": -71102036.0,
+        "main_pct": -2.77,
+        "up": 4.0,
+        "down": 12.0
+      },
+      {
+        "code": "BK1308",
+        "name": "电工仪器仪表",
+        "change_pct": -1.41,
+        "turnover": 1443465262.0,
+        "main_net": 1251809.0,
+        "main_pct": 0.09,
         "up": 2.0,
-        "down": 6.0
+        "down": 12.0
       },
       {
-        "code": "BK1496",
-        "name": "洗护用品",
-        "change_pct": -0.38,
-        "turnover": 223793770.0,
-        "main_net": 1169322.0,
-        "main_pct": 0.52,
-        "up": 1.0,
+        "code": "BK1465",
+        "name": "防水材料",
+        "change_pct": -1.38,
+        "turnover": 510470508.0,
+        "main_net": -37911894.0,
+        "main_pct": -7.43,
+        "up": 0.0,
         "down": 3.0
+      },
+      {
+        "code": "BK1435",
+        "name": "磷肥及磷化工",
+        "change_pct": -1.37,
+        "turnover": 1692849252.0,
+        "main_net": -98798577.0,
+        "main_pct": -5.84,
+        "up": 0.0,
+        "down": 9.0
+      },
+      {
+        "code": "BK1290",
+        "name": "教育出版",
+        "change_pct": -1.36,
+        "turnover": 2474380402.0,
+        "main_net": -118244106.0,
+        "main_pct": -4.78,
+        "up": 2.0,
+        "down": 8.0
+      },
+      {
+        "code": "BK1433",
+        "name": "复合肥",
+        "change_pct": -1.36,
+        "turnover": 808477078.0,
+        "main_net": 5797760.0,
+        "main_pct": 0.72,
+        "up": 1.0,
+        "down": 9.0
+      },
+      {
+        "code": "BK1345",
+        "name": "商业地产",
+        "change_pct": -1.35,
+        "turnover": 1242456643.0,
+        "main_net": -107580685.0,
+        "main_pct": -8.66,
+        "up": 2.0,
+        "down": 9.0
+      },
+      {
+        "code": "BK1251",
+        "name": "个护用品",
+        "change_pct": -1.34,
+        "turnover": 1620209300.0,
+        "main_net": 302614051.0,
+        "main_pct": 18.68,
+        "up": 2.0,
+        "down": 11.0
       },
       {
         "code": "BK1577",
         "name": "啤酒",
-        "change_pct": -0.39,
-        "turnover": 834546541.0,
-        "main_net": -13794862.0,
-        "main_pct": -1.65,
+        "change_pct": -1.33,
+        "turnover": 802397289.0,
+        "main_net": -24984941.0,
+        "main_pct": -3.11,
+        "up": 1.0,
+        "down": 6.0
+      },
+      {
+        "code": "BK1587",
+        "name": "电信运营商",
+        "change_pct": -1.32,
+        "turnover": 2228650844.0,
+        "main_net": -68944107.0,
+        "main_pct": -3.09,
+        "up": 0.0,
+        "down": 3.0
+      },
+      {
+        "code": "BK1466",
+        "name": "管材",
+        "change_pct": -1.32,
+        "turnover": 427690583.0,
+        "main_net": 16657047.0,
+        "main_pct": 3.89,
         "up": 2.0,
         "down": 5.0
       },
       {
-        "code": "BK1480",
-        "name": "机场",
-        "change_pct": -0.39,
-        "turnover": 660300273.0,
-        "main_net": -9488379.0,
-        "main_pct": -1.44,
-        "up": 1.0,
-        "down": 3.0
-      },
-      {
-        "code": "BK1606",
-        "name": "线下药店",
-        "change_pct": -0.4,
-        "turnover": 1290496473.0,
-        "main_net": -13049965.0,
-        "main_pct": -1.01,
-        "up": 3.0,
+        "code": "BK1409",
+        "name": "激光设备",
+        "change_pct": -1.31,
+        "turnover": 7594285800.0,
+        "main_net": -34573808.0,
+        "main_pct": -0.46,
+        "up": 8.0,
         "down": 4.0
       },
       {
-        "code": "BK1493",
-        "name": "动力煤",
-        "change_pct": -0.4,
-        "turnover": 7197216585.0,
-        "main_net": 111389984.0,
-        "main_pct": 1.55,
-        "up": 5.0,
+        "code": "BK1560",
+        "name": "酒店",
+        "change_pct": -1.3,
+        "turnover": 797374467.0,
+        "main_net": -27640736.0,
+        "main_pct": -3.47,
+        "up": 0.0,
+        "down": 6.0
+      },
+      {
+        "code": "BK1418",
+        "name": "氯碱",
+        "change_pct": -1.29,
+        "turnover": 1855884142.0,
+        "main_net": -84756787.0,
+        "main_pct": -4.57,
+        "up": 1.0,
+        "down": 13.0
+      },
+      {
+        "code": "BK1588",
+        "name": "通信工程及服务",
+        "change_pct": -1.26,
+        "turnover": 4914929687.0,
+        "main_net": -312071616.0,
+        "main_pct": -6.35,
+        "up": 6.0,
         "down": 12.0
       },
       {
-        "code": "BK1389",
-        "name": "固废治理",
-        "change_pct": -0.41,
-        "turnover": 3739632553.0,
-        "main_net": -16226907.0,
-        "main_pct": -0.43,
-        "up": 11.0,
-        "down": 23.0
+        "code": "BK1429",
+        "name": "食品及饲料添加剂",
+        "change_pct": -1.25,
+        "turnover": 2346081259.0,
+        "main_net": -66877928.0,
+        "main_pct": -2.85,
+        "up": 4.0,
+        "down": 20.0
       },
       {
-        "code": "BK1511",
-        "name": "肉鸡养殖",
-        "change_pct": -0.41,
-        "turnover": 892472790.0,
-        "main_net": -27791593.0,
-        "main_pct": -3.11,
-        "up": 1.0,
-        "down": 7.0
-      },
-      {
-        "code": "BK1379",
-        "name": "热力服务",
-        "change_pct": -0.42,
-        "turnover": 2576821564.0,
-        "main_net": 21637082.0,
-        "main_pct": 0.84,
-        "up": 5.0,
+        "code": "BK1464",
+        "name": "水泥制造",
+        "change_pct": -1.24,
+        "turnover": 2100002486.0,
+        "main_net": 45009806.0,
+        "main_pct": 2.14,
+        "up": 4.0,
         "down": 10.0
+      },
+      {
+        "code": "BK1297",
+        "name": "图片媒体",
+        "change_pct": -1.23,
+        "turnover": 384163427.0,
+        "main_net": -7809715.0,
+        "main_pct": -2.03,
+        "up": 0.0,
+        "down": 1.0
       },
       {
         "code": "BK1531",
         "name": "商用载客车",
-        "change_pct": -0.44,
-        "turnover": 968363037.0,
-        "main_net": 48972853.0,
-        "main_pct": 5.06,
+        "change_pct": -1.21,
+        "turnover": 729198785.0,
+        "main_net": 44779495.0,
+        "main_pct": 6.14,
         "up": 1.0,
         "down": 4.0
       },
       {
-        "code": "BK1513",
-        "name": "海洋捕捞",
-        "change_pct": -0.46,
-        "turnover": 161881576.0,
-        "main_net": 4446661.0,
-        "main_pct": 2.75,
+        "code": "BK1393",
+        "name": "工程机械整机",
+        "change_pct": -1.2,
+        "turnover": 5387482580.0,
+        "main_net": -280147024.0,
+        "main_pct": -5.2,
+        "up": 6.0,
+        "down": 16.0
+      },
+      {
+        "code": "BK1521",
+        "name": "摩托车",
+        "change_pct": -1.19,
+        "turnover": 1539121164.0,
+        "main_net": -17543118.0,
+        "main_pct": -1.14,
+        "up": 3.0,
+        "down": 6.0
+      },
+      {
+        "code": "BK1348",
+        "name": "辅料",
+        "change_pct": -1.19,
+        "turnover": 270620955.0,
+        "main_net": 12071241.0,
+        "main_pct": 4.46,
+        "up": 1.0,
+        "down": 3.0
+      },
+      {
+        "code": "BK1511",
+        "name": "肉鸡养殖",
+        "change_pct": -1.19,
+        "turnover": 737579298.0,
+        "main_net": -22572739.0,
+        "main_pct": -3.06,
+        "up": 1.0,
+        "down": 7.0
+      },
+      {
+        "code": "BK1598",
+        "name": "疫苗",
+        "change_pct": -1.18,
+        "turnover": 2047874449.0,
+        "main_net": -111604871.0,
+        "main_pct": -5.45,
+        "up": 1.0,
+        "down": 12.0
+      },
+      {
+        "code": "BK1450",
+        "name": "空调",
+        "change_pct": -1.18,
+        "turnover": 3128717056.0,
+        "main_net": 307271776.0,
+        "main_pct": 9.82,
+        "up": 2.0,
+        "down": 2.0
+      },
+      {
+        "code": "BK1317",
+        "name": "光伏加工设备",
+        "change_pct": -1.18,
+        "turnover": 7107765866.0,
+        "main_net": -6022288.0,
+        "main_pct": -0.08,
+        "up": 2.0,
+        "down": 8.0
+      },
+      {
+        "code": "BK1543",
+        "name": "娱乐用品",
+        "change_pct": -1.14,
+        "turnover": 1468266322.0,
+        "main_net": -13059159.0,
+        "main_pct": -0.89,
+        "up": 3.0,
+        "down": 12.0
+      },
+      {
+        "code": "BK1486",
+        "name": "仓储物流",
+        "change_pct": -1.13,
+        "turnover": 342790148.0,
+        "main_net": 17090339.0,
+        "main_pct": 4.99,
+        "up": 1.0,
+        "down": 5.0
+      },
+      {
+        "code": "BK0731",
+        "name": "农化制品",
+        "change_pct": -1.12,
+        "turnover": 9188591012.0,
+        "main_net": -203823984.0,
+        "main_pct": -2.22,
+        "up": 7.0,
+        "down": 55.0
+      },
+      {
+        "code": "BK1273",
+        "name": "体育Ⅱ",
+        "change_pct": -1.12,
+        "turnover": 182430801.0,
+        "main_net": -283783.0,
+        "main_pct": -0.16,
+        "up": 0.0,
+        "down": 3.0
+      },
+      {
+        "code": "BK1564",
+        "name": "体育Ⅲ",
+        "change_pct": -1.12,
+        "turnover": 182430801.0,
+        "main_net": -283783.0,
+        "main_pct": -0.16,
+        "up": 0.0,
+        "down": 3.0
+      },
+      {
+        "code": "BK1546",
+        "name": "电商服务",
+        "change_pct": -1.12,
+        "turnover": 893595335.0,
+        "main_net": -14621481.0,
+        "main_pct": -1.64,
+        "up": 1.0,
+        "down": 7.0
+      },
+      {
+        "code": "BK1271",
+        "name": "酒店餐饮",
+        "change_pct": -1.11,
+        "turnover": 924038736.0,
+        "main_net": -24467389.0,
+        "main_pct": -2.65,
+        "up": 0.0,
+        "down": 9.0
+      },
+      {
+        "code": "BK1442",
+        "name": "炭黑",
+        "change_pct": -1.11,
+        "turnover": 188567260.0,
+        "main_net": 3472364.0,
+        "main_pct": 1.84,
+        "up": 0.0,
+        "down": 5.0
+      },
+      {
+        "code": "BK1347",
+        "name": "纺织鞋类制造",
+        "change_pct": -1.11,
+        "turnover": 128380011.0,
+        "main_net": -4515908.0,
+        "main_pct": -3.52,
+        "up": 0.0,
+        "down": 1.0
+      },
+      {
+        "code": "BK1426",
+        "name": "聚氨酯",
+        "change_pct": -1.08,
+        "turnover": 1367925164.0,
+        "main_net": -15364598.0,
+        "main_pct": -1.12,
+        "up": 0.0,
+        "down": 9.0
+      },
+      {
+        "code": "BK1042",
+        "name": "医药商业",
+        "change_pct": -1.07,
+        "turnover": 4180931032.0,
+        "main_net": -61951424.0,
+        "main_pct": -1.48,
+        "up": 6.0,
+        "down": 25.0
+      },
+      {
+        "code": "BK1033",
+        "name": "电池",
+        "change_pct": -1.06,
+        "turnover": 47447589204.0,
+        "main_net": -2653810912.0,
+        "main_pct": -5.59,
+        "up": 21.0,
+        "down": 85.0
+      },
+      {
+        "code": "BK1329",
+        "name": "集成电路制造",
+        "change_pct": -1.03,
+        "turnover": 10153784485.0,
+        "main_net": -119150976.0,
+        "main_pct": -1.17,
+        "up": 2.0,
+        "down": 6.0
+      },
+      {
+        "code": "BK1620",
+        "name": "钴",
+        "change_pct": -1.02,
+        "turnover": 231032872.0,
+        "main_net": 187896.0,
+        "main_pct": 0.08,
         "up": 0.0,
         "down": 2.0
       },
       {
-        "code": "BK1580",
-        "name": "肉制品",
-        "change_pct": -0.46,
-        "turnover": 768999313.0,
-        "main_net": -15042890.0,
-        "main_pct": -1.96,
+        "code": "BK1321",
+        "name": "火电设备",
+        "change_pct": -1.02,
+        "turnover": 201016280.0,
+        "main_net": -1823130.0,
+        "main_pct": -0.91,
+        "up": 0.0,
+        "down": 4.0
+      },
+      {
+        "code": "BK1614",
+        "name": "铅锌",
+        "change_pct": -1.02,
+        "turnover": 1733490654.0,
+        "main_net": -67022180.0,
+        "main_pct": -3.87,
+        "up": 0.0,
+        "down": 11.0
+      },
+      {
+        "code": "BK1220",
+        "name": "广告营销",
+        "change_pct": -1.01,
+        "turnover": 19023636720.0,
+        "main_net": -466578176.0,
+        "main_pct": -2.45,
+        "up": 3.0,
+        "down": 24.0
+      },
+      {
+        "code": "BK1572",
+        "name": "油气及炼化工程",
+        "change_pct": -0.99,
+        "turnover": 1209332590.0,
+        "main_net": -50027168.0,
+        "main_pct": -4.14,
+        "up": 1.0,
+        "down": 5.0
+      },
+      {
+        "code": "BK1448",
+        "name": "横向通用软件",
+        "change_pct": -0.98,
+        "turnover": 10615625623.0,
+        "main_net": 92870128.0,
+        "main_pct": 0.87,
+        "up": 4.0,
+        "down": 30.0
+      },
+      {
+        "code": "BK1561",
+        "name": "旅游综合",
+        "change_pct": -0.97,
+        "turnover": 495228907.0,
+        "main_net": -14705426.0,
+        "main_pct": -2.97,
+        "up": 1.0,
+        "down": 8.0
+      },
+      {
+        "code": "BK1314",
+        "name": "风电整机",
+        "change_pct": -0.96,
+        "turnover": 2406356837.0,
+        "main_net": -42189930.0,
+        "main_pct": -1.75,
+        "up": 2.0,
+        "down": 3.0
+      },
+      {
+        "code": "BK1266",
+        "name": "文娱用品",
+        "change_pct": -0.95,
+        "turnover": 1969554070.0,
+        "main_net": -23158668.0,
+        "main_pct": -1.18,
+        "up": 4.0,
+        "down": 15.0
+      },
+      {
+        "code": "BK1293",
+        "name": "营销代理",
+        "change_pct": -0.95,
+        "turnover": 17797574424.0,
+        "main_net": -511736528.0,
+        "main_pct": -2.88,
+        "up": 3.0,
+        "down": 22.0
+      },
+      {
+        "code": "BK1540",
+        "name": "其他家居用品",
+        "change_pct": -0.95,
+        "turnover": 1540960133.0,
+        "main_net": -3064800.0,
+        "main_pct": -0.2,
+        "up": 6.0,
+        "down": 18.0
+      },
+      {
+        "code": "BK1623",
+        "name": "钼",
+        "change_pct": -0.94,
+        "turnover": 695582928.0,
+        "main_net": 30252687.0,
+        "main_pct": 4.35,
+        "up": 1.0,
+        "down": 2.0
+      },
+      {
+        "code": "BK1537",
+        "name": "成品家居",
+        "change_pct": -0.93,
+        "turnover": 1406463837.0,
+        "main_net": 16484688.0,
+        "main_pct": 1.17,
+        "up": 2.0,
+        "down": 15.0
+      },
+      {
+        "code": "BK1424",
+        "name": "氟化工",
+        "change_pct": -0.93,
+        "turnover": 2877161709.0,
+        "main_net": -213607922.0,
+        "main_pct": -7.42,
+        "up": 1.0,
+        "down": 8.0
+      },
+      {
+        "code": "BK1432",
+        "name": "氮肥",
+        "change_pct": -0.92,
+        "turnover": 658552204.0,
+        "main_net": -10021700.0,
+        "main_pct": -1.52,
+        "up": 1.0,
+        "down": 5.0
+      },
+      {
+        "code": "BK1489",
+        "name": "快递",
+        "change_pct": -0.91,
+        "turnover": 1081638217.0,
+        "main_net": -64171680.0,
+        "main_pct": -5.93,
+        "up": 1.0,
+        "down": 3.0
+      },
+      {
+        "code": "BK1548",
+        "name": "综合电商",
+        "change_pct": -0.91,
+        "turnover": 136086652.0,
+        "main_net": -10280099.0,
+        "main_pct": -7.55,
+        "up": 0.0,
+        "down": 2.0
+      },
+      {
+        "code": "BK1035",
+        "name": "美容护理",
+        "change_pct": -0.89,
+        "turnover": 3471105127.0,
+        "main_net": 273289982.0,
+        "main_pct": 7.87,
+        "up": 8.0,
+        "down": 25.0
+      },
+      {
+        "code": "BK1270",
+        "name": "专业连锁Ⅱ",
+        "change_pct": -0.89,
+        "turnover": 687147056.0,
+        "main_net": -21438137.0,
+        "main_pct": -3.12,
         "up": 3.0,
         "down": 4.0
       },
       {
-        "code": "BK1239",
-        "name": "白色家电",
-        "change_pct": -0.47,
-        "turnover": 5624100762.0,
-        "main_net": -284807328.0,
-        "main_pct": -5.06,
-        "up": 4.0,
-        "down": 7.0
-      },
-      {
-        "code": "BK1224",
-        "name": "纺织制造",
-        "change_pct": -0.47,
-        "turnover": 3990658469.0,
-        "main_net": 106862880.0,
-        "main_pct": 2.68,
-        "up": 9.0,
-        "down": 24.0
-      },
-      {
-        "code": "BK1291",
-        "name": "电视广播Ⅲ",
-        "change_pct": -0.48,
-        "turnover": 4505800038.0,
-        "main_net": -158646608.0,
-        "main_pct": -3.52,
-        "up": 4.0,
-        "down": 8.0
-      },
-      {
-        "code": "BK1219",
-        "name": "电视广播Ⅱ",
-        "change_pct": -0.48,
-        "turnover": 4505800038.0,
-        "main_net": -158646608.0,
-        "main_pct": -3.52,
-        "up": 4.0,
-        "down": 8.0
-      },
-      {
-        "code": "BK1358",
-        "name": "保险Ⅲ",
-        "change_pct": -0.48,
-        "turnover": 5429048343.0,
-        "main_net": -94620752.0,
-        "main_pct": -1.74,
-        "up": 1.0,
+        "code": "BK1555",
+        "name": "专业连锁Ⅲ",
+        "change_pct": -0.89,
+        "turnover": 687147056.0,
+        "main_net": -21438137.0,
+        "main_pct": -3.12,
+        "up": 3.0,
         "down": 4.0
       },
       {
-        "code": "BK0474",
-        "name": "保险Ⅱ",
-        "change_pct": -0.48,
-        "turnover": 5429048343.0,
-        "main_net": -94620752.0,
-        "main_pct": -1.74,
-        "up": 1.0,
-        "down": 4.0
+        "code": "BK1275",
+        "name": "油服工程",
+        "change_pct": -0.89,
+        "turnover": 2342287892.0,
+        "main_net": -146525079.0,
+        "main_pct": -6.26,
+        "up": 4.0,
+        "down": 10.0
       },
       {
-        "code": "BK1550",
-        "name": "贸易Ⅲ",
-        "change_pct": -0.49,
-        "turnover": 1593123853.0,
-        "main_net": 11656772.0,
-        "main_pct": 0.73,
-        "up": 2.0,
-        "down": 12.0
+        "code": "BK1264",
+        "name": "商用车",
+        "change_pct": -0.89,
+        "turnover": 2851852776.0,
+        "main_net": 55828345.0,
+        "main_pct": 1.96,
+        "up": 4.0,
+        "down": 9.0
       },
       {
-        "code": "BK0484",
-        "name": "贸易Ⅱ",
-        "change_pct": -0.49,
-        "turnover": 1593123853.0,
-        "main_net": 11656772.0,
-        "main_pct": 0.73,
-        "up": 2.0,
-        "down": 12.0
+        "code": "BK1479",
+        "name": "航空运输",
+        "change_pct": -0.89,
+        "turnover": 2089837258.0,
+        "main_net": -117404215.0,
+        "main_pct": -5.62,
+        "up": 0.0,
+        "down": 8.0
       },
       {
-        "code": "BK1500",
-        "name": "医美耗材",
-        "change_pct": -0.51,
-        "turnover": 669233973.0,
-        "main_net": -21319362.0,
+        "code": "BK1558",
+        "name": "学历教育",
+        "change_pct": -0.87,
+        "turnover": 246431405.0,
+        "main_net": -7852412.0,
         "main_pct": -3.19,
         "up": 1.0,
         "down": 2.0
       },
       {
-        "code": "BK1210",
-        "name": "交通运输",
-        "change_pct": -0.54,
-        "turnover": 22808228303.0,
-        "main_net": -187897040.0,
-        "main_pct": -0.82,
-        "up": 36.0,
-        "down": 87.0
-      },
-      {
-        "code": "BK1418",
-        "name": "氯碱",
-        "change_pct": -0.55,
-        "turnover": 2171557571.0,
-        "main_net": -2262490.0,
-        "main_pct": -0.1,
-        "up": 5.0,
-        "down": 10.0
-      },
-      {
-        "code": "BK1250",
-        "name": "煤炭开采",
-        "change_pct": -0.56,
-        "turnover": 9082077002.0,
-        "main_net": 132442384.0,
-        "main_pct": 1.46,
-        "up": 6.0,
-        "down": 21.0
-      },
-      {
-        "code": "BK1473",
-        "name": "园林工程",
-        "change_pct": -0.56,
-        "turnover": 1600227293.0,
-        "main_net": 2306138.0,
-        "main_pct": 0.14,
-        "up": 3.0,
-        "down": 10.0
-      },
-      {
-        "code": "BK1469",
-        "name": "涂料",
-        "change_pct": -0.59,
-        "turnover": 267984832.0,
-        "main_net": 12646554.0,
-        "main_pct": 4.72,
-        "up": 1.0,
-        "down": 1.0
-      },
-      {
-        "code": "BK1349",
-        "name": "棉纺",
-        "change_pct": -0.61,
-        "turnover": 731091043.0,
-        "main_net": -14171100.0,
-        "main_pct": -1.94,
-        "up": 2.0,
-        "down": 7.0
-      }
-    ],
-    "by_change_down": [
-      {
-        "code": "BK1340",
-        "name": "印制电路板",
-        "change_pct": -5.86,
-        "turnover": 67542255559.0,
-        "main_net": -4956335872.0,
-        "main_pct": -7.34,
-        "up": 1.0,
-        "down": 47.0
-      },
-      {
-        "code": "BK0459",
-        "name": "元件",
-        "change_pct": -5.13,
-        "turnover": 80588269348.0,
-        "main_net": -5436641280.0,
-        "main_pct": -6.75,
-        "up": 2.0,
-        "down": 65.0
-      },
-      {
-        "code": "BK1592",
-        "name": "通信线缆及配套",
-        "change_pct": -4.78,
-        "turnover": 16212813489.0,
-        "main_net": -1389668352.0,
-        "main_pct": -8.57,
-        "up": 0.0,
-        "down": 14.0
-      },
-      {
-        "code": "BK1600",
-        "name": "医疗研发外包",
-        "change_pct": -4.67,
-        "turnover": 21161020279.0,
-        "main_net": -1530473760.0,
-        "main_pct": -7.23,
-        "up": 0.0,
-        "down": 29.0
-      },
-      {
-        "code": "BK1462",
-        "name": "玻纤制造",
-        "change_pct": -4.65,
-        "turnover": 9911292161.0,
-        "main_net": -674679616.0,
-        "main_pct": -6.81,
-        "up": 0.0,
-        "down": 8.0
-      },
-      {
-        "code": "BK1591",
-        "name": "通信网络设备及器件",
-        "change_pct": -4.51,
-        "turnover": 68551882414.0,
-        "main_net": -2809506560.0,
-        "main_pct": -4.1,
-        "up": 1.0,
-        "down": 37.0
-      },
-      {
-        "code": "BK1331",
-        "name": "数字芯片设计",
-        "change_pct": -4.32,
-        "turnover": 91200733436.0,
-        "main_net": -3868384000.0,
-        "main_pct": -4.24,
-        "up": 2.0,
-        "down": 54.0
-      },
-      {
-        "code": "BK1625",
-        "name": "钨",
-        "change_pct": -4.08,
-        "turnover": 4333818759.0,
-        "main_net": -385071264.0,
-        "main_pct": -8.89,
-        "up": 0.0,
-        "down": 4.0
-      },
-      {
-        "code": "BK1615",
-        "name": "铜",
-        "change_pct": -3.91,
-        "turnover": 17978158377.0,
-        "main_net": -1046532848.0,
-        "main_pct": -5.82,
-        "up": 0.0,
-        "down": 17.0
-      },
-      {
-        "code": "BK0448",
-        "name": "通信设备",
-        "change_pct": -3.84,
-        "turnover": 95981633107.0,
-        "main_net": -4758732032.0,
-        "main_pct": -4.96,
-        "up": 7.0,
-        "down": 87.0
-      },
-      {
-        "code": "BK1408",
-        "name": "机器人",
-        "change_pct": -3.8,
-        "turnover": 9337033196.0,
-        "main_net": -684177568.0,
-        "main_pct": -7.33,
-        "up": 0.0,
-        "down": 22.0
-      },
-      {
-        "code": "BK1334",
-        "name": "光学元件",
-        "change_pct": -3.77,
-        "turnover": 10810013061.0,
-        "main_net": -308874976.0,
-        "main_pct": -2.86,
-        "up": 0.0,
-        "down": 27.0
-      },
-      {
-        "code": "BK1039",
-        "name": "电子化学品Ⅱ",
-        "change_pct": -3.69,
-        "turnover": 16912883991.0,
-        "main_net": -943085296.0,
-        "main_pct": -5.58,
-        "up": 0.0,
-        "down": 37.0
-      },
-      {
-        "code": "BK1332",
-        "name": "电子化学品Ⅲ",
-        "change_pct": -3.69,
-        "turnover": 16912883991.0,
-        "main_net": -943085296.0,
-        "main_pct": -5.58,
-        "up": 0.0,
-        "down": 37.0
-      },
-      {
-        "code": "BK1409",
-        "name": "激光设备",
-        "change_pct": -3.67,
-        "turnover": 9962900017.0,
-        "main_net": -304422496.0,
-        "main_pct": -3.06,
-        "up": 3.0,
-        "down": 9.0
-      },
-      {
-        "code": "BK1327",
-        "name": "分立器件",
-        "change_pct": -3.65,
-        "turnover": 12140476349.0,
-        "main_net": -280486672.0,
-        "main_pct": -2.31,
-        "up": 2.0,
-        "down": 16.0
-      },
-      {
-        "code": "BK1602",
-        "name": "诊断服务",
-        "change_pct": -3.61,
-        "turnover": 2141862728.0,
-        "main_net": -83370524.0,
-        "main_pct": -3.89,
-        "up": 0.0,
-        "down": 5.0
-      },
-      {
-        "code": "BK0727",
-        "name": "医疗服务",
-        "change_pct": -3.6,
-        "turnover": 28949538915.0,
-        "main_net": -1835998528.0,
-        "main_pct": -6.34,
-        "up": 3.0,
-        "down": 51.0
-      },
-      {
-        "code": "BK1410",
-        "name": "其他自动化设备",
-        "change_pct": -3.54,
-        "turnover": 6209615976.0,
-        "main_net": -274892464.0,
-        "main_pct": -4.43,
-        "up": 0.0,
-        "down": 30.0
-      },
-      {
-        "code": "BK1330",
-        "name": "模拟芯片设计",
-        "change_pct": -3.52,
-        "turnover": 12427564157.0,
-        "main_net": -204613248.0,
-        "main_pct": -1.65,
-        "up": 5.0,
-        "down": 31.0
-      },
-      {
-        "code": "BK1237",
-        "name": "自动化设备",
-        "change_pct": -3.49,
-        "turnover": 32605922017.0,
-        "main_net": -1703102432.0,
-        "main_pct": -5.22,
+        "code": "BK1032",
+        "name": "风电设备",
+        "change_pct": -0.86,
+        "turnover": 7475230599.0,
+        "main_net": -187980192.0,
+        "main_pct": -2.51,
         "up": 4.0,
-        "down": 92.0
-      },
-      {
-        "code": "BK1397",
-        "name": "磨具磨料",
-        "change_pct": -3.49,
-        "turnover": 4132806760.0,
-        "main_net": -353005584.0,
-        "main_pct": -8.54,
-        "up": 1.0,
-        "down": 13.0
-      },
-      {
-        "code": "BK1201",
-        "name": "电子",
-        "change_pct": -3.4,
-        "turnover": 406130067267.0,
-        "main_net": -13864036864.0,
-        "main_pct": -3.41,
-        "up": 34.0,
-        "down": 487.0
-      },
-      {
-        "code": "BK1425",
-        "name": "胶黏剂及胶带",
-        "change_pct": -3.35,
-        "turnover": 2031587333.0,
-        "main_net": -118902475.0,
-        "main_pct": -5.85,
-        "up": 0.0,
-        "down": 6.0
-      },
-      {
-        "code": "BK1036",
-        "name": "半导体",
-        "change_pct": -3.33,
-        "turnover": 224866934569.0,
-        "main_net": -4629633024.0,
-        "main_pct": -2.06,
-        "up": 19.0,
-        "down": 168.0
-      },
-      {
-        "code": "BK1223",
-        "name": "其他电子Ⅱ",
-        "change_pct": -3.29,
-        "turnover": 11546193877.0,
-        "main_net": -678995600.0,
-        "main_pct": -5.88,
-        "up": 2.0,
-        "down": 31.0
-      },
-      {
-        "code": "BK1336",
-        "name": "其他电子Ⅲ",
-        "change_pct": -3.29,
-        "turnover": 11546193877.0,
-        "main_net": -678995600.0,
-        "main_pct": -5.88,
-        "up": 2.0,
-        "down": 31.0
-      },
-      {
-        "code": "BK1339",
-        "name": "被动元件",
-        "change_pct": -3.28,
-        "turnover": 13046013789.0,
-        "main_net": -480305184.0,
-        "main_pct": -3.68,
-        "up": 1.0,
-        "down": 18.0
-      },
-      {
-        "code": "BK1215",
-        "name": "通信",
-        "change_pct": -3.23,
-        "turnover": 108472808742.0,
-        "main_net": -4542204160.0,
-        "main_pct": -4.19,
-        "up": 13.0,
-        "down": 119.0
-      },
-      {
-        "code": "BK1306",
-        "name": "蓄电池及其他电池",
-        "change_pct": -3.23,
-        "turnover": 2486824768.0,
-        "main_net": -87743291.0,
-        "main_pct": -3.53,
-        "up": 0.0,
-        "down": 10.0
-      },
-      {
-        "code": "BK1298",
-        "name": "文字媒体",
-        "change_pct": -3.2,
-        "turnover": 4836163667.0,
-        "main_net": -228249376.0,
-        "main_pct": -4.72,
-        "up": 0.0,
-        "down": 2.0
-      },
-      {
-        "code": "BK1407",
-        "name": "工控设备",
-        "change_pct": -3.18,
-        "turnover": 7096372827.0,
-        "main_net": -439609824.0,
-        "main_pct": -6.19,
-        "up": 1.0,
-        "down": 31.0
-      },
-      {
-        "code": "BK1593",
-        "name": "通信终端及配件",
-        "change_pct": -3.16,
-        "turnover": 9726201362.0,
-        "main_net": -516672592.0,
-        "main_pct": -5.31,
-        "up": 4.0,
-        "down": 24.0
-      },
-      {
-        "code": "BK1448",
-        "name": "横向通用软件",
-        "change_pct": -3.14,
-        "turnover": 10780075580.0,
-        "main_net": -850274544.0,
-        "main_pct": -7.89,
-        "up": 0.0,
-        "down": 34.0
-      },
-      {
-        "code": "BK1046",
-        "name": "游戏Ⅱ",
-        "change_pct": -3.08,
-        "turnover": 12906378981.0,
-        "main_net": -772633280.0,
-        "main_pct": -5.99,
-        "up": 0.0,
-        "down": 24.0
-      },
-      {
-        "code": "BK1301",
-        "name": "游戏Ⅲ",
-        "change_pct": -3.08,
-        "turnover": 12906378981.0,
-        "main_net": -772633280.0,
-        "main_pct": -5.99,
-        "up": 0.0,
-        "down": 24.0
-      },
-      {
-        "code": "BK1440",
-        "name": "其他塑料制品",
-        "change_pct": -3.08,
-        "turnover": 2993055188.0,
-        "main_net": -92123966.0,
-        "main_pct": -3.08,
-        "up": 0.0,
-        "down": 21.0
-      },
-      {
-        "code": "BK1360",
-        "name": "金融信息服务",
-        "change_pct": -3.07,
-        "turnover": 810853941.0,
-        "main_net": -69948551.0,
-        "main_pct": -8.63,
-        "up": 0.0,
-        "down": 3.0
-      },
-      {
-        "code": "BK1446",
-        "name": "其他计算机设备",
-        "change_pct": -3.02,
-        "turnover": 13381984034.0,
-        "main_net": -661528672.0,
-        "main_pct": -4.94,
-        "up": 3.0,
-        "down": 60.0
-      },
-      {
-        "code": "BK1341",
-        "name": "房产租赁经纪",
-        "change_pct": -3.01,
-        "turnover": 671502726.0,
-        "main_net": -49619166.0,
-        "main_pct": -7.39,
-        "up": 0.0,
-        "down": 3.0
-      },
-      {
-        "code": "BK1303",
-        "name": "锂电池",
-        "change_pct": -3.0,
-        "turnover": 33170746399.0,
-        "main_net": -1678846976.0,
-        "main_pct": -5.06,
-        "up": 1.0,
-        "down": 32.0
-      },
-      {
-        "code": "BK1618",
-        "name": "磁性材料",
-        "change_pct": -2.99,
-        "turnover": 2727083246.0,
-        "main_net": -191374918.0,
-        "main_pct": -7.02,
-        "up": 0.0,
-        "down": 15.0
-      },
-      {
-        "code": "BK0546",
-        "name": "玻璃玻纤",
-        "change_pct": -2.97,
-        "turnover": 10841565521.0,
-        "main_net": -742146416.0,
-        "main_pct": -6.85,
-        "up": 0.0,
-        "down": 16.0
-      },
-      {
-        "code": "BK1320",
-        "name": "逆变器",
-        "change_pct": -2.97,
-        "turnover": 16356754355.0,
-        "main_net": -546234192.0,
-        "main_pct": -3.34,
-        "up": 1.0,
-        "down": 9.0
-      },
-      {
-        "code": "BK0458",
-        "name": "仪器仪表",
-        "change_pct": -2.97,
-        "turnover": 13815415414.0,
-        "main_net": -698069536.0,
-        "main_pct": -5.05,
-        "up": 6.0,
-        "down": 59.0
-      },
-      {
-        "code": "BK1589",
-        "name": "通信应用增值服务",
-        "change_pct": -2.96,
-        "turnover": 4448273191.0,
-        "main_net": -364427544.0,
-        "main_pct": -8.19,
-        "up": 1.0,
-        "down": 16.0
-      },
-      {
-        "code": "BK0735",
-        "name": "计算机设备",
-        "change_pct": -2.95,
-        "turnover": 17523500777.0,
-        "main_net": -969329248.0,
-        "main_pct": -5.53,
-        "up": 4.0,
-        "down": 85.0
-      },
-      {
-        "code": "BK1304",
-        "name": "锂电专用设备",
-        "change_pct": -2.93,
-        "turnover": 4726321849.0,
-        "main_net": -286332672.0,
-        "main_pct": -6.06,
-        "up": 1.0,
-        "down": 18.0
+        "down": 25.0
       },
       {
         "code": "BK1622",
         "name": "镍",
-        "change_pct": -2.89,
-        "turnover": 2421293568.0,
-        "main_net": -240587664.0,
-        "main_pct": -9.94,
-        "up": 0.0,
-        "down": 2.0
-      },
-      {
-        "code": "BK1038",
-        "name": "光学光电子",
-        "change_pct": -2.87,
-        "turnover": 27487014028.0,
-        "main_net": -881215424.0,
-        "main_pct": -3.21,
-        "up": 4.0,
-        "down": 94.0
-      },
-      {
-        "code": "BK1328",
-        "name": "集成电路封测",
-        "change_pct": -2.84,
-        "turnover": 14427027713.0,
-        "main_net": -648052128.0,
-        "main_pct": -4.49,
-        "up": 1.0,
-        "down": 12.0
-      },
-      {
-        "code": "BK1255",
-        "name": "林业Ⅱ",
-        "change_pct": -2.83,
-        "turnover": 1224436028.0,
-        "main_net": -130257948.0,
-        "main_pct": -10.64,
-        "up": 0.0,
-        "down": 4.0
-      },
-      {
-        "code": "BK1502",
-        "name": "林业Ⅲ",
-        "change_pct": -2.83,
-        "turnover": 1224436028.0,
-        "main_net": -130257948.0,
-        "main_pct": -10.64,
-        "up": 0.0,
-        "down": 4.0
-      },
-      {
-        "code": "BK0737",
-        "name": "软件开发",
-        "change_pct": -2.83,
-        "turnover": 34071557798.0,
-        "main_net": -2001510288.0,
-        "main_pct": -5.87,
-        "up": 1.0,
-        "down": 133.0
-      },
-      {
-        "code": "BK1338",
-        "name": "消费电子零部件及组装",
-        "change_pct": -2.83,
-        "turnover": 39498508247.0,
-        "main_net": -1442901984.0,
-        "main_pct": -3.65,
-        "up": 6.0,
-        "down": 82.0
-      },
-      {
-        "code": "BK1322",
-        "name": "其他电源设备Ⅲ",
-        "change_pct": -2.82,
-        "turnover": 9114909164.0,
-        "main_net": -389036848.0,
-        "main_pct": -4.27,
-        "up": 3.0,
-        "down": 27.0
-      },
-      {
-        "code": "BK1317",
-        "name": "光伏加工设备",
-        "change_pct": -2.82,
-        "turnover": 8145653597.0,
-        "main_net": 49354384.0,
-        "main_pct": 0.61,
-        "up": 0.0,
-        "down": 11.0
-      },
-      {
-        "code": "BK1033",
-        "name": "电池",
-        "change_pct": -2.81,
-        "turnover": 60303191450.0,
-        "main_net": -2894688512.0,
-        "main_pct": -4.8,
-        "up": 3.0,
-        "down": 105.0
-      },
-      {
-        "code": "BK1439",
-        "name": "膜材料",
-        "change_pct": -2.81,
-        "turnover": 7786033344.0,
-        "main_net": -420949536.0,
-        "main_pct": -5.41,
-        "up": 1.0,
-        "down": 20.0
-      },
-      {
-        "code": "BK1037",
-        "name": "消费电子",
-        "change_pct": -2.79,
-        "turnover": 44728771452.0,
-        "main_net": -1294465024.0,
-        "main_pct": -2.89,
-        "up": 7.0,
-        "down": 92.0
-      },
-      {
-        "code": "BK1445",
-        "name": "安防设备",
-        "change_pct": -2.79,
-        "turnover": 4141516743.0,
-        "main_net": -307800608.0,
-        "main_pct": -7.43,
-        "up": 1.0,
-        "down": 25.0
-      },
-      {
-        "code": "BK1207",
-        "name": "计算机",
-        "change_pct": -2.74,
-        "turnover": 84762479268.0,
-        "main_net": -3904081152.0,
-        "main_pct": -4.61,
-        "up": 15.0,
-        "down": 345.0
-      },
-      {
-        "code": "BK1400",
-        "name": "制冷空调设备",
-        "change_pct": -2.74,
-        "turnover": 6217808081.0,
-        "main_net": -445218224.0,
-        "main_pct": -7.16,
-        "up": 1.0,
-        "down": 18.0
-      },
-      {
-        "code": "BK1447",
-        "name": "垂直应用软件",
-        "change_pct": -2.72,
-        "turnover": 23291482217.0,
-        "main_net": -1151235744.0,
+        "change_pct": -0.86,
+        "turnover": 1611241764.0,
+        "main_net": -79610899.0,
         "main_pct": -4.94,
-        "up": 1.0,
-        "down": 99.0
-      },
-      {
-        "code": "BK1465",
-        "name": "防水材料",
-        "change_pct": -2.71,
-        "turnover": 612958554.0,
-        "main_net": -34991272.0,
-        "main_pct": -5.71,
         "up": 0.0,
-        "down": 3.0
-      },
-      {
-        "code": "BK1396",
-        "name": "金属制品",
-        "change_pct": -2.71,
-        "turnover": 19363551664.0,
-        "main_net": -1290898976.0,
-        "main_pct": -6.67,
-        "up": 6.0,
-        "down": 75.0
-      },
-      {
-        "code": "BK1599",
-        "name": "其他医疗服务",
-        "change_pct": -2.71,
-        "turnover": 848942982.0,
-        "main_net": -1942734.0,
-        "main_pct": -0.23,
-        "up": 0.0,
-        "down": 5.0
-      },
-      {
-        "code": "BK1354",
-        "name": "鞋帽及其他",
-        "change_pct": -2.69,
-        "turnover": 777675163.0,
-        "main_net": -30301919.0,
-        "main_pct": -3.9,
-        "up": 1.0,
-        "down": 10.0
-      },
-      {
-        "code": "BK1596",
-        "name": "其他生物制品",
-        "change_pct": -2.68,
-        "turnover": 9208020840.0,
-        "main_net": -510103456.0,
-        "main_pct": -5.54,
-        "up": 2.0,
-        "down": 37.0
-      },
-      {
-        "code": "BK1424",
-        "name": "氟化工",
-        "change_pct": -2.68,
-        "turnover": 3641491575.0,
-        "main_net": -333952119.0,
-        "main_pct": -9.17,
-        "up": 0.0,
-        "down": 10.0
-      },
-      {
-        "code": "BK0545",
-        "name": "通用设备",
-        "change_pct": -2.67,
-        "turnover": 55438771927.0,
-        "main_net": -2964095600.0,
-        "main_pct": -5.35,
-        "up": 22.0,
-        "down": 232.0
-      },
-      {
-        "code": "BK1288",
-        "name": "金属新材料",
-        "change_pct": -2.67,
-        "turnover": 6094466222.0,
-        "main_net": -307797228.0,
-        "main_pct": -5.05,
-        "up": 2.0,
-        "down": 34.0
-      },
-      {
-        "code": "BK1027",
-        "name": "小金属",
-        "change_pct": -2.66,
-        "turnover": 18635136591.0,
-        "main_net": -1288419168.0,
-        "main_pct": -6.91,
-        "up": 2.0,
-        "down": 24.0
-      },
-      {
-        "code": "BK1030",
-        "name": "电机Ⅱ",
-        "change_pct": -2.66,
-        "turnover": 6167006888.0,
-        "main_net": -209743744.0,
-        "main_pct": -3.4,
-        "up": 2.0,
-        "down": 25.0
-      },
-      {
-        "code": "BK1307",
-        "name": "电机Ⅲ",
-        "change_pct": -2.66,
-        "turnover": 6167006888.0,
-        "main_net": -209743744.0,
-        "main_pct": -3.4,
-        "up": 2.0,
-        "down": 25.0
-      },
-      {
-        "code": "BK1335",
-        "name": "面板",
-        "change_pct": -2.64,
-        "turnover": 10326155376.0,
-        "main_net": -350561392.0,
-        "main_pct": -3.39,
-        "up": 2.0,
-        "down": 40.0
-      },
-      {
-        "code": "BK1585",
-        "name": "乳品",
-        "change_pct": -2.63,
-        "turnover": 5061624383.0,
-        "main_net": -69811936.0,
-        "main_pct": -1.38,
-        "up": 3.0,
-        "down": 17.0
-      },
-      {
-        "code": "BK1401",
-        "name": "纺织服装设备",
-        "change_pct": -2.61,
-        "turnover": 1672568072.0,
-        "main_net": -83730944.0,
-        "main_pct": -5.01,
-        "up": 1.0,
-        "down": 13.0
-      },
-      {
-        "code": "BK1521",
-        "name": "摩托车",
-        "change_pct": -2.59,
-        "turnover": 1341373468.0,
-        "main_net": -44817258.0,
-        "main_pct": -3.34,
-        "up": 0.0,
-        "down": 9.0
-      },
-      {
-        "code": "BK1422",
-        "name": "无机盐",
-        "change_pct": -2.57,
-        "turnover": 1895187099.0,
-        "main_net": -44320262.0,
-        "main_pct": -2.34,
-        "up": 2.0,
-        "down": 9.0
-      },
-      {
-        "code": "BK1325",
-        "name": "半导体材料",
-        "change_pct": -2.56,
-        "turnover": 31469941558.0,
-        "main_net": -865725744.0,
-        "main_pct": -2.75,
-        "up": 4.0,
-        "down": 28.0
-      },
-      {
-        "code": "BK1302",
-        "name": "电池化学品",
-        "change_pct": -2.55,
-        "turnover": 19851974559.0,
-        "main_net": -837657264.0,
-        "main_pct": -4.22,
-        "up": 1.0,
-        "down": 44.0
-      },
-      {
-        "code": "BK1405",
-        "name": "其他专用设备",
-        "change_pct": -2.54,
-        "turnover": 17194842279.0,
-        "main_net": -619884400.0,
-        "main_pct": -3.61,
-        "up": 9.0,
-        "down": 82.0
-      },
-      {
-        "code": "BK1238",
-        "name": "IT服务Ⅱ",
-        "change_pct": -2.52,
-        "turnover": 33167420692.0,
-        "main_net": -933241760.0,
-        "main_pct": -2.81,
-        "up": 10.0,
-        "down": 127.0
-      },
-      {
-        "code": "BK1444",
-        "name": "IT服务Ⅲ",
-        "change_pct": -2.52,
-        "turnover": 33167420692.0,
-        "main_net": -933241760.0,
-        "main_pct": -2.81,
-        "up": 10.0,
-        "down": 127.0
-      },
-      {
-        "code": "BK1034",
-        "name": "其他电源设备Ⅱ",
-        "change_pct": -2.52,
-        "turnover": 10583540762.0,
-        "main_net": -456077600.0,
-        "main_pct": -4.31,
-        "up": 3.0,
-        "down": 32.0
-      },
-      {
-        "code": "BK1337",
-        "name": "品牌消费电子",
-        "change_pct": -2.52,
-        "turnover": 5230263205.0,
-        "main_net": 148436992.0,
-        "main_pct": 2.84,
-        "up": 1.0,
-        "down": 10.0
-      },
-      {
-        "code": "BK0454",
-        "name": "塑料",
-        "change_pct": -2.52,
-        "turnover": 16714810191.0,
-        "main_net": -580429552.0,
-        "main_pct": -3.47,
-        "up": 4.0,
-        "down": 74.0
-      },
-      {
-        "code": "BK1624",
-        "name": "其他小金属",
-        "change_pct": -2.51,
-        "turnover": 11113507646.0,
-        "main_net": -706205456.0,
-        "main_pct": -6.35,
-        "up": 2.0,
-        "down": 14.0
-      },
-      {
-        "code": "BK1243",
-        "name": "其他家电Ⅱ",
-        "change_pct": -2.51,
-        "turnover": 265140213.0,
-        "main_net": 6095935.0,
-        "main_pct": 2.3,
-        "up": 0.0,
-        "down": 3.0
-      },
-      {
-        "code": "BK1456",
-        "name": "其他家电Ⅲ",
-        "change_pct": -2.51,
-        "turnover": 265140213.0,
-        "main_net": 6095935.0,
-        "main_pct": 2.3,
-        "up": 0.0,
-        "down": 3.0
-      },
-      {
-        "code": "BK1526",
-        "name": "底盘与发动机系统",
-        "change_pct": -2.5,
-        "turnover": 22870102626.0,
-        "main_net": -802926672.0,
-        "main_pct": -3.51,
-        "up": 10.0,
-        "down": 106.0
-      },
-      {
-        "code": "BK1205",
-        "name": "机械设备",
-        "change_pct": -2.49,
-        "turnover": 128307556413.0,
-        "main_net": -5856569344.0,
-        "main_pct": -4.56,
-        "up": 53.0,
-        "down": 568.0
-      },
-      {
-        "code": "BK1371",
-        "name": "铁矿石",
-        "change_pct": -2.47,
-        "turnover": 837015052.0,
-        "main_net": -33396874.0,
-        "main_pct": -3.99,
-        "up": 0.0,
-        "down": 6.0
-      },
-      {
-        "code": "BK1398",
-        "name": "其他通用设备",
-        "change_pct": -2.47,
-        "turnover": 8357275020.0,
-        "main_net": -297052944.0,
-        "main_pct": -3.55,
-        "up": 4.0,
-        "down": 52.0
-      },
-      {
-        "code": "BK1529",
-        "name": "汽车电子电气系统",
-        "change_pct": -2.47,
-        "turnover": 5779241789.0,
-        "main_net": -216469552.0,
-        "main_pct": -3.75,
-        "up": 0.0,
-        "down": 42.0
-      },
-      {
-        "code": "BK1623",
-        "name": "钼",
-        "change_pct": -2.46,
-        "turnover": 777159003.0,
-        "main_net": -28125691.0,
-        "main_pct": -3.62,
-        "up": 0.0,
-        "down": 3.0
-      },
-      {
-        "code": "BK1619",
-        "name": "其他金属新材料",
-        "change_pct": -2.44,
-        "turnover": 3367382975.0,
-        "main_net": -116422324.0,
-        "main_pct": -3.46,
-        "up": 2.0,
-        "down": 19.0
-      },
-      {
-        "code": "BK1616",
-        "name": "白银",
-        "change_pct": -2.43,
-        "turnover": 4864953984.0,
-        "main_net": -262283024.0,
-        "main_pct": -5.39,
-        "up": 1.0,
         "down": 2.0
-      },
-      {
-        "code": "BK1551",
-        "name": "百货",
-        "change_pct": -2.42,
-        "turnover": 5123102845.0,
-        "main_net": -103984144.0,
-        "main_pct": -2.03,
-        "up": 2.0,
-        "down": 17.0
-      }
-    ],
-    "by_money": [
-      {
-        "code": "BK0427",
-        "name": "公用事业",
-        "change_pct": 0.55,
-        "turnover": 37705432412.0,
-        "main_net": 959415840.0,
-        "main_pct": 2.54
-      },
-      {
-        "code": "BK0428",
-        "name": "电力",
-        "change_pct": 0.76,
-        "turnover": 34926896919.0,
-        "main_net": 940243216.0,
-        "main_pct": 2.69
-      },
-      {
-        "code": "BK1283",
-        "name": "银行",
-        "change_pct": 0.99,
-        "turnover": 35435775254.0,
-        "main_net": 852760576.0,
-        "main_pct": 2.41
-      },
-      {
-        "code": "BK0475",
-        "name": "银行Ⅱ",
-        "change_pct": 0.99,
-        "turnover": 35435775254.0,
-        "main_net": 852760576.0,
-        "main_pct": 2.41
-      },
-      {
-        "code": "BK1326",
-        "name": "半导体设备",
-        "change_pct": -2.33,
-        "turnover": 48000302971.0,
-        "main_net": 740315648.0,
-        "main_pct": 1.54
-      },
-      {
-        "code": "BK1380",
-        "name": "水力发电",
-        "change_pct": 1.46,
-        "turnover": 9080864042.0,
-        "main_net": 633002032.0,
-        "main_pct": 6.97
-      },
-      {
-        "code": "BK1611",
-        "name": "国有大型银行Ⅲ",
-        "change_pct": 1.04,
-        "turnover": 13504928217.0,
-        "main_net": 508727424.0,
-        "main_pct": 3.77
-      },
-      {
-        "code": "BK1329",
-        "name": "集成电路制造",
-        "change_pct": -1.87,
-        "turnover": 15200888383.0,
-        "main_net": 497312448.0,
-        "main_pct": 3.27
-      },
-      {
-        "code": "BK0421",
-        "name": "铁路公路",
-        "change_pct": 0.7,
-        "turnover": 5831669566.0,
-        "main_net": 480785328.0,
-        "main_pct": 8.24
-      },
-      {
-        "code": "BK1587",
-        "name": "电信运营商",
-        "change_pct": 2.87,
-        "turnover": 3638528175.0,
-        "main_net": 404769136.0,
-        "main_pct": 11.12
-      },
-      {
-        "code": "BK1483",
-        "name": "高速公路",
-        "change_pct": 1.2,
-        "turnover": 2744625979.0,
-        "main_net": 398803848.0,
-        "main_pct": 14.53
-      },
-      {
-        "code": "BK1609",
-        "name": "城商行Ⅲ",
-        "change_pct": 1.01,
-        "turnover": 8547852447.0,
-        "main_net": 365281728.0,
-        "main_pct": 4.27
-      },
-      {
-        "code": "BK1261",
-        "name": "种植业",
-        "change_pct": 2.72,
-        "turnover": 7939746112.0,
-        "main_net": 323068896.0,
-        "main_pct": 4.07
-      },
-      {
-        "code": "BK1251",
-        "name": "个护用品",
-        "change_pct": -1.48,
-        "turnover": 1789017536.0,
-        "main_net": 318561539.0,
-        "main_pct": 17.81
-      },
-      {
-        "code": "BK1495",
-        "name": "生活用纸",
-        "change_pct": -1.96,
-        "turnover": 1565223765.0,
-        "main_net": 317392223.0,
-        "main_pct": 20.28
-      },
-      {
-        "code": "BK1518",
-        "name": "种子",
-        "change_pct": 4.64,
-        "turnover": 5112514735.0,
-        "main_net": 284286000.0,
-        "main_pct": 5.56
-      },
-      {
-        "code": "BK0433",
-        "name": "农林牧渔",
-        "change_pct": 0.45,
-        "turnover": 27007236935.0,
-        "main_net": 217688720.0,
-        "main_pct": 0.81
-      },
-      {
-        "code": "BK1035",
-        "name": "美容护理",
-        "change_pct": -1.44,
-        "turnover": 4136583848.0,
-        "main_net": 216644292.0,
-        "main_pct": 5.24
-      },
-      {
-        "code": "BK0736",
-        "name": "通信服务",
-        "change_pct": -1.74,
-        "turnover": 12491175635.0,
-        "main_net": 216527936.0,
-        "main_pct": 1.73
-      },
-      {
-        "code": "BK1394",
-        "name": "轨交设备Ⅲ",
-        "change_pct": -1.3,
-        "turnover": 3744930126.0,
-        "main_net": 197507408.0,
-        "main_pct": 5.27
-      },
-      {
-        "code": "BK1236",
-        "name": "轨交设备Ⅱ",
-        "change_pct": -1.3,
-        "turnover": 3744930126.0,
-        "main_net": 197507408.0,
-        "main_pct": 5.27
-      },
-      {
-        "code": "BK1588",
-        "name": "通信工程及服务",
-        "change_pct": -1.34,
-        "turnover": 4404374269.0,
-        "main_net": 176186336.0,
-        "main_pct": 4.0
-      },
-      {
-        "code": "BK1509",
-        "name": "水产饲料",
-        "change_pct": -0.76,
-        "turnover": 1640731030.0,
-        "main_net": 167324682.0,
-        "main_pct": 10.2
-      },
-      {
-        "code": "BK1240",
-        "name": "厨卫电器",
-        "change_pct": -0.03,
-        "turnover": 1001427549.0,
-        "main_net": 164690980.0,
-        "main_pct": 16.45
-      },
-      {
-        "code": "BK1258",
-        "name": "饲料",
-        "change_pct": 0.01,
-        "turnover": 2952468355.0,
-        "main_net": 161774038.0,
-        "main_pct": 5.48
-      },
-      {
-        "code": "BK1452",
-        "name": "卫浴电器",
-        "change_pct": 3.46,
-        "turnover": 592905619.0,
-        "main_net": 157020664.0,
-        "main_pct": 26.48
-      },
-      {
-        "code": "BK1350",
-        "name": "其他纺织",
-        "change_pct": -0.02,
-        "turnover": 2380507850.0,
-        "main_net": 149162656.0,
-        "main_pct": 6.27
-      },
-      {
-        "code": "BK1337",
-        "name": "品牌消费电子",
-        "change_pct": -2.52,
-        "turnover": 5230263205.0,
-        "main_net": 148436992.0,
-        "main_pct": 2.84
-      },
-      {
-        "code": "BK1250",
-        "name": "煤炭开采",
-        "change_pct": -0.56,
-        "turnover": 9082077002.0,
-        "main_net": 132442384.0,
-        "main_pct": 1.46
-      },
-      {
-        "code": "BK1395",
-        "name": "机床工具",
-        "change_pct": -1.45,
-        "turnover": 3551914986.0,
-        "main_net": 120149802.0,
-        "main_pct": 3.38
-      },
-      {
-        "code": "BK1493",
-        "name": "动力煤",
-        "change_pct": -0.4,
-        "turnover": 7197216585.0,
-        "main_net": 111389984.0,
-        "main_pct": 1.55
-      },
-      {
-        "code": "BK1491",
-        "name": "端到端供应链服务",
-        "change_pct": 0.17,
-        "turnover": 870187776.0,
-        "main_net": 108070304.0,
-        "main_pct": 12.42
-      },
-      {
-        "code": "BK1224",
-        "name": "纺织制造",
-        "change_pct": -0.47,
-        "turnover": 3990658469.0,
-        "main_net": 106862880.0,
-        "main_pct": 2.68
-      },
-      {
-        "code": "BK1528",
-        "name": "其他汽车零部件",
-        "change_pct": -1.35,
-        "turnover": 7698732273.0,
-        "main_net": 105466848.0,
-        "main_pct": 1.37
-      },
-      {
-        "code": "BK1316",
-        "name": "光伏辅材",
-        "change_pct": 0.86,
-        "turnover": 5630244468.0,
-        "main_net": 86999168.0,
-        "main_pct": 1.55
-      },
-      {
-        "code": "BK1375",
-        "name": "光伏发电",
-        "change_pct": 0.73,
-        "turnover": 3980583158.0,
-        "main_net": 86612560.0,
-        "main_pct": 2.18
-      },
-      {
-        "code": "BK1470",
-        "name": "房屋建设Ⅲ",
-        "change_pct": -0.97,
-        "turnover": 1731566046.0,
-        "main_net": 82950915.0,
-        "main_pct": 4.79
-      },
-      {
-        "code": "BK1246",
-        "name": "房屋建设Ⅱ",
-        "change_pct": -0.97,
-        "turnover": 1731566046.0,
-        "main_net": 82950915.0,
-        "main_pct": 4.79
-      },
-      {
-        "code": "BK0437",
-        "name": "煤炭",
-        "change_pct": -0.82,
-        "turnover": 9822066983.0,
-        "main_net": 80740928.0,
-        "main_pct": 0.82
-      },
-      {
-        "code": "BK1460",
-        "name": "照明设备Ⅲ",
-        "change_pct": -0.29,
-        "turnover": 3385770895.0,
-        "main_net": 78323616.0,
-        "main_pct": 2.31
-      },
-      {
-        "code": "BK1245",
-        "name": "照明设备Ⅱ",
-        "change_pct": -0.29,
-        "turnover": 3385770895.0,
-        "main_net": 78323616.0,
-        "main_pct": 2.31
-      },
-      {
-        "code": "BK1373",
-        "name": "电能综合服务",
-        "change_pct": 0.84,
-        "turnover": 2302479438.0,
-        "main_net": 78228155.0,
-        "main_pct": 3.4
-      },
-      {
-        "code": "BK1309",
-        "name": "电网自动化设备",
-        "change_pct": -0.89,
-        "turnover": 6123061043.0,
-        "main_net": 74965392.0,
-        "main_pct": 1.22
-      },
-      {
-        "code": "BK1554",
-        "name": "商业物业经营",
-        "change_pct": -1.29,
-        "turnover": 2168408762.0,
-        "main_net": 71740228.0,
-        "main_pct": 3.31
-      },
-      {
-        "code": "BK1377",
-        "name": "火力发电",
-        "change_pct": 0.91,
-        "turnover": 12243773893.0,
-        "main_net": 58742496.0,
-        "main_pct": 0.48
-      },
-      {
-        "code": "BK1485",
-        "name": "铁路运输",
-        "change_pct": -0.17,
-        "turnover": 2600632385.0,
-        "main_net": 50861152.0,
-        "main_pct": 1.96
-      },
-      {
-        "code": "BK1527",
-        "name": "轮胎轮毂",
-        "change_pct": -0.83,
-        "turnover": 3319331405.0,
-        "main_net": 50802709.0,
-        "main_pct": 1.53
-      },
-      {
-        "code": "BK1317",
-        "name": "光伏加工设备",
-        "change_pct": -2.82,
-        "turnover": 8145653597.0,
-        "main_net": 49354384.0,
-        "main_pct": 0.61
-      },
-      {
-        "code": "BK1436",
-        "name": "农药",
-        "change_pct": -0.61,
-        "turnover": 2547882954.0,
-        "main_net": 49074298.0,
-        "main_pct": 1.93
-      },
-      {
-        "code": "BK1531",
-        "name": "商用载客车",
-        "change_pct": -0.44,
-        "turnover": 968363037.0,
-        "main_net": 48972853.0,
-        "main_pct": 5.06
-      },
-      {
-        "code": "BK1612",
-        "name": "农商行Ⅲ",
-        "change_pct": 1.16,
-        "turnover": 2563117236.0,
-        "main_net": 48820928.0,
-        "main_pct": 1.9
-      },
-      {
-        "code": "BK1504",
-        "name": "粮油加工",
-        "change_pct": 0.36,
-        "turnover": 3386306286.0,
-        "main_net": 47344112.0,
-        "main_pct": 1.4
-      },
-      {
-        "code": "BK1244",
-        "name": "小家电",
-        "change_pct": -1.41,
-        "turnover": 4402535327.0,
-        "main_net": 47096960.0,
-        "main_pct": 1.07
-      },
-      {
-        "code": "BK1481",
-        "name": "港口",
-        "change_pct": 0.01,
-        "turnover": 2097187007.0,
-        "main_net": 45785630.0,
-        "main_pct": 2.18
-      },
-      {
-        "code": "BK1459",
-        "name": "清洁小家电",
-        "change_pct": -1.69,
-        "turnover": 1766683462.0,
-        "main_net": 45527475.0,
-        "main_pct": 2.58
-      },
-      {
-        "code": "BK1376",
-        "name": "核力发电",
-        "change_pct": 0.65,
-        "turnover": 1640959697.0,
-        "main_net": 39504312.0,
-        "main_pct": 2.41
-      },
-      {
-        "code": "BK1571",
-        "name": "油品石化贸易",
-        "change_pct": -1.81,
-        "turnover": 856315883.0,
-        "main_net": 39059639.0,
-        "main_pct": 4.56
-      },
-      {
-        "code": "BK1574",
-        "name": "油气开采Ⅲ",
-        "change_pct": -0.95,
-        "turnover": 2176759113.0,
-        "main_net": 31457882.0,
-        "main_pct": 1.45
-      },
-      {
-        "code": "BK1276",
-        "name": "油气开采Ⅱ",
-        "change_pct": -0.95,
-        "turnover": 2176759113.0,
-        "main_net": 31457882.0,
-        "main_pct": 1.45
-      },
-      {
-        "code": "BK1484",
-        "name": "公交",
-        "change_pct": 0.12,
-        "turnover": 486411202.0,
-        "main_net": 31120326.0,
-        "main_pct": 6.4
-      },
-      {
-        "code": "BK1510",
-        "name": "其他养殖",
-        "change_pct": 3.18,
-        "turnover": 504335623.0,
-        "main_net": 30058776.0,
-        "main_pct": 5.96
-      },
-      {
-        "code": "BK1466",
-        "name": "管材",
-        "change_pct": 0.95,
-        "turnover": 511199653.0,
-        "main_net": 28030068.0,
-        "main_pct": 5.48
-      },
-      {
-        "code": "BK1379",
-        "name": "热力服务",
-        "change_pct": -0.42,
-        "turnover": 2576821564.0,
-        "main_net": 21637082.0,
-        "main_pct": 0.84
-      },
-      {
-        "code": "BK1494",
-        "name": "焦煤",
-        "change_pct": -0.83,
-        "turnover": 1884860416.0,
-        "main_net": 21052405.0,
-        "main_pct": 1.12
-      },
-      {
-        "code": "BK1499",
-        "name": "医美服务",
-        "change_pct": 2.64,
-        "turnover": 283597775.0,
-        "main_net": 20933511.0,
-        "main_pct": 7.38
-      },
-      {
-        "code": "BK1402",
-        "name": "楼宇设备",
-        "change_pct": -0.88,
-        "turnover": 921649350.0,
-        "main_net": 20340760.0,
-        "main_pct": 2.21
-      },
-      {
-        "code": "BK1381",
-        "name": "燃气Ⅲ",
-        "change_pct": -0.23,
-        "turnover": 2778535492.0,
-        "main_net": 19172497.0,
-        "main_pct": 0.69
-      },
-      {
-        "code": "BK1028",
-        "name": "燃气Ⅱ",
-        "change_pct": -0.23,
-        "turnover": 2778535492.0,
-        "main_net": 19172497.0,
-        "main_pct": 0.69
-      },
-      {
-        "code": "BK1378",
-        "name": "其他能源发电",
-        "change_pct": 1.96,
-        "turnover": 175443452.0,
-        "main_net": 18783586.0,
-        "main_pct": 10.71
-      },
-      {
-        "code": "BK1264",
-        "name": "商用车",
-        "change_pct": -0.85,
-        "turnover": 3055074386.0,
-        "main_net": 18267333.0,
-        "main_pct": 0.6
-      },
-      {
-        "code": "BK1517",
-        "name": "食用菌",
-        "change_pct": 0.2,
-        "turnover": 477936743.0,
-        "main_net": 17523056.0,
-        "main_pct": 3.67
-      },
-      {
-        "code": "BK0436",
-        "name": "纺织服饰",
-        "change_pct": -1.26,
-        "turnover": 11206494622.0,
-        "main_net": 16108816.0,
-        "main_pct": 0.14
-      },
-      {
-        "code": "BK1515",
-        "name": "粮食种植",
-        "change_pct": 0.84,
-        "turnover": 461849148.0,
-        "main_net": 14652902.0,
-        "main_pct": 3.17
-      },
-      {
-        "code": "BK1449",
-        "name": "冰洗",
-        "change_pct": -1.05,
-        "turnover": 1278628793.0,
-        "main_net": 13468863.0,
-        "main_pct": 1.05
-      },
-      {
-        "code": "BK1406",
-        "name": "印刷包装机械",
-        "change_pct": -1.54,
-        "turnover": 1244882012.0,
-        "main_net": 12981994.0,
-        "main_pct": 1.04
-      },
-      {
-        "code": "BK1469",
-        "name": "涂料",
-        "change_pct": -0.59,
-        "turnover": 267984832.0,
-        "main_net": 12646554.0,
-        "main_pct": 4.72
-      },
-      {
-        "code": "BK1550",
-        "name": "贸易Ⅲ",
-        "change_pct": -0.49,
-        "turnover": 1593123853.0,
-        "main_net": 11656772.0,
-        "main_pct": 0.73
-      },
-      {
-        "code": "BK0484",
-        "name": "贸易Ⅱ",
-        "change_pct": -0.49,
-        "turnover": 1593123853.0,
-        "main_net": 11656772.0,
-        "main_pct": 0.73
-      },
-      {
-        "code": "BK1295",
-        "name": "其他数字媒体",
-        "change_pct": -0.62,
-        "turnover": 2355130930.0,
-        "main_net": 10231033.0,
-        "main_pct": 0.43
-      },
-      {
-        "code": "BK1506",
-        "name": "农业综合Ⅲ",
-        "change_pct": 1.17,
-        "turnover": 164816431.0,
-        "main_net": 9483667.0,
-        "main_pct": 5.75
-      },
-      {
-        "code": "BK1257",
-        "name": "农业综合Ⅱ",
-        "change_pct": 1.17,
-        "turnover": 164816431.0,
-        "main_net": 9483667.0,
-        "main_pct": 5.75
-      },
-      {
-        "code": "BK1369",
-        "name": "长材",
-        "change_pct": -1.46,
-        "turnover": 99785196.0,
-        "main_net": 8116087.0,
-        "main_pct": 8.13
-      },
-      {
-        "code": "BK1451",
-        "name": "厨房电器",
-        "change_pct": -1.77,
-        "turnover": 408521930.0,
-        "main_net": 7670317.0,
-        "main_pct": 1.88
-      },
-      {
-        "code": "BK1392",
-        "name": "工程机械器件",
-        "change_pct": -1.85,
-        "turnover": 1921922069.0,
-        "main_net": 7231388.0,
-        "main_pct": 0.38
-      },
-      {
-        "code": "BK1501",
-        "name": "动物保健Ⅲ",
-        "change_pct": -0.66,
-        "turnover": 458198403.0,
-        "main_net": 6931619.0,
-        "main_pct": 1.51
-      },
-      {
-        "code": "BK1254",
-        "name": "动物保健Ⅱ",
-        "change_pct": -0.66,
-        "turnover": 458198403.0,
-        "main_net": 6931619.0,
-        "main_pct": 1.51
-      },
-      {
-        "code": "BK1516",
-        "name": "其他种植业",
-        "change_pct": 1.65,
-        "turnover": 1887445485.0,
-        "main_net": 6606935.0,
-        "main_pct": 0.35
-      },
-      {
-        "code": "BK1456",
-        "name": "其他家电Ⅲ",
-        "change_pct": -2.51,
-        "turnover": 265140213.0,
-        "main_net": 6095935.0,
-        "main_pct": 2.3
-      },
-      {
-        "code": "BK1243",
-        "name": "其他家电Ⅱ",
-        "change_pct": -2.51,
-        "turnover": 265140213.0,
-        "main_net": 6095935.0,
-        "main_pct": 2.3
-      },
-      {
-        "code": "BK1565",
-        "name": "会展服务",
-        "change_pct": -1.86,
-        "turnover": 410168237.0,
-        "main_net": 5971809.0,
-        "main_pct": 1.46
-      },
-      {
-        "code": "BK1617",
-        "name": "黄金",
-        "change_pct": -1.32,
-        "turnover": 14900536459.0,
-        "main_net": 4830016.0,
-        "main_pct": 0.03
-      },
-      {
-        "code": "BK1513",
-        "name": "海洋捕捞",
-        "change_pct": -0.46,
-        "turnover": 161881576.0,
-        "main_net": 4446661.0,
-        "main_pct": 2.75
-      },
-      {
-        "code": "BK1454",
-        "name": "其他黑色家电",
-        "change_pct": -2.3,
-        "turnover": 757560843.0,
-        "main_net": 4132635.0,
-        "main_pct": 0.55
-      },
-      {
-        "code": "BK1374",
-        "name": "风力发电",
-        "change_pct": 1.12,
-        "turnover": 2925971672.0,
-        "main_net": 3733200.0,
-        "main_pct": 0.13
-      },
-      {
-        "code": "BK1508",
-        "name": "畜禽饲料",
-        "change_pct": 0.39,
-        "turnover": 956581449.0,
-        "main_net": 2634079.0,
-        "main_pct": 0.28
-      },
-      {
-        "code": "BK1473",
-        "name": "园林工程",
-        "change_pct": -0.56,
-        "turnover": 1600227293.0,
-        "main_net": 2306138.0,
-        "main_pct": 0.14
-      },
-      {
-        "code": "BK1458",
-        "name": "个护小家电",
-        "change_pct": -1.27,
-        "turnover": 173094948.0,
-        "main_net": 1292371.0,
-        "main_pct": 0.75
-      },
-      {
-        "code": "BK1496",
-        "name": "洗护用品",
-        "change_pct": -0.38,
-        "turnover": 223793770.0,
-        "main_net": 1169322.0,
-        "main_pct": 0.52
-      },
-      {
-        "code": "BK1457",
-        "name": "厨房小家电",
-        "change_pct": -1.24,
-        "turnover": 2462756916.0,
-        "main_net": 277097.0,
-        "main_pct": 0.01
-      },
-      {
-        "code": "BK1558",
-        "name": "学历教育",
-        "change_pct": -2.28,
-        "turnover": 256098033.0,
-        "main_net": -95830.0,
-        "main_pct": -0.04
-      }
-    ],
-    "by_money_out": [
-      {
-        "code": "BK1201",
-        "name": "电子",
-        "change_pct": -3.4,
-        "main_net": -13864036864.0
-      },
-      {
-        "code": "BK1205",
-        "name": "机械设备",
-        "change_pct": -2.49,
-        "main_net": -5856569344.0
-      },
-      {
-        "code": "BK0459",
-        "name": "元件",
-        "change_pct": -5.13,
-        "main_net": -5436641280.0
-      },
-      {
-        "code": "BK1200",
-        "name": "电力设备",
-        "change_pct": -1.75,
-        "main_net": -5006026240.0
-      },
-      {
-        "code": "BK1340",
-        "name": "印制电路板",
-        "change_pct": -5.86,
-        "main_net": -4956335872.0
-      },
-      {
-        "code": "BK0448",
-        "name": "通信设备",
-        "change_pct": -3.84,
-        "main_net": -4758732032.0
-      },
-      {
-        "code": "BK1036",
-        "name": "半导体",
-        "change_pct": -3.33,
-        "main_net": -4629633024.0
-      },
-      {
-        "code": "BK1215",
-        "name": "通信",
-        "change_pct": -3.23,
-        "main_net": -4542204160.0
-      },
-      {
-        "code": "BK1216",
-        "name": "医药生物",
-        "change_pct": -1.86,
-        "main_net": -4098666496.0
-      },
-      {
-        "code": "BK0478",
-        "name": "有色金属",
-        "change_pct": -2.34,
-        "main_net": -4014772992.0
-      },
-      {
-        "code": "BK1207",
-        "name": "计算机",
-        "change_pct": -2.74,
-        "main_net": -3904081152.0
-      },
-      {
-        "code": "BK1331",
-        "name": "数字芯片设计",
-        "change_pct": -4.32,
-        "main_net": -3868384000.0
-      },
-      {
-        "code": "BK0545",
-        "name": "通用设备",
-        "change_pct": -2.67,
-        "main_net": -2964095600.0
-      },
-      {
-        "code": "BK1033",
-        "name": "电池",
-        "change_pct": -2.81,
-        "main_net": -2894688512.0
-      },
-      {
-        "code": "BK1591",
-        "name": "通信网络设备及器件",
-        "change_pct": -4.51,
-        "main_net": -2809506560.0
-      },
-      {
-        "code": "BK0486",
-        "name": "传媒",
-        "change_pct": -1.51,
-        "main_net": -2441530624.0
-      },
-      {
-        "code": "BK1206",
-        "name": "基础化工",
-        "change_pct": -1.71,
-        "main_net": -2441054720.0
-      },
-      {
-        "code": "BK0737",
-        "name": "软件开发",
-        "change_pct": -2.83,
-        "main_net": -2001510288.0
-      },
-      {
-        "code": "BK0727",
-        "name": "医疗服务",
-        "change_pct": -3.6,
-        "main_net": -1835998528.0
-      },
-      {
-        "code": "BK1237",
-        "name": "自动化设备",
-        "change_pct": -3.49,
-        "main_net": -1703102432.0
-      },
-      {
-        "code": "BK1287",
-        "name": "工业金属",
-        "change_pct": -2.22,
-        "main_net": -1690808672.0
       },
       {
         "code": "BK1303",
         "name": "锂电池",
-        "change_pct": -3.0,
-        "main_net": -1678846976.0
+        "change_pct": -0.86,
+        "turnover": 26642304754.0,
+        "main_net": -1496856912.0,
+        "main_pct": -5.62,
+        "up": 6.0,
+        "down": 26.0
       },
       {
-        "code": "BK1204",
-        "name": "国防军工",
-        "change_pct": -1.52,
-        "main_net": -1532307328.0
+        "code": "BK1218",
+        "name": "出版",
+        "change_pct": -0.85,
+        "turnover": 9802331453.0,
+        "main_net": -154413456.0,
+        "main_pct": -1.58,
+        "up": 7.0,
+        "down": 20.0
       },
       {
-        "code": "BK1600",
-        "name": "医疗研发外包",
-        "change_pct": -4.67,
-        "main_net": -1530473760.0
+        "code": "BK1257",
+        "name": "农业综合Ⅱ",
+        "change_pct": -0.85,
+        "turnover": 112814896.0,
+        "main_net": 2266552.0,
+        "main_pct": 2.01,
+        "up": 0.0,
+        "down": 2.0
       },
       {
-        "code": "BK1338",
-        "name": "消费电子零部件及组装",
-        "change_pct": -2.83,
-        "main_net": -1442901984.0
+        "code": "BK1506",
+        "name": "农业综合Ⅲ",
+        "change_pct": -0.85,
+        "turnover": 112814896.0,
+        "main_net": 2266552.0,
+        "main_pct": 2.01,
+        "up": 0.0,
+        "down": 2.0
       },
       {
-        "code": "BK1592",
-        "name": "通信线缆及配套",
-        "change_pct": -4.78,
-        "main_net": -1389668352.0
+        "code": "BK0420",
+        "name": "航空机场",
+        "change_pct": -0.85,
+        "turnover": 2580210315.0,
+        "main_net": -130781506.0,
+        "main_pct": -5.07,
+        "up": 0.0,
+        "down": 13.0
       },
       {
-        "code": "BK1203",
-        "name": "非银金融",
-        "change_pct": -1.04,
-        "main_net": -1298414080.0
+        "code": "BK1313",
+        "name": "风电零部件",
+        "change_pct": -0.84,
+        "turnover": 5068873762.0,
+        "main_net": -145790256.0,
+        "main_pct": -2.88,
+        "up": 2.0,
+        "down": 22.0
+      },
+      {
+        "code": "BK1559",
+        "name": "餐饮",
+        "change_pct": -0.84,
+        "turnover": 126664269.0,
+        "main_net": 3173348.0,
+        "main_pct": 2.51,
+        "up": 0.0,
+        "down": 3.0
+      }
+    ],
+    "by_money": [
+      {
+        "code": "BK1201",
+        "name": "电子",
+        "change_pct": 0.91,
+        "turnover": 346055720266.0,
+        "main_net": 9338673920.0,
+        "main_pct": 2.7
+      },
+      {
+        "code": "BK0459",
+        "name": "元件",
+        "change_pct": 2.49,
+        "turnover": 77818034990.0,
+        "main_net": 3841536512.0,
+        "main_pct": 4.94
+      },
+      {
+        "code": "BK1340",
+        "name": "印制电路板",
+        "change_pct": 3.07,
+        "turnover": 68396232945.0,
+        "main_net": 3763197952.0,
+        "main_pct": 5.5
+      },
+      {
+        "code": "BK0448",
+        "name": "通信设备",
+        "change_pct": 1.7,
+        "turnover": 91650605135.0,
+        "main_net": 3733729024.0,
+        "main_pct": 4.07
+      },
+      {
+        "code": "BK1215",
+        "name": "通信",
+        "change_pct": 0.97,
+        "turnover": 102426970839.0,
+        "main_net": 3246463232.0,
+        "main_pct": 3.17
+      },
+      {
+        "code": "BK1591",
+        "name": "通信网络设备及器件",
+        "change_pct": 1.53,
+        "turnover": 63197632034.0,
+        "main_net": 2755503872.0,
+        "main_pct": 4.36
       },
       {
         "code": "BK1037",
         "name": "消费电子",
-        "change_pct": -2.79,
-        "main_net": -1294465024.0
+        "change_pct": 1.2,
+        "turnover": 48942415059.0,
+        "main_net": 2655162624.0,
+        "main_pct": 5.43
       },
       {
-        "code": "BK1396",
-        "name": "金属制品",
-        "change_pct": -2.71,
-        "main_net": -1290898976.0
+        "code": "BK1338",
+        "name": "消费电子零部件及组装",
+        "change_pct": 1.24,
+        "turnover": 44293365594.0,
+        "main_net": 2613484800.0,
+        "main_pct": 5.9
       },
       {
-        "code": "BK1027",
-        "name": "小金属",
-        "change_pct": -2.66,
-        "main_net": -1288419168.0
+        "code": "BK1205",
+        "name": "机械设备",
+        "change_pct": 0.63,
+        "turnover": 127069598068.0,
+        "main_net": 2336977920.0,
+        "main_pct": 1.84
       },
       {
-        "code": "BK0438",
-        "name": "食品饮料",
-        "change_pct": -1.58,
-        "main_net": -1231235824.0
+        "code": "BK1036",
+        "name": "半导体",
+        "change_pct": 0.46,
+        "turnover": 170249452549.0,
+        "main_net": 2311931392.0,
+        "main_pct": 1.36
       },
       {
-        "code": "BK1211",
-        "name": "汽车",
-        "change_pct": -1.99,
-        "main_net": -1223012688.0
-      },
-      {
-        "code": "BK0910",
-        "name": "专用设备",
-        "change_pct": -2.12,
-        "main_net": -1200906192.0
-      },
-      {
-        "code": "BK1447",
-        "name": "垂直应用软件",
-        "change_pct": -2.72,
-        "main_net": -1151235744.0
-      },
-      {
-        "code": "BK0538",
-        "name": "化学制品",
-        "change_pct": -1.89,
-        "main_net": -1063016288.0
-      },
-      {
-        "code": "BK1615",
-        "name": "铜",
-        "change_pct": -3.91,
-        "main_net": -1046532848.0
-      },
-      {
-        "code": "BK0473",
-        "name": "证券Ⅱ",
-        "change_pct": -1.04,
-        "main_net": -1029610096.0
-      },
-      {
-        "code": "BK1366",
-        "name": "证券Ⅲ",
-        "change_pct": -1.04,
-        "main_net": -1029610096.0
-      },
-      {
-        "code": "BK0735",
-        "name": "计算机设备",
-        "change_pct": -2.95,
-        "main_net": -969329248.0
-      },
-      {
-        "code": "BK1039",
-        "name": "电子化学品Ⅱ",
-        "change_pct": -3.69,
-        "main_net": -943085296.0
-      },
-      {
-        "code": "BK1332",
-        "name": "电子化学品Ⅲ",
-        "change_pct": -3.69,
-        "main_net": -943085296.0
+        "code": "BK0545",
+        "name": "通用设备",
+        "change_pct": 1.08,
+        "turnover": 53646481723.0,
+        "main_net": 2032518368.0,
+        "main_pct": 3.79
       },
       {
         "code": "BK0481",
         "name": "汽车零部件",
-        "change_pct": -2.1,
-        "main_net": -939975248.0
+        "change_pct": 1.25,
+        "turnover": 49128119320.0,
+        "main_net": 1277613888.0,
+        "main_pct": 2.6
       },
       {
-        "code": "BK0465",
-        "name": "化学制药",
-        "change_pct": -1.76,
-        "main_net": -935259792.0
-      },
-      {
-        "code": "BK1238",
-        "name": "IT服务Ⅱ",
-        "change_pct": -2.52,
-        "main_net": -933241760.0
-      },
-      {
-        "code": "BK1444",
-        "name": "IT服务Ⅲ",
-        "change_pct": -2.52,
-        "main_net": -933241760.0
-      },
-      {
-        "code": "BK1208",
-        "name": "建筑材料",
-        "change_pct": -1.53,
-        "main_net": -884273616.0
-      },
-      {
-        "code": "BK1038",
-        "name": "光学光电子",
-        "change_pct": -2.87,
-        "main_net": -881215424.0
-      },
-      {
-        "code": "BK1325",
-        "name": "半导体材料",
-        "change_pct": -2.56,
-        "main_net": -865725744.0
-      },
-      {
-        "code": "BK1448",
-        "name": "横向通用软件",
-        "change_pct": -3.14,
-        "main_net": -850274544.0
-      },
-      {
-        "code": "BK1302",
-        "name": "电池化学品",
-        "change_pct": -2.55,
-        "main_net": -837657264.0
-      },
-      {
-        "code": "BK1594",
-        "name": "化学制剂",
-        "change_pct": -1.59,
-        "main_net": -821189696.0
-      },
-      {
-        "code": "BK1526",
-        "name": "底盘与发动机系统",
-        "change_pct": -2.5,
-        "main_net": -802926672.0
-      },
-      {
-        "code": "BK1277",
-        "name": "白酒Ⅱ",
-        "change_pct": -2.13,
-        "main_net": -786067488.0
-      },
-      {
-        "code": "BK1575",
-        "name": "白酒Ⅲ",
-        "change_pct": -2.13,
-        "main_net": -786067488.0
-      },
-      {
-        "code": "BK1046",
-        "name": "游戏Ⅱ",
-        "change_pct": -3.08,
-        "main_net": -772633280.0
-      },
-      {
-        "code": "BK1301",
-        "name": "游戏Ⅲ",
-        "change_pct": -3.08,
-        "main_net": -772633280.0
-      },
-      {
-        "code": "BK1031",
-        "name": "光伏设备",
-        "change_pct": -0.34,
-        "main_net": -756841216.0
-      },
-      {
-        "code": "BK0546",
-        "name": "玻璃玻纤",
-        "change_pct": -2.97,
-        "main_net": -742146416.0
-      },
-      {
-        "code": "BK1624",
-        "name": "其他小金属",
-        "change_pct": -2.51,
-        "main_net": -706205456.0
-      },
-      {
-        "code": "BK0458",
-        "name": "仪器仪表",
-        "change_pct": -2.97,
-        "main_net": -698069536.0
-      },
-      {
-        "code": "BK1221",
-        "name": "数字媒体",
-        "change_pct": -1.62,
-        "main_net": -686074720.0
-      },
-      {
-        "code": "BK1408",
-        "name": "机器人",
-        "change_pct": -3.8,
-        "main_net": -684177568.0
-      },
-      {
-        "code": "BK1223",
-        "name": "其他电子Ⅱ",
-        "change_pct": -3.29,
-        "main_net": -678995600.0
-      },
-      {
-        "code": "BK1336",
-        "name": "其他电子Ⅲ",
-        "change_pct": -3.29,
-        "main_net": -678995600.0
-      },
-      {
-        "code": "BK1462",
-        "name": "玻纤制造",
-        "change_pct": -4.65,
-        "main_net": -674679616.0
-      },
-      {
-        "code": "BK1446",
-        "name": "其他计算机设备",
-        "change_pct": -3.02,
-        "main_net": -661528672.0
-      },
-      {
-        "code": "BK1328",
-        "name": "集成电路封测",
-        "change_pct": -2.84,
-        "main_net": -648052128.0
-      },
-      {
-        "code": "BK1044",
-        "name": "生物制品",
-        "change_pct": -2.3,
-        "main_net": -646479744.0
-      },
-      {
-        "code": "BK1405",
-        "name": "其他专用设备",
-        "change_pct": -2.54,
-        "main_net": -619884400.0
-      },
-      {
-        "code": "BK1233",
-        "name": "军工电子Ⅱ",
-        "change_pct": -1.9,
-        "main_net": -617294608.0
-      },
-      {
-        "code": "BK1386",
-        "name": "军工电子Ⅲ",
-        "change_pct": -1.9,
-        "main_net": -617294608.0
-      },
-      {
-        "code": "BK0454",
-        "name": "塑料",
-        "change_pct": -2.52,
-        "main_net": -580429552.0
-      },
-      {
-        "code": "BK1320",
-        "name": "逆变器",
-        "change_pct": -2.97,
-        "main_net": -546234192.0
-      },
-      {
-        "code": "BK1593",
-        "name": "通信终端及配件",
-        "change_pct": -3.16,
-        "main_net": -516672592.0
-      },
-      {
-        "code": "BK1403",
-        "name": "能源及重型设备",
-        "change_pct": -2.01,
-        "main_net": -510694208.0
-      },
-      {
-        "code": "BK1596",
-        "name": "其他生物制品",
-        "change_pct": -2.68,
-        "main_net": -510103456.0
-      },
-      {
-        "code": "BK1339",
-        "name": "被动元件",
-        "change_pct": -3.28,
-        "main_net": -480305184.0
-      },
-      {
-        "code": "BK1015",
-        "name": "能源金属",
-        "change_pct": -2.11,
-        "main_net": -470295024.0
-      },
-      {
-        "code": "BK1034",
-        "name": "其他电源设备Ⅱ",
-        "change_pct": -2.52,
-        "main_net": -456077600.0
-      },
-      {
-        "code": "BK1220",
-        "name": "广告营销",
-        "change_pct": -1.43,
-        "main_net": -448905648.0
-      },
-      {
-        "code": "BK1293",
-        "name": "营销代理",
-        "change_pct": -1.61,
-        "main_net": -448294688.0
+        "code": "BK1331",
+        "name": "数字芯片设计",
+        "change_pct": 0.98,
+        "turnover": 76568224085.0,
+        "main_net": 1217379072.0,
+        "main_pct": 1.59
       },
       {
         "code": "BK1400",
         "name": "制冷空调设备",
-        "change_pct": -2.74,
-        "main_net": -445218224.0
+        "change_pct": 1.44,
+        "turnover": 6755995631.0,
+        "main_net": 1135114336.0,
+        "main_pct": 16.8
       },
       {
-        "code": "BK1613",
-        "name": "铝",
-        "change_pct": -1.31,
-        "main_net": -439979648.0
+        "code": "BK1211",
+        "name": "汽车",
+        "change_pct": 0.99,
+        "turnover": 58796606584.0,
+        "main_net": 1083540224.0,
+        "main_pct": 1.84
       },
       {
-        "code": "BK1407",
-        "name": "工控设备",
-        "change_pct": -3.18,
-        "main_net": -439609824.0
+        "code": "BK1204",
+        "name": "国防军工",
+        "change_pct": 1.16,
+        "turnover": 45624971902.0,
+        "main_net": 1009283888.0,
+        "main_pct": 2.21
       },
       {
-        "code": "BK1212",
-        "name": "轻工制造",
-        "change_pct": -1.72,
-        "main_net": -433883088.0
+        "code": "BK1283",
+        "name": "银行",
+        "change_pct": 0.98,
+        "turnover": 30653558868.0,
+        "main_net": 978803712.0,
+        "main_pct": 3.19
       },
       {
-        "code": "BK1213",
-        "name": "商贸零售",
-        "change_pct": -1.71,
-        "main_net": -424702176.0
+        "code": "BK0475",
+        "name": "银行Ⅱ",
+        "change_pct": 0.98,
+        "turnover": 30653558868.0,
+        "main_net": 978803712.0,
+        "main_pct": 3.19
       },
       {
-        "code": "BK1439",
-        "name": "膜材料",
-        "change_pct": -2.81,
-        "main_net": -420949536.0
+        "code": "BK0437",
+        "name": "煤炭",
+        "change_pct": 3.47,
+        "turnover": 13731669035.0,
+        "main_net": 934450272.0,
+        "main_pct": 6.81
       },
       {
-        "code": "BK1322",
-        "name": "其他电源设备Ⅲ",
-        "change_pct": -2.82,
-        "main_net": -389036848.0
+        "code": "BK1250",
+        "name": "煤炭开采",
+        "change_pct": 2.98,
+        "turnover": 12087268284.0,
+        "main_net": 740028336.0,
+        "main_pct": 6.12
       },
       {
-        "code": "BK1032",
-        "name": "风电设备",
-        "change_pct": -1.52,
-        "main_net": -385994992.0
+        "code": "BK1526",
+        "name": "底盘与发动机系统",
+        "change_pct": 1.54,
+        "turnover": 24290085384.0,
+        "main_net": 732716016.0,
+        "main_pct": 3.02
       },
       {
-        "code": "BK1625",
-        "name": "钨",
-        "change_pct": -4.08,
-        "main_net": -385071264.0
+        "code": "BK1385",
+        "name": "航天装备Ⅲ",
+        "change_pct": 1.92,
+        "turnover": 9162877691.0,
+        "main_net": 663729984.0,
+        "main_pct": 7.24
       },
       {
-        "code": "BK1482",
-        "name": "航运",
-        "change_pct": -2.13,
-        "main_net": -372510528.0
+        "code": "BK1232",
+        "name": "航天装备Ⅱ",
+        "change_pct": 1.92,
+        "turnover": 9162877691.0,
+        "main_net": 663729984.0,
+        "main_pct": 7.24
+      },
+      {
+        "code": "BK1326",
+        "name": "半导体设备",
+        "change_pct": -0.19,
+        "turnover": 30480794170.0,
+        "main_net": 656057056.0,
+        "main_pct": 2.15
+      },
+      {
+        "code": "BK1611",
+        "name": "国有大型银行Ⅲ",
+        "change_pct": 1.85,
+        "turnover": 11727747524.0,
+        "main_net": 646220320.0,
+        "main_pct": 5.51
+      },
+      {
+        "code": "BK1221",
+        "name": "数字媒体",
+        "change_pct": 0.25,
+        "turnover": 19838212078.0,
+        "main_net": 622206976.0,
+        "main_pct": 3.14
+      },
+      {
+        "code": "BK0478",
+        "name": "有色金属",
+        "change_pct": 0.45,
+        "turnover": 62222525607.0,
+        "main_net": 620207872.0,
+        "main_pct": 1.0
+      },
+      {
+        "code": "BK1493",
+        "name": "动力煤",
+        "change_pct": 3.22,
+        "turnover": 9492914789.0,
+        "main_net": 535211888.0,
+        "main_pct": 5.64
+      },
+      {
+        "code": "BK1237",
+        "name": "自动化设备",
+        "change_pct": 1.15,
+        "turnover": 33975481459.0,
+        "main_net": 532045808.0,
+        "main_pct": 1.57
+      },
+      {
+        "code": "BK1592",
+        "name": "通信线缆及配套",
+        "change_pct": 2.61,
+        "turnover": 17223777116.0,
+        "main_net": 519073136.0,
+        "main_pct": 3.01
+      },
+      {
+        "code": "BK1325",
+        "name": "半导体材料",
+        "change_pct": -0.04,
+        "turnover": 22516999171.0,
+        "main_net": 490132992.0,
+        "main_pct": 2.18
+      },
+      {
+        "code": "BK0727",
+        "name": "医疗服务",
+        "change_pct": 0.35,
+        "turnover": 23832597577.0,
+        "main_net": 485263376.0,
+        "main_pct": 2.04
+      },
+      {
+        "code": "BK1624",
+        "name": "其他小金属",
+        "change_pct": 2.6,
+        "turnover": 8456078026.0,
+        "main_net": 480498672.0,
+        "main_pct": 5.68
+      },
+      {
+        "code": "BK0454",
+        "name": "塑料",
+        "change_pct": 0.81,
+        "turnover": 18804602710.0,
+        "main_net": 466077696.0,
+        "main_pct": 2.48
+      },
+      {
+        "code": "BK1408",
+        "name": "机器人",
+        "change_pct": 2.7,
+        "turnover": 13069802058.0,
+        "main_net": 461263872.0,
+        "main_pct": 3.53
+      },
+      {
+        "code": "BK1038",
+        "name": "光学光电子",
+        "change_pct": 0.79,
+        "turnover": 26452849330.0,
+        "main_net": 455287968.0,
+        "main_pct": 1.72
       },
       {
         "code": "BK1209",
         "name": "建筑装饰",
-        "change_pct": -1.47,
-        "main_net": -372144896.0
+        "change_pct": -0.14,
+        "turnover": 18199914433.0,
+        "main_net": 442683184.0,
+        "main_pct": 2.43
       },
       {
-        "code": "BK1589",
-        "name": "通信应用增值服务",
-        "change_pct": -2.96,
-        "main_net": -364427544.0
+        "code": "BK1396",
+        "name": "金属制品",
+        "change_pct": 1.45,
+        "turnover": 18201789861.0,
+        "main_net": 433901504.0,
+        "main_pct": 2.38
       },
       {
-        "code": "BK1202",
-        "name": "房地产",
-        "change_pct": -1.44,
-        "main_net": -355338288.0
+        "code": "BK1239",
+        "name": "白色家电",
+        "change_pct": -0.54,
+        "turnover": 4233171512.0,
+        "main_net": 425130688.0,
+        "main_pct": 10.04
       },
       {
-        "code": "BK1397",
-        "name": "磨具磨料",
-        "change_pct": -3.49,
-        "main_net": -353005584.0
+        "code": "BK1386",
+        "name": "军工电子Ⅲ",
+        "change_pct": 1.79,
+        "turnover": 18099609375.0,
+        "main_net": 399808144.0,
+        "main_pct": 2.21
       },
       {
-        "code": "BK1335",
-        "name": "面板",
-        "change_pct": -2.64,
-        "main_net": -350561392.0
+        "code": "BK1233",
+        "name": "军工电子Ⅱ",
+        "change_pct": 1.79,
+        "turnover": 18099609375.0,
+        "main_net": 399808144.0,
+        "main_pct": 2.21
+      },
+      {
+        "code": "BK1027",
+        "name": "小金属",
+        "change_pct": 1.71,
+        "turnover": 14820419126.0,
+        "main_net": 390216192.0,
+        "main_pct": 2.63
+      },
+      {
+        "code": "BK1287",
+        "name": "工业金属",
+        "change_pct": -0.01,
+        "turnover": 19542945051.0,
+        "main_net": 387932112.0,
+        "main_pct": 1.99
+      },
+      {
+        "code": "BK1298",
+        "name": "文字媒体",
+        "change_pct": 0.83,
+        "turnover": 6191079912.0,
+        "main_net": 356978448.0,
+        "main_pct": 5.77
       },
       {
         "code": "BK1294",
         "name": "门户网站",
-        "change_pct": -2.3,
-        "main_net": -337897419.0
+        "change_pct": -0.51,
+        "turnover": 4792156974.0,
+        "main_net": 352812736.0,
+        "main_pct": 7.36
       },
       {
-        "code": "BK1040",
-        "name": "中药Ⅱ",
-        "change_pct": -0.86,
-        "main_net": -335287440.0
+        "code": "BK1265",
+        "name": "包装印刷",
+        "change_pct": -0.12,
+        "turnover": 3388486279.0,
+        "main_net": 351658267.0,
+        "main_pct": 10.38
+      },
+      {
+        "code": "BK1535",
+        "name": "纸包装",
+        "change_pct": -0.06,
+        "turnover": 1965887219.0,
+        "main_net": 347400783.0,
+        "main_pct": 17.67
+      },
+      {
+        "code": "BK1212",
+        "name": "轻工制造",
+        "change_pct": -0.47,
+        "turnover": 12242026079.0,
+        "main_net": 341465568.0,
+        "main_pct": 2.79
+      },
+      {
+        "code": "BK0456",
+        "name": "家用电器",
+        "change_pct": 0.81,
+        "turnover": 22701988098.0,
+        "main_net": 335127472.0,
+        "main_pct": 1.48
+      },
+      {
+        "code": "BK1327",
+        "name": "分立器件",
+        "change_pct": 0.67,
+        "turnover": 10570796984.0,
+        "main_net": 331895472.0,
+        "main_pct": 3.14
+      },
+      {
+        "code": "BK1495",
+        "name": "生活用纸",
+        "change_pct": -0.84,
+        "turnover": 1379797149.0,
+        "main_net": 310403079.0,
+        "main_pct": 22.5
+      },
+      {
+        "code": "BK1450",
+        "name": "空调",
+        "change_pct": -1.18,
+        "turnover": 3128717056.0,
+        "main_net": 307271776.0,
+        "main_pct": 9.82
+      },
+      {
+        "code": "BK1251",
+        "name": "个护用品",
+        "change_pct": -1.34,
+        "turnover": 1620209300.0,
+        "main_net": 302614051.0,
+        "main_pct": 18.68
+      },
+      {
+        "code": "BK1609",
+        "name": "城商行Ⅲ",
+        "change_pct": 0.87,
+        "turnover": 7525981175.0,
+        "main_net": 298881216.0,
+        "main_pct": 3.97
+      },
+      {
+        "code": "BK1248",
+        "name": "专业工程",
+        "change_pct": 0.22,
+        "turnover": 5393497459.0,
+        "main_net": 294833920.0,
+        "main_pct": 5.47
+      },
+      {
+        "code": "BK1315",
+        "name": "光伏电池组件",
+        "change_pct": -2.5,
+        "turnover": 13099834147.0,
+        "main_net": 294634144.0,
+        "main_pct": 2.25
+      },
+      {
+        "code": "BK1601",
+        "name": "医院",
+        "change_pct": -0.19,
+        "turnover": 3846468395.0,
+        "main_net": 279984496.0,
+        "main_pct": 7.28
+      },
+      {
+        "code": "BK1590",
+        "name": "其他通信设备",
+        "change_pct": 2.28,
+        "turnover": 1883740690.0,
+        "main_net": 279145060.0,
+        "main_pct": 14.82
+      },
+      {
+        "code": "BK1380",
+        "name": "水力发电",
+        "change_pct": -0.63,
+        "turnover": 5475112205.0,
+        "main_net": 277254832.0,
+        "main_pct": 5.06
+      },
+      {
+        "code": "BK1035",
+        "name": "美容护理",
+        "change_pct": -0.89,
+        "turnover": 3471105127.0,
+        "main_net": 273289982.0,
+        "main_pct": 7.87
+      },
+      {
+        "code": "BK1615",
+        "name": "铜",
+        "change_pct": 0.2,
+        "turnover": 11005988496.0,
+        "main_net": 264206096.0,
+        "main_pct": 2.4
+      },
+      {
+        "code": "BK0458",
+        "name": "仪器仪表",
+        "change_pct": 0.95,
+        "turnover": 12462691610.0,
+        "main_net": 259057696.0,
+        "main_pct": 2.08
+      },
+      {
+        "code": "BK1525",
+        "name": "车身附件及饰件",
+        "change_pct": 1.41,
+        "turnover": 7275331402.0,
+        "main_net": 249849616.0,
+        "main_pct": 3.43
+      },
+      {
+        "code": "BK1553",
+        "name": "多业态零售",
+        "change_pct": 1.13,
+        "turnover": 2809839163.0,
+        "main_net": 240674539.0,
+        "main_pct": 8.57
+      },
+      {
+        "code": "BK1617",
+        "name": "黄金",
+        "change_pct": 1.34,
+        "turnover": 10053549514.0,
+        "main_net": 233603664.0,
+        "main_pct": 2.32
+      },
+      {
+        "code": "BK1477",
+        "name": "其他专业工程",
+        "change_pct": 0.63,
+        "turnover": 3427641906.0,
+        "main_net": 232965565.0,
+        "main_pct": 6.8
+      },
+      {
+        "code": "BK0482",
+        "name": "一般零售",
+        "change_pct": 1.22,
+        "turnover": 10991253494.0,
+        "main_net": 229713248.0,
+        "main_pct": 2.09
+      },
+      {
+        "code": "BK1332",
+        "name": "电子化学品Ⅲ",
+        "change_pct": 0.75,
+        "turnover": 13363888594.0,
+        "main_net": 229371392.0,
+        "main_pct": 1.72
+      },
+      {
+        "code": "BK1039",
+        "name": "电子化学品Ⅱ",
+        "change_pct": 0.75,
+        "turnover": 13363888594.0,
+        "main_net": 229371392.0,
+        "main_pct": 1.72
+      },
+      {
+        "code": "BK1335",
+        "name": "面板",
+        "change_pct": 0.56,
+        "turnover": 8881915635.0,
+        "main_net": 212026976.0,
+        "main_pct": 2.39
+      },
+      {
+        "code": "BK1494",
+        "name": "焦煤",
+        "change_pct": 2.56,
+        "turnover": 2594353494.0,
+        "main_net": 204816443.0,
+        "main_pct": 7.89
       },
       {
         "code": "BK1608",
         "name": "中药Ⅲ",
+        "change_pct": -0.19,
+        "turnover": 8313500026.0,
+        "main_net": 200864704.0,
+        "main_pct": 2.42
+      },
+      {
+        "code": "BK1040",
+        "name": "中药Ⅱ",
+        "change_pct": -0.19,
+        "turnover": 8313500026.0,
+        "main_net": 200864704.0,
+        "main_pct": 2.42
+      },
+      {
+        "code": "BK1208",
+        "name": "建筑材料",
+        "change_pct": -0.02,
+        "turnover": 16303443480.0,
+        "main_net": 198454384.0,
+        "main_pct": 1.22
+      },
+      {
+        "code": "BK1381",
+        "name": "燃气Ⅲ",
+        "change_pct": 3.25,
+        "turnover": 4418368912.0,
+        "main_net": 196453153.0,
+        "main_pct": 4.45
+      },
+      {
+        "code": "BK1028",
+        "name": "燃气Ⅱ",
+        "change_pct": 3.25,
+        "turnover": 4418368912.0,
+        "main_net": 196453153.0,
+        "main_pct": 4.45
+      },
+      {
+        "code": "BK1492",
+        "name": "焦炭Ⅲ",
+        "change_pct": 5.39,
+        "turnover": 1644400751.0,
+        "main_net": 194421979.0,
+        "main_pct": 11.82
+      },
+      {
+        "code": "BK1249",
+        "name": "焦炭Ⅱ",
+        "change_pct": 5.39,
+        "turnover": 1644400751.0,
+        "main_net": 194421979.0,
+        "main_pct": 11.82
+      },
+      {
+        "code": "BK1613",
+        "name": "铝",
+        "change_pct": 0.25,
+        "turnover": 6803465900.0,
+        "main_net": 190748192.0,
+        "main_pct": 2.8
+      },
+      {
+        "code": "BK1334",
+        "name": "光学元件",
+        "change_pct": 1.4,
+        "turnover": 11312879154.0,
+        "main_net": 181829040.0,
+        "main_pct": 1.61
+      },
+      {
+        "code": "BK1593",
+        "name": "通信终端及配件",
+        "change_pct": 1.17,
+        "turnover": 9345455293.0,
+        "main_net": 180007072.0,
+        "main_pct": 1.93
+      },
+      {
+        "code": "BK1439",
+        "name": "膜材料",
+        "change_pct": 1.21,
+        "turnover": 7666017890.0,
+        "main_net": 174048352.0,
+        "main_pct": 2.27
+      },
+      {
+        "code": "BK0732",
+        "name": "贵金属",
+        "change_pct": 1.3,
+        "turnover": 13642793743.0,
+        "main_net": 170610528.0,
+        "main_pct": 1.25
+      },
+      {
+        "code": "BK1410",
+        "name": "其他自动化设备",
+        "change_pct": 1.49,
+        "turnover": 6276484627.0,
+        "main_net": 160436224.0,
+        "main_pct": 2.56
+      },
+      {
+        "code": "BK1438",
+        "name": "合成树脂",
+        "change_pct": 1.91,
+        "turnover": 5915226980.0,
+        "main_net": 158909568.0,
+        "main_pct": 2.69
+      },
+      {
+        "code": "BK1398",
+        "name": "其他通用设备",
+        "change_pct": 0.86,
+        "turnover": 9196928851.0,
+        "main_net": 158236352.0,
+        "main_pct": 1.72
+      },
+      {
+        "code": "BK1455",
+        "name": "家电零部件Ⅲ",
+        "change_pct": 0.98,
+        "turnover": 7309868683.0,
+        "main_net": 154667744.0,
+        "main_pct": 2.12
+      },
+      {
+        "code": "BK1242",
+        "name": "家电零部件Ⅱ",
+        "change_pct": 0.98,
+        "turnover": 7309868683.0,
+        "main_net": 154667744.0,
+        "main_pct": 2.12
+      },
+      {
+        "code": "BK1468",
+        "name": "其他建材Ⅲ",
+        "change_pct": 1.08,
+        "turnover": 2128362479.0,
+        "main_net": 147866564.0,
+        "main_pct": 6.95
+      },
+      {
+        "code": "BK0424",
+        "name": "水泥",
+        "change_pct": -0.48,
+        "turnover": 2611239889.0,
+        "main_net": 139389424.0,
+        "main_pct": 5.34
+      },
+      {
+        "code": "BK1600",
+        "name": "医疗研发外包",
+        "change_pct": 0.53,
+        "turnover": 17297699997.0,
+        "main_net": 136309872.0,
+        "main_pct": 0.79
+      },
+      {
+        "code": "BK1527",
+        "name": "轮胎轮毂",
+        "change_pct": -0.17,
+        "turnover": 2842896061.0,
+        "main_net": 135553054.0,
+        "main_pct": 4.77
+      },
+      {
+        "code": "BK1425",
+        "name": "胶黏剂及胶带",
+        "change_pct": 2.31,
+        "turnover": 2071289495.0,
+        "main_net": 129146654.0,
+        "main_pct": 6.24
+      },
+      {
+        "code": "BK1282",
+        "name": "饮料乳品",
+        "change_pct": -0.26,
+        "turnover": 5487905514.0,
+        "main_net": 128331536.0,
+        "main_pct": 2.34
+      },
+      {
+        "code": "BK1330",
+        "name": "模拟芯片设计",
+        "change_pct": 1.05,
+        "turnover": 10566252092.0,
+        "main_net": 125681648.0,
+        "main_pct": 1.19
+      },
+      {
+        "code": "BK1585",
+        "name": "乳品",
+        "change_pct": -0.27,
+        "turnover": 3859066704.0,
+        "main_net": 121233512.0,
+        "main_pct": 3.14
+      },
+      {
+        "code": "BK1485",
+        "name": "铁路运输",
+        "change_pct": 0.38,
+        "turnover": 2049577647.0,
+        "main_net": 119301499.0,
+        "main_pct": 5.82
+      },
+      {
+        "code": "BK1529",
+        "name": "汽车电子电气系统",
+        "change_pct": 0.58,
+        "turnover": 6377892288.0,
+        "main_net": 118922176.0,
+        "main_pct": 1.86
+      },
+      {
+        "code": "BK1449",
+        "name": "冰洗",
+        "change_pct": -0.18,
+        "turnover": 1104454455.0,
+        "main_net": 117858937.0,
+        "main_pct": 10.67
+      },
+      {
+        "code": "BK1394",
+        "name": "轨交设备Ⅲ",
+        "change_pct": -0.11,
+        "turnover": 2620924692.0,
+        "main_net": 117036546.0,
+        "main_pct": 4.47
+      }
+    ],
+    "by_money_out": [
+      {
+        "code": "BK1200",
+        "name": "电力设备",
+        "change_pct": -0.81,
+        "main_net": -4217397760.0
+      },
+      {
+        "code": "BK1033",
+        "name": "电池",
+        "change_pct": -1.06,
+        "main_net": -2653810912.0
+      },
+      {
+        "code": "BK1303",
+        "name": "锂电池",
         "change_pct": -0.86,
-        "main_net": -335287440.0
+        "main_net": -1496856912.0
+      },
+      {
+        "code": "BK1031",
+        "name": "光伏设备",
+        "change_pct": -2.22,
+        "main_net": -1191034368.0
+      },
+      {
+        "code": "BK1207",
+        "name": "计算机",
+        "change_pct": -0.23,
+        "main_net": -1086060288.0
+      },
+      {
+        "code": "BK1320",
+        "name": "逆变器",
+        "change_pct": -2.94,
+        "main_net": -1021310656.0
+      },
+      {
+        "code": "BK1302",
+        "name": "电池化学品",
+        "change_pct": -1.8,
+        "main_net": -962923088.0
+      },
+      {
+        "code": "BK1203",
+        "name": "非银金融",
+        "change_pct": -0.55,
+        "main_net": -900440288.0
+      },
+      {
+        "code": "BK0473",
+        "name": "证券Ⅱ",
+        "change_pct": -0.53,
+        "main_net": -719958752.0
+      },
+      {
+        "code": "BK1366",
+        "name": "证券Ⅲ",
+        "change_pct": -0.53,
+        "main_net": -719958752.0
+      },
+      {
+        "code": "BK1238",
+        "name": "IT服务Ⅱ",
+        "change_pct": -0.16,
+        "main_net": -576488336.0
+      },
+      {
+        "code": "BK1444",
+        "name": "IT服务Ⅲ",
+        "change_pct": -0.16,
+        "main_net": -576488336.0
+      },
+      {
+        "code": "BK1293",
+        "name": "营销代理",
+        "change_pct": -0.95,
+        "main_net": -511736528.0
+      },
+      {
+        "code": "BK0736",
+        "name": "通信服务",
+        "change_pct": -0.82,
+        "main_net": -487265776.0
+      },
+      {
+        "code": "BK1216",
+        "name": "医药生物",
+        "change_pct": -0.4,
+        "main_net": -470155776.0
+      },
+      {
+        "code": "BK1220",
+        "name": "广告营销",
+        "change_pct": -1.01,
+        "main_net": -466578176.0
+      },
+      {
+        "code": "BK1041",
+        "name": "医疗器械",
+        "change_pct": -0.58,
+        "main_net": -439078640.0
+      },
+      {
+        "code": "BK1447",
+        "name": "垂直应用软件",
+        "change_pct": -0.52,
+        "main_net": -430137520.0
+      },
+      {
+        "code": "BK0465",
+        "name": "化学制药",
+        "change_pct": -0.41,
+        "main_net": -429794928.0
+      },
+      {
+        "code": "BK1015",
+        "name": "能源金属",
+        "change_pct": -2.27,
+        "main_net": -417859456.0
+      },
+      {
+        "code": "BK0464",
+        "name": "石油石化",
+        "change_pct": -0.44,
+        "main_net": -411598064.0
+      },
+      {
+        "code": "BK1594",
+        "name": "化学制剂",
+        "change_pct": -0.33,
+        "main_net": -393571888.0
+      },
+      {
+        "code": "BK1328",
+        "name": "集成电路封测",
+        "change_pct": -0.26,
+        "main_net": -390063584.0
+      },
+      {
+        "code": "BK1224",
+        "name": "纺织制造",
+        "change_pct": 0.18,
+        "main_net": -372672640.0
+      },
+      {
+        "code": "BK1350",
+        "name": "其他纺织",
+        "change_pct": 1.05,
+        "main_net": -361028672.0
+      },
+      {
+        "code": "BK1621",
+        "name": "锂",
+        "change_pct": -2.93,
+        "main_net": -338436448.0
+      },
+      {
+        "code": "BK0737",
+        "name": "软件开发",
+        "change_pct": -0.63,
+        "main_net": -337267712.0
+      },
+      {
+        "code": "BK1588",
+        "name": "通信工程及服务",
+        "change_pct": -1.26,
+        "main_net": -312071616.0
+      },
+      {
+        "code": "BK1245",
+        "name": "照明设备Ⅱ",
+        "change_pct": 0.8,
+        "main_net": -299739168.0
+      },
+      {
+        "code": "BK1460",
+        "name": "照明设备Ⅲ",
+        "change_pct": 0.8,
+        "main_net": -299739168.0
+      },
+      {
+        "code": "BK0739",
+        "name": "工程机械",
+        "change_pct": -0.2,
+        "main_net": -289684992.0
+      },
+      {
+        "code": "BK1393",
+        "name": "工程机械整机",
+        "change_pct": -1.2,
+        "main_net": -280147024.0
+      },
+      {
+        "code": "BK1019",
+        "name": "化学原料",
+        "change_pct": -0.8,
+        "main_net": -273747024.0
+      },
+      {
+        "code": "BK1316",
+        "name": "光伏辅材",
+        "change_pct": -2.11,
+        "main_net": -247541392.0
+      },
+      {
+        "code": "BK0436",
+        "name": "纺织服饰",
+        "change_pct": 0.19,
+        "main_net": -234200944.0
+      },
+      {
+        "code": "BK1262",
+        "name": "乘用车",
+        "change_pct": -0.47,
+        "main_net": -226355680.0
+      },
+      {
+        "code": "BK1605",
+        "name": "医疗设备",
+        "change_pct": -0.5,
+        "main_net": -226217424.0
+      },
+      {
+        "code": "BK1044",
+        "name": "生物制品",
+        "change_pct": -0.49,
+        "main_net": -225459200.0
+      },
+      {
+        "code": "BK0428",
+        "name": "电力",
+        "change_pct": -0.4,
+        "main_net": -220112576.0
+      },
+      {
+        "code": "BK1318",
+        "name": "光伏主材",
+        "change_pct": -2.51,
+        "main_net": -219003908.0
+      },
+      {
+        "code": "BK1276",
+        "name": "油气开采Ⅱ",
+        "change_pct": -0.49,
+        "main_net": -218067694.0
+      },
+      {
+        "code": "BK1574",
+        "name": "油气开采Ⅲ",
+        "change_pct": -0.49,
+        "main_net": -218067694.0
+      },
+      {
+        "code": "BK0457",
+        "name": "电网设备",
+        "change_pct": -0.49,
+        "main_net": -217749248.0
+      },
+      {
+        "code": "BK1374",
+        "name": "风力发电",
+        "change_pct": -0.36,
+        "main_net": -215785664.0
       },
       {
         "code": "BK1424",
         "name": "氟化工",
-        "change_pct": -2.68,
-        "main_net": -333952119.0
+        "change_pct": -0.93,
+        "main_net": -213607922.0
+      },
+      {
+        "code": "BK1277",
+        "name": "白酒Ⅱ",
+        "change_pct": -0.19,
+        "main_net": -210612240.0
+      },
+      {
+        "code": "BK1575",
+        "name": "白酒Ⅲ",
+        "change_pct": -0.19,
+        "main_net": -210612240.0
+      },
+      {
+        "code": "BK0731",
+        "name": "农化制品",
+        "change_pct": -1.12,
+        "main_net": -203823984.0
+      },
+      {
+        "code": "BK0451",
+        "name": "房地产开发",
+        "change_pct": -0.81,
+        "main_net": -194638640.0
+      },
+      {
+        "code": "BK1032",
+        "name": "风电设备",
+        "change_pct": -0.86,
+        "main_net": -187980192.0
+      },
+      {
+        "code": "BK1202",
+        "name": "房地产",
+        "change_pct": -0.8,
+        "main_net": -186520896.0
+      },
+      {
+        "code": "BK1403",
+        "name": "能源及重型设备",
+        "change_pct": -0.13,
+        "main_net": -182019072.0
+      },
+      {
+        "code": "BK0738",
+        "name": "多元金融",
+        "change_pct": -0.64,
+        "main_net": -180187802.0
+      },
+      {
+        "code": "BK1482",
+        "name": "航运",
+        "change_pct": -0.68,
+        "main_net": -176469008.0
+      },
+      {
+        "code": "BK0735",
+        "name": "计算机设备",
+        "change_pct": 0.26,
+        "main_net": -172304192.0
+      },
+      {
+        "code": "BK0438",
+        "name": "食品饮料",
+        "change_pct": -0.24,
+        "main_net": -171116240.0
+      },
+      {
+        "code": "BK1504",
+        "name": "粮油加工",
+        "change_pct": -0.59,
+        "main_net": -168961000.0
+      },
+      {
+        "code": "BK1299",
+        "name": "影视动漫制作",
+        "change_pct": -0.15,
+        "main_net": -166549456.0
+      },
+      {
+        "code": "BK1625",
+        "name": "钨",
+        "change_pct": -0.68,
+        "main_net": -162923147.0
+      },
+      {
+        "code": "BK1311",
+        "name": "输变电设备",
+        "change_pct": -0.77,
+        "main_net": -158874592.0
+      },
+      {
+        "code": "BK1223",
+        "name": "其他电子Ⅱ",
+        "change_pct": -0.07,
+        "main_net": -154615328.0
+      },
+      {
+        "code": "BK1336",
+        "name": "其他电子Ⅲ",
+        "change_pct": -0.07,
+        "main_net": -154615328.0
+      },
+      {
+        "code": "BK1218",
+        "name": "出版",
+        "change_pct": -0.85,
+        "main_net": -154413456.0
+      },
+      {
+        "code": "BK1375",
+        "name": "光伏发电",
+        "change_pct": -0.32,
+        "main_net": -148980678.0
+      },
+      {
+        "code": "BK1275",
+        "name": "油服工程",
+        "change_pct": -0.89,
+        "main_net": -146525079.0
+      },
+      {
+        "code": "BK1313",
+        "name": "风电零部件",
+        "change_pct": -0.84,
+        "main_net": -145790256.0
+      },
+      {
+        "code": "BK1222",
+        "name": "影视院线",
+        "change_pct": 0.27,
+        "main_net": -144626944.0
+      },
+      {
+        "code": "BK1256",
+        "name": "农产品加工",
+        "change_pct": -0.18,
+        "main_net": -140505376.0
+      },
+      {
+        "code": "BK1377",
+        "name": "火力发电",
+        "change_pct": -0.55,
+        "main_net": -134284368.0
+      },
+      {
+        "code": "BK0420",
+        "name": "航空机场",
+        "change_pct": -0.85,
+        "main_net": -130781506.0
+      },
+      {
+        "code": "BK0433",
+        "name": "农林牧渔",
+        "change_pct": -0.17,
+        "main_net": -126064416.0
+      },
+      {
+        "code": "BK1604",
+        "name": "医疗耗材",
+        "change_pct": -0.59,
+        "main_net": -123974112.0
+      },
+      {
+        "code": "BK1520",
+        "name": "综合乘用车",
+        "change_pct": -0.54,
+        "main_net": -122878250.0
+      },
+      {
+        "code": "BK1436",
+        "name": "农药",
+        "change_pct": -0.81,
+        "main_net": -121618233.0
+      },
+      {
+        "code": "BK1329",
+        "name": "集成电路制造",
+        "change_pct": -1.03,
+        "main_net": -119150976.0
+      },
+      {
+        "code": "BK1290",
+        "name": "教育出版",
+        "change_pct": -1.36,
+        "main_net": -118244106.0
+      },
+      {
+        "code": "BK1479",
+        "name": "航空运输",
+        "change_pct": -0.89,
+        "main_net": -117404215.0
+      },
+      {
+        "code": "BK1278",
+        "name": "调味发酵品Ⅱ",
+        "change_pct": -0.27,
+        "main_net": -112063391.0
+      },
+      {
+        "code": "BK1576",
+        "name": "调味发酵品Ⅲ",
+        "change_pct": -0.27,
+        "main_net": -112063391.0
+      },
+      {
+        "code": "BK1598",
+        "name": "疫苗",
+        "change_pct": -1.18,
+        "main_net": -111604871.0
+      },
+      {
+        "code": "BK0538",
+        "name": "化学制品",
+        "change_pct": -0.55,
+        "main_net": -107977936.0
+      },
+      {
+        "code": "BK1556",
+        "name": "教育运营及其他",
+        "change_pct": -6.67,
+        "main_net": -107718446.0
+      },
+      {
+        "code": "BK1345",
+        "name": "商业地产",
+        "change_pct": -1.35,
+        "main_net": -107580685.0
+      },
+      {
+        "code": "BK1589",
+        "name": "通信应用增值服务",
+        "change_pct": -0.26,
+        "main_net": -106250081.0
+      },
+      {
+        "code": "BK1519",
+        "name": "电动乘用车",
+        "change_pct": -0.33,
+        "main_net": -103477428.0
+      },
+      {
+        "code": "BK1306",
+        "name": "蓄电池及其他电池",
+        "change_pct": -0.01,
+        "main_net": -101971480.0
+      },
+      {
+        "code": "BK1596",
+        "name": "其他生物制品",
+        "change_pct": -0.1,
+        "main_net": -101742160.0
+      },
+      {
+        "code": "BK0450",
+        "name": "航运港口",
+        "change_pct": -0.21,
+        "main_net": -99208224.0
+      },
+      {
+        "code": "BK1365",
+        "name": "租赁",
+        "change_pct": -1.99,
+        "main_net": -99024209.0
+      },
+      {
+        "code": "BK1435",
+        "name": "磷肥及磷化工",
+        "change_pct": -1.37,
+        "main_net": -98798577.0
+      },
+      {
+        "code": "BK1445",
+        "name": "安防设备",
+        "change_pct": 0.51,
+        "main_net": -97616464.0
+      },
+      {
+        "code": "BK1573",
+        "name": "油田服务",
+        "change_pct": -0.82,
+        "main_net": -96497914.0
+      },
+      {
+        "code": "BK1206",
+        "name": "基础化工",
+        "change_pct": -0.37,
+        "main_net": -95328512.0
+      },
+      {
+        "code": "BK1210",
+        "name": "交通运输",
+        "change_pct": -0.13,
+        "main_net": -94144784.0
+      },
+      {
+        "code": "BK0728",
+        "name": "环保",
+        "change_pct": -0.43,
+        "main_net": -93390064.0
+      },
+      {
+        "code": "BK1346",
+        "name": "住宅开发",
+        "change_pct": -0.75,
+        "main_net": -91556080.0
+      },
+      {
+        "code": "BK1304",
+        "name": "锂电专用设备",
+        "change_pct": -0.35,
+        "main_net": -91394404.0
+      },
+      {
+        "code": "BK1422",
+        "name": "无机盐",
+        "change_pct": -0.63,
+        "main_net": -90244085.0
+      },
+      {
+        "code": "BK1603",
+        "name": "体外诊断",
+        "change_pct": -0.64,
+        "main_net": -88887088.0
+      },
+      {
+        "code": "BK1214",
+        "name": "社会服务",
+        "change_pct": -0.31,
+        "main_net": -86428336.0
       }
     ]
   },
   "stocks": {
     "gainers": [
       {
-        "code": "301697",
-        "name": "贝特利",
-        "price": 36.6,
+        "code": "301010",
+        "name": "晶雪节能",
+        "price": 26.21,
+        "change_pct": 20.01,
+        "turnover": 547383053.02,
+        "main_net": 115675692.0,
+        "main_pct": 21.13
+      },
+      {
+        "code": "301718",
+        "name": "通则康威",
+        "price": 57.48,
         "change_pct": 20.0,
-        "turnover": 631178254.66,
-        "main_net": 49226963.0,
-        "main_pct": 7.8
+        "turnover": 877953201.99,
+        "main_net": 236716496.0,
+        "main_pct": 26.96
       },
       {
-        "code": "300686",
-        "name": "智动力",
-        "price": 13.68,
+        "code": "301226",
+        "name": "祥明智能",
+        "price": 33.06,
         "change_pct": 20.0,
-        "turnover": 295706929.09,
-        "main_net": 77021083.0,
-        "main_pct": 26.05
+        "turnover": 121383267.12,
+        "main_net": 31748257.0,
+        "main_pct": 26.16
       },
       {
-        "code": "300237",
-        "name": "美晨科技",
-        "price": 2.82,
+        "code": "688585",
+        "name": "上纬新材",
+        "price": 216.02,
         "change_pct": 20.0,
-        "turnover": 426249791.58,
-        "main_net": -16885377.0,
-        "main_pct": -3.96
+        "turnover": 3325077078.0,
+        "main_net": 129855264.0,
+        "main_pct": 3.91
       },
       {
-        "code": "688429",
-        "name": "时创能源",
-        "price": 12.36,
-        "change_pct": 15.62,
-        "turnover": 188398544.0,
-        "main_net": 7533324.0,
-        "main_pct": 4.0
+        "code": "688801",
+        "name": "燧原科技-U",
+        "price": 432.8,
+        "change_pct": 17.26,
+        "turnover": 1255050223.0,
+        "main_net": 100592896.0,
+        "main_pct": 8.02
       },
       {
-        "code": "300118",
-        "name": "东方日升",
-        "price": 10.27,
-        "change_pct": 15.26,
-        "turnover": 2237074587.12,
-        "main_net": 368837645.0,
-        "main_pct": 16.49
+        "code": "300056",
+        "name": "中创环保",
+        "price": 8.69,
+        "change_pct": 15.87,
+        "turnover": 268346074.64,
+        "main_net": 6045329.0,
+        "main_pct": 2.25
       },
       {
-        "code": "300123",
-        "name": "ST亚光",
-        "price": 4.08,
-        "change_pct": 13.65,
-        "turnover": 208800692.58,
-        "main_net": 21538904.0,
-        "main_pct": 10.32
+        "code": "300825",
+        "name": "阿尔特",
+        "price": 12.42,
+        "change_pct": 15.43,
+        "turnover": 877633179.77,
+        "main_net": 45387420.0,
+        "main_pct": 5.17
       },
       {
-        "code": "300313",
-        "name": "天山生物",
-        "price": 11.42,
-        "change_pct": 12.73,
-        "turnover": 416871049.0,
-        "main_net": 36046757.0,
-        "main_pct": 8.65
+        "code": "300421",
+        "name": "力星股份",
+        "price": 19.02,
+        "change_pct": 15.06,
+        "turnover": 589677996.46,
+        "main_net": 108639457.0,
+        "main_pct": 18.42
       },
       {
-        "code": "300949",
-        "name": "奥雅股份",
-        "price": 56.99,
-        "change_pct": 12.52,
-        "turnover": 553652986.07,
-        "main_net": 11712931.0,
-        "main_pct": 2.12
+        "code": "301321",
+        "name": "翰博高新",
+        "price": 38.66,
+        "change_pct": 14.79,
+        "turnover": 442685945.92,
+        "main_net": 14523937.0,
+        "main_pct": 3.28
       },
       {
-        "code": "688203",
-        "name": "海正生材",
-        "price": 15.69,
-        "change_pct": 10.65,
-        "turnover": 350046970.0,
-        "main_net": 6958018.0,
-        "main_pct": 1.99
+        "code": "300006",
+        "name": "莱美药业",
+        "price": 11.16,
+        "change_pct": 14.34,
+        "turnover": 2641588012.5,
+        "main_net": 148774144.0,
+        "main_pct": 5.63
       },
       {
-        "code": "600537",
-        "name": "*ST亿晶",
-        "price": 2.05,
-        "change_pct": 10.22,
-        "turnover": 190793385.0,
-        "main_net": 8783413.0,
-        "main_pct": 4.6
+        "code": "688386",
+        "name": "泛亚微透",
+        "price": 59.83,
+        "change_pct": 12.82,
+        "turnover": 669217487.0,
+        "main_net": 7787951.0,
+        "main_pct": 1.16
       },
       {
-        "code": "601188",
-        "name": "龙江交通",
-        "price": 3.81,
-        "change_pct": 10.12,
-        "turnover": 1052694917.0,
-        "main_net": 366267137.0,
-        "main_pct": 34.79
+        "code": "300136",
+        "name": "信维通信",
+        "price": 47.7,
+        "change_pct": 12.77,
+        "turnover": 4865322094.67,
+        "main_net": 626476784.0,
+        "main_pct": 12.88
       },
       {
-        "code": "002578",
-        "name": "闽发铝业",
-        "price": 5.01,
-        "change_pct": 10.11,
-        "turnover": 538747049.5,
-        "main_net": -70240481.0,
-        "main_pct": -13.04
+        "code": "300473",
+        "name": "德尔股份",
+        "price": 47.88,
+        "change_pct": 12.63,
+        "turnover": 1094212792.45,
+        "main_net": -53293582.0,
+        "main_pct": -4.87
       },
       {
-        "code": "600540",
-        "name": "新赛股份",
-        "price": 4.58,
-        "change_pct": 10.1,
-        "turnover": 463027840.0,
-        "main_net": 74313132.0,
-        "main_pct": 16.05
+        "code": "301122",
+        "name": "采纳股份",
+        "price": 57.33,
+        "change_pct": 12.1,
+        "turnover": 367410816.1,
+        "main_net": 27391891.0,
+        "main_pct": 7.46
       },
       {
-        "code": "600327",
-        "name": "大东方",
-        "price": 4.91,
-        "change_pct": 10.09,
-        "turnover": 864708285.0,
-        "main_net": 167316980.0,
-        "main_pct": 19.35
+        "code": "301306",
+        "name": "西测测试",
+        "price": 87.3,
+        "change_pct": 11.78,
+        "turnover": 889117056.11,
+        "main_net": 96097599.0,
+        "main_pct": 10.81
       },
       {
-        "code": "000525",
-        "name": "红太阳",
-        "price": 5.02,
-        "change_pct": 10.09,
-        "turnover": 593597266.92,
-        "main_net": 132281382.0,
-        "main_pct": 22.28
+        "code": "301068",
+        "name": "大地海洋",
+        "price": 21.25,
+        "change_pct": 10.79,
+        "turnover": 264475480.13,
+        "main_net": 4648932.0,
+        "main_pct": 1.76
       },
       {
-        "code": "002388",
-        "name": "新亚制程",
-        "price": 6.67,
-        "change_pct": 10.07,
-        "turnover": 625385658.0,
-        "main_net": 29481048.0,
-        "main_pct": 4.71
+        "code": "688326",
+        "name": "经纬恒润-W",
+        "price": 58.58,
+        "change_pct": 10.38,
+        "turnover": 215908758.0,
+        "main_net": 30538042.0,
+        "main_pct": 14.14
       },
       {
-        "code": "600278",
-        "name": "东方创业",
-        "price": 7.12,
-        "change_pct": 10.05,
-        "turnover": 359469152.0,
-        "main_net": 60935942.0,
-        "main_pct": 16.95
+        "code": "688320",
+        "name": "禾川科技",
+        "price": 31.59,
+        "change_pct": 10.26,
+        "turnover": 301572620.0,
+        "main_net": -694568.0,
+        "main_pct": -0.23
       },
       {
-        "code": "002889",
-        "name": "东方嘉盛",
-        "price": 14.91,
-        "change_pct": 10.04,
-        "turnover": 508073191.64,
-        "main_net": 107254715.0,
-        "main_pct": 21.11
+        "code": "600715",
+        "name": "文投控股",
+        "price": 2.59,
+        "change_pct": 10.21,
+        "turnover": 1087378232.0,
+        "main_net": 463288598.0,
+        "main_pct": 42.61
       },
       {
-        "code": "603366",
-        "name": "日出东方",
-        "price": 8.99,
-        "change_pct": 10.04,
-        "turnover": 486933353.0,
-        "main_net": 155602483.0,
-        "main_pct": 31.96
-      },
-      {
-        "code": "600371",
-        "name": "万向德农",
-        "price": 12.39,
-        "change_pct": 10.04,
-        "turnover": 804874824.0,
-        "main_net": 221888100.0,
-        "main_pct": 27.57
+        "code": "002323",
+        "name": "*ST雅博",
+        "price": 1.19,
+        "change_pct": 10.19,
+        "turnover": 113881038.41,
+        "main_net": 11135596.0,
+        "main_pct": 9.78
       }
     ],
     "losers": [
       {
-        "code": "001381",
-        "name": "C皇冠",
-        "price": 47.33,
-        "change_pct": -17.11,
-        "turnover": 1256266054.58,
-        "main_net": -96758648.0,
-        "main_pct": -7.7
-      },
-      {
-        "code": "301716",
-        "name": "鸿富诚",
-        "price": 350.0,
-        "change_pct": -13.66,
-        "turnover": 950430375.18,
-        "main_net": -43983324.0,
-        "main_pct": -4.63
-      },
-      {
-        "code": "688137",
-        "name": "近岸蛋白",
-        "price": 126.6,
-        "change_pct": -13.29,
-        "turnover": 959367090.0,
-        "main_net": -119925376.0,
-        "main_pct": -12.5
-      },
-      {
-        "code": "301569",
-        "name": "联亚药业",
-        "price": 19.27,
-        "change_pct": -11.56,
-        "turnover": 873830061.08,
-        "main_net": -67771610.0,
-        "main_pct": -7.76
-      },
-      {
-        "code": "688766",
-        "name": "普冉股份",
-        "price": 237.75,
-        "change_pct": -10.62,
-        "turnover": 2947569047.0,
-        "main_net": -27016080.0,
-        "main_pct": -0.92
-      },
-      {
-        "code": "688004",
-        "name": "博汇科技",
-        "price": 37.91,
-        "change_pct": -10.29,
-        "turnover": 507080497.0,
-        "main_net": 9693360.0,
-        "main_pct": 1.91
-      },
-      {
-        "code": "000679",
-        "name": "大连友谊",
-        "price": 5.91,
-        "change_pct": -10.05,
-        "turnover": 208232577.59,
-        "main_net": -8926207.0,
-        "main_pct": -4.29
-      },
-      {
-        "code": "603278",
-        "name": "大业股份",
-        "price": 13.57,
-        "change_pct": -10.01,
-        "turnover": 886477603.0,
-        "main_net": -61338936.0,
-        "main_pct": -6.92
-      },
-      {
-        "code": "002827",
-        "name": "高争民爆",
-        "price": 60.99,
-        "change_pct": -10.0,
-        "turnover": 1479625565.42,
-        "main_net": -109509456.0,
-        "main_pct": -7.4
-      },
-      {
-        "code": "002353",
-        "name": "杰瑞股份",
-        "price": 79.44,
-        "change_pct": -10.0,
-        "turnover": 2727782689.88,
-        "main_net": -207177728.0,
-        "main_pct": -7.6
-      },
-      {
-        "code": "003033",
-        "name": "征和工业",
-        "price": 76.58,
-        "change_pct": -10.0,
-        "turnover": 305898398.2,
-        "main_net": -15502662.0,
-        "main_pct": -5.07
-      },
-      {
-        "code": "002384",
-        "name": "东山精密",
-        "price": 80.19,
-        "change_pct": -10.0,
-        "turnover": 12298448736.99,
-        "main_net": -1669024336.0,
-        "main_pct": -13.57
-      },
-      {
-        "code": "603578",
-        "name": "三星新材",
-        "price": 9.54,
-        "change_pct": -10.0,
-        "turnover": 122267725.0,
-        "main_net": -33652342.0,
-        "main_pct": -27.52
-      },
-      {
-        "code": "605058",
-        "name": "澳弘电子",
-        "price": 50.22,
-        "change_pct": -10.0,
-        "turnover": 698405948.0,
-        "main_net": -56064940.0,
-        "main_pct": -8.03
-      },
-      {
-        "code": "603083",
-        "name": "剑桥科技",
-        "price": 104.81,
-        "change_pct": -10.0,
-        "turnover": 2505218513.0,
-        "main_net": -334918080.0,
-        "main_pct": -13.37
-      },
-      {
-        "code": "001225",
-        "name": "和泰机电",
-        "price": 34.04,
-        "change_pct": -9.99,
-        "turnover": 134166591.0,
-        "main_net": -15262556.0,
-        "main_pct": -11.38
-      },
-      {
-        "code": "600838",
-        "name": "上海九百",
-        "price": 10.45,
-        "change_pct": -9.99,
-        "turnover": 902426625.0,
-        "main_net": -57398783.0,
-        "main_pct": -6.36
-      },
-      {
-        "code": "605100",
-        "name": "华丰股份",
-        "price": 22.8,
-        "change_pct": -9.99,
-        "turnover": 251026605.0,
-        "main_net": -62254268.0,
-        "main_pct": -24.8
-      },
-      {
-        "code": "000678",
-        "name": "襄阳轴承",
-        "price": 17.77,
-        "change_pct": -9.98,
-        "turnover": 1583114446.86,
-        "main_net": -209650535.0,
-        "main_pct": -13.24
-      },
-      {
-        "code": "301502",
-        "name": "华阳智能",
-        "price": 66.8,
-        "change_pct": -9.94,
-        "turnover": 403640247.31,
-        "main_net": -50679401.0,
-        "main_pct": -12.56
-      }
-    ],
-    "inflow": [
-      {
-        "code": "002371",
-        "name": "北方华创",
-        "price": 560.0,
-        "change_pct": -0.18,
-        "turnover": 7694423118.2,
-        "main_net": 610484320.0,
-        "main_pct": 7.93
-      },
-      {
-        "code": "600900",
-        "name": "长江电力",
-        "price": 29.91,
-        "change_pct": 2.15,
-        "turnover": 5040874886.0,
-        "main_net": 519178128.0,
-        "main_pct": 10.3
-      },
-      {
-        "code": "688981",
-        "name": "中芯国际",
-        "price": 110.9,
-        "change_pct": 0.19,
-        "turnover": 4932073612.0,
-        "main_net": 376759968.0,
-        "main_pct": 7.64
-      },
-      {
-        "code": "300118",
-        "name": "东方日升",
-        "price": 10.27,
-        "change_pct": 15.26,
-        "turnover": 2237074587.12,
-        "main_net": 368837645.0,
-        "main_pct": 16.49
-      },
-      {
-        "code": "601188",
-        "name": "龙江交通",
+        "code": "300010",
+        "name": "ST豆神",
         "price": 3.81,
-        "change_pct": 10.12,
-        "turnover": 1052694917.0,
-        "main_net": 366267137.0,
-        "main_pct": 34.79
+        "change_pct": -12.61,
+        "turnover": 654736704.32,
+        "main_net": -115669335.0,
+        "main_pct": -17.67
       },
       {
-        "code": "003006",
-        "name": "百亚股份",
-        "price": 23.09,
-        "change_pct": -1.07,
-        "turnover": 1093711089.0,
-        "main_net": 339096958.0,
-        "main_pct": 31.0
+        "code": "301096",
+        "name": "百诚医药",
+        "price": 38.8,
+        "change_pct": -11.27,
+        "turnover": 265905871.11,
+        "main_net": -27626219.0,
+        "main_pct": -10.39
       },
       {
-        "code": "688361",
-        "name": "中科飞测",
-        "price": 261.88,
-        "change_pct": -2.65,
-        "turnover": 4895193377.0,
-        "main_net": 335590448.0,
-        "main_pct": 6.86
+        "code": "000520",
+        "name": "凤凰航运",
+        "price": 3.12,
+        "change_pct": -10.09,
+        "turnover": 40902888.0,
+        "main_net": -23259830.0,
+        "main_pct": -56.87
       },
       {
-        "code": "688256",
-        "name": "寒武纪",
-        "price": 802.9,
-        "change_pct": -4.98,
-        "turnover": 8917277459.0,
-        "main_net": 287652400.0,
-        "main_pct": 3.23
+        "code": "002667",
+        "name": "*ST威领",
+        "price": 22.75,
+        "change_pct": -10.01,
+        "turnover": 584692645.29,
+        "main_net": -164652944.0,
+        "main_pct": -28.16
       },
       {
-        "code": "002300",
-        "name": "太阳电缆",
-        "price": 8.53,
-        "change_pct": 3.02,
-        "turnover": 1401102313.19,
-        "main_net": 276348797.0,
-        "main_pct": 19.72
+        "code": "600289",
+        "name": "ST信通",
+        "price": 5.65,
+        "change_pct": -9.02,
+        "turnover": 77366449.0,
+        "main_net": -15660767.0,
+        "main_pct": -20.24
       },
       {
-        "code": "688347",
-        "name": "华虹宏力",
-        "price": 173.12,
-        "change_pct": 6.86,
-        "turnover": 5576106323.0,
-        "main_net": 266302528.0,
-        "main_pct": 4.78
+        "code": "688669",
+        "name": "聚石化学",
+        "price": 41.64,
+        "change_pct": -8.8,
+        "turnover": 270838089.0,
+        "main_net": -8690542.0,
+        "main_pct": -3.21
       },
       {
-        "code": "600410",
-        "name": "华胜天成",
-        "price": 12.68,
-        "change_pct": 5.32,
-        "turnover": 1586021080.0,
-        "main_net": 248141828.0,
-        "main_pct": 15.65
+        "code": "301070",
+        "name": "开勒股份",
+        "price": 42.1,
+        "change_pct": -8.64,
+        "turnover": 309799149.04,
+        "main_net": 15011753.0,
+        "main_pct": 4.85
+      },
+      {
+        "code": "603995",
+        "name": "甬金股份",
+        "price": 21.68,
+        "change_pct": -8.56,
+        "turnover": 224974220.0,
+        "main_net": -9227887.0,
+        "main_pct": -4.1
+      },
+      {
+        "code": "600801",
+        "name": "华新建材",
+        "price": 25.12,
+        "change_pct": -8.52,
+        "turnover": 710293353.0,
+        "main_net": 67763229.0,
+        "main_pct": 9.54
+      },
+      {
+        "code": "688203",
+        "name": "海正生材",
+        "price": 14.49,
+        "change_pct": -7.65,
+        "turnover": 299189653.0,
+        "main_net": 7743680.0,
+        "main_pct": 2.59
+      },
+      {
+        "code": "000893",
+        "name": "亚钾国际",
+        "price": 33.97,
+        "change_pct": -7.39,
+        "turnover": 956322270.49,
+        "main_net": 26462707.0,
+        "main_pct": 2.77
+      },
+      {
+        "code": "688429",
+        "name": "时创能源",
+        "price": 11.45,
+        "change_pct": -7.36,
+        "turnover": 146717840.0,
+        "main_net": -6887316.0,
+        "main_pct": -4.69
+      },
+      {
+        "code": "300014",
+        "name": "亿纬锂能",
+        "price": 48.51,
+        "change_pct": -6.75,
+        "turnover": 3187145845.08,
+        "main_net": -479964816.0,
+        "main_pct": -15.06
       },
       {
         "code": "002929",
         "name": "润建股份",
-        "price": 63.11,
-        "change_pct": 10.01,
-        "turnover": 2595074886.54,
-        "main_net": 246370448.0,
-        "main_pct": 9.49
+        "price": 59.0,
+        "change_pct": -6.51,
+        "turnover": 3110988081.25,
+        "main_net": -248203344.0,
+        "main_pct": -7.98
       },
       {
-        "code": "600371",
-        "name": "万向德农",
-        "price": 12.39,
-        "change_pct": 10.04,
-        "turnover": 804874824.0,
-        "main_net": 221888100.0,
-        "main_pct": 27.57
+        "code": "603939",
+        "name": "益丰药房",
+        "price": 25.32,
+        "change_pct": -6.46,
+        "turnover": 742937756.0,
+        "main_net": 8336847.0,
+        "main_pct": 1.12
       },
       {
-        "code": "601328",
-        "name": "交通银行",
-        "price": 8.3,
-        "change_pct": 1.22,
-        "turnover": 1750952991.0,
-        "main_net": 208795904.0,
-        "main_pct": 11.92
+        "code": "605339",
+        "name": "南侨食品",
+        "price": 14.78,
+        "change_pct": -6.46,
+        "turnover": 224482716.0,
+        "main_net": -31804970.0,
+        "main_pct": -14.17
       },
       {
-        "code": "601595",
-        "name": "上海电影",
-        "price": 35.76,
-        "change_pct": 10.0,
-        "turnover": 756816474.0,
-        "main_net": 197704074.0,
-        "main_pct": 26.12
+        "code": "001381",
+        "name": "C皇冠",
+        "price": 44.49,
+        "change_pct": -6.0,
+        "turnover": 1035450960.92,
+        "main_net": -35564367.0,
+        "main_pct": -3.43
+      },
+      {
+        "code": "605305",
+        "name": "中际联合",
+        "price": 29.19,
+        "change_pct": -5.93,
+        "turnover": 225803297.0,
+        "main_net": -14472353.0,
+        "main_pct": -6.41
+      },
+      {
+        "code": "603398",
+        "name": "*ST沐邦",
+        "price": 6.03,
+        "change_pct": -5.78,
+        "turnover": 50066449.0,
+        "main_net": -6253114.0,
+        "main_pct": -12.49
+      },
+      {
+        "code": "002275",
+        "name": "桂林三金",
+        "price": 17.15,
+        "change_pct": -5.77,
+        "turnover": 1024203744.9,
+        "main_net": -91516724.0,
+        "main_pct": -8.94
       }
     ],
-    "outflow": [
+    "inflow": [
       {
-        "code": "002384",
-        "name": "东山精密",
-        "price": 80.19,
-        "change_pct": -10.0,
-        "turnover": 12298448736.99,
-        "main_net": -1669024336.0,
-        "main_pct": -13.57
+        "code": "601138",
+        "name": "工业富联",
+        "price": 42.57,
+        "change_pct": 4.57,
+        "turnover": 7189471185.0,
+        "main_net": 1242293344.0,
+        "main_pct": 17.28
       },
       {
-        "code": "603986",
-        "name": "兆易创新",
-        "price": 239.49,
-        "change_pct": -8.99,
-        "turnover": 9971889508.0,
-        "main_net": -1335772864.0,
-        "main_pct": -13.4
+        "code": "688256",
+        "name": "寒武纪",
+        "price": 851.21,
+        "change_pct": 6.02,
+        "turnover": 10387956746.0,
+        "main_net": 934730192.0,
+        "main_pct": 9.0
+      },
+      {
+        "code": "300502",
+        "name": "新易盛",
+        "price": 176.0,
+        "change_pct": 2.27,
+        "turnover": 13768865755.9,
+        "main_net": 926404768.0,
+        "main_pct": 6.73
+      },
+      {
+        "code": "002639",
+        "name": "雪人集团",
+        "price": 15.95,
+        "change_pct": 10.0,
+        "turnover": 2745382977.0,
+        "main_net": 748067806.0,
+        "main_pct": 27.25
       },
       {
         "code": "300308",
         "name": "中际旭创",
-        "price": 448.0,
-        "change_pct": -9.19,
-        "turnover": 23973458007.78,
-        "main_net": -772533248.0,
-        "main_pct": -3.22
+        "price": 452.03,
+        "change_pct": 0.9,
+        "turnover": 21727765266.48,
+        "main_net": 668769792.0,
+        "main_pct": 3.08
       },
       {
-        "code": "601138",
-        "name": "工业富联",
-        "price": 40.71,
-        "change_pct": -8.08,
-        "turnover": 6033429495.0,
-        "main_net": -749863648.0,
-        "main_pct": -12.43
+        "code": "300136",
+        "name": "信维通信",
+        "price": 47.7,
+        "change_pct": 12.77,
+        "turnover": 4865322094.67,
+        "main_net": 626476784.0,
+        "main_pct": 12.88
       },
       {
-        "code": "688825",
-        "name": "长鑫科技",
-        "price": 40.41,
-        "change_pct": -4.98,
-        "turnover": 14339012774.0,
-        "main_net": -697254432.0,
-        "main_pct": -4.86
+        "code": "000823",
+        "name": "超声电子",
+        "price": 17.86,
+        "change_pct": 9.98,
+        "turnover": 1527101194.81,
+        "main_net": 567334596.0,
+        "main_pct": 37.15
       },
       {
-        "code": "600183",
-        "name": "生益科技",
-        "price": 70.49,
-        "change_pct": -9.37,
-        "turnover": 6965380454.0,
-        "main_net": -672526432.0,
-        "main_pct": -9.66
+        "code": "600641",
+        "name": "先导基电",
+        "price": 32.72,
+        "change_pct": 4.2,
+        "turnover": 5045800356.0,
+        "main_net": 527872496.0,
+        "main_pct": 10.46
       },
       {
-        "code": "002428",
-        "name": "云南锗业",
-        "price": 72.43,
-        "change_pct": -8.32,
-        "turnover": 5343763278.19,
-        "main_net": -609265392.0,
-        "main_pct": -11.4
+        "code": "600498",
+        "name": "烽火通信",
+        "price": 28.83,
+        "change_pct": 6.78,
+        "turnover": 2919012981.0,
+        "main_net": 466954256.0,
+        "main_pct": 16.0
       },
       {
-        "code": "600487",
-        "name": "亨通光电",
-        "price": 40.9,
-        "change_pct": -6.43,
-        "turnover": 5144265865.0,
-        "main_net": -524372240.0,
-        "main_pct": -10.19
+        "code": "000530",
+        "name": "冰山冷热",
+        "price": 9.57,
+        "change_pct": 10.0,
+        "turnover": 836401034.77,
+        "main_net": 465863722.0,
+        "main_pct": 55.7
       },
       {
-        "code": "002131",
-        "name": "利欧股份",
-        "price": 4.26,
-        "change_pct": -2.96,
-        "turnover": 3066710130.01,
-        "main_net": -511908336.0,
-        "main_pct": -16.69
+        "code": "600715",
+        "name": "文投控股",
+        "price": 2.59,
+        "change_pct": 10.21,
+        "turnover": 1087378232.0,
+        "main_net": 463288598.0,
+        "main_pct": 42.61
       },
       {
-        "code": "601899",
-        "name": "紫金矿业",
-        "price": 28.28,
-        "change_pct": -4.07,
-        "turnover": 7081864188.0,
-        "main_net": -457392064.0,
-        "main_pct": -6.46
+        "code": "002463",
+        "name": "沪电股份",
+        "price": 77.1,
+        "change_pct": 5.31,
+        "turnover": 6468686461.7,
+        "main_net": 431239632.0,
+        "main_pct": 6.67
       },
+      {
+        "code": "002865",
+        "name": "钧达股份",
+        "price": 44.45,
+        "change_pct": -0.31,
+        "turnover": 2720000555.84,
+        "main_net": 413613840.0,
+        "main_pct": 15.21
+      },
+      {
+        "code": "600118",
+        "name": "中国卫星",
+        "price": 57.5,
+        "change_pct": 4.55,
+        "turnover": 3826455337.0,
+        "main_net": 400977760.0,
+        "main_pct": 10.48
+      },
+      {
+        "code": "002172",
+        "name": "澳洋健康",
+        "price": 6.18,
+        "change_pct": 9.96,
+        "turnover": 1113506505.06,
+        "main_net": 400223453.0,
+        "main_pct": 35.94
+      }
+    ],
+    "outflow": [
       {
         "code": "300274",
         "name": "阳光电源",
-        "price": 81.97,
-        "change_pct": -3.72,
-        "turnover": 9242906654.36,
-        "main_net": -430641472.0,
-        "main_pct": -4.66
-      },
-      {
-        "code": "300394",
-        "name": "天孚通信",
-        "price": 122.0,
-        "change_pct": -5.79,
-        "turnover": 6359070861.95,
-        "main_net": -422323216.0,
-        "main_pct": -6.64
-      },
-      {
-        "code": "603259",
-        "name": "药明康德",
-        "price": 147.0,
-        "change_pct": -4.83,
-        "turnover": 6976370191.0,
-        "main_net": -412843424.0,
-        "main_pct": -5.92
+        "price": 77.85,
+        "change_pct": -5.03,
+        "turnover": 7092912688.7,
+        "main_net": -838895744.0,
+        "main_pct": -11.83
       },
       {
         "code": "300750",
         "name": "宁德时代",
-        "price": 254.22,
-        "change_pct": -3.73,
-        "turnover": 14788018219.17,
-        "main_net": -412284000.0,
-        "main_pct": -2.79
+        "price": 248.64,
+        "change_pct": -2.19,
+        "turnover": 10908315434.4,
+        "main_net": -677287664.0,
+        "main_pct": -6.21
       },
       {
-        "code": "600206",
-        "name": "有研新材",
-        "price": 38.29,
-        "change_pct": -0.26,
-        "turnover": 4903506550.0,
-        "main_net": -411089136.0,
-        "main_pct": -8.38
+        "code": "300014",
+        "name": "亿纬锂能",
+        "price": 48.51,
+        "change_pct": -6.75,
+        "turnover": 3187145845.08,
+        "main_net": -479964816.0,
+        "main_pct": -15.06
+      },
+      {
+        "code": "601599",
+        "name": "浙文影业",
+        "price": 5.38,
+        "change_pct": 5.91,
+        "turnover": 2646542135.0,
+        "main_net": -384879904.0,
+        "main_pct": -14.54
+      },
+      {
+        "code": "600261",
+        "name": "阳光照明",
+        "price": 5.32,
+        "change_pct": -1.48,
+        "turnover": 2108200278.0,
+        "main_net": -352784031.0,
+        "main_pct": -16.73
+      },
+      {
+        "code": "688825",
+        "name": "长鑫科技",
+        "price": 39.99,
+        "change_pct": -1.04,
+        "turnover": 10816270871.0,
+        "main_net": -345608896.0,
+        "main_pct": -3.2
+      },
+      {
+        "code": "300759",
+        "name": "康龙化成",
+        "price": 44.5,
+        "change_pct": -3.03,
+        "turnover": 2301682358.84,
+        "main_net": -280058640.0,
+        "main_pct": -12.17
+      },
+      {
+        "code": "002929",
+        "name": "润建股份",
+        "price": 59.0,
+        "change_pct": -6.51,
+        "turnover": 3110988081.25,
+        "main_net": -248203344.0,
+        "main_pct": -7.98
+      },
+      {
+        "code": "600276",
+        "name": "恒瑞医药",
+        "price": 49.23,
+        "change_pct": -2.38,
+        "turnover": 2493064641.0,
+        "main_net": -239482192.0,
+        "main_pct": -9.61
+      },
+      {
+        "code": "300059",
+        "name": "东方财富",
+        "price": 18.78,
+        "change_pct": 0.0,
+        "turnover": 2063027443.34,
+        "main_net": -221147899.0,
+        "main_pct": -10.72
+      },
+      {
+        "code": "600327",
+        "name": "大东方",
+        "price": 5.4,
+        "change_pct": 9.98,
+        "turnover": 934565610.0,
+        "main_net": -209704710.0,
+        "main_pct": -22.44
+      },
+      {
+        "code": "300857",
+        "name": "协创数据",
+        "price": 149.21,
+        "change_pct": -4.01,
+        "turnover": 2829744769.25,
+        "main_net": -209375840.0,
+        "main_pct": -7.4
+      },
+      {
+        "code": "002709",
+        "name": "天赐材料",
+        "price": 27.88,
+        "change_pct": -2.65,
+        "turnover": 1622078172.58,
+        "main_net": -199265844.0,
+        "main_pct": -12.28
+      },
+      {
+        "code": "300390",
+        "name": "天华新能",
+        "price": 38.22,
+        "change_pct": -3.09,
+        "turnover": 1485235222.42,
+        "main_net": -198728760.0,
+        "main_pct": -13.38
+      },
+      {
+        "code": "603381",
+        "name": "永臻股份",
+        "price": 19.9,
+        "change_pct": -4.05,
+        "turnover": 912731415.0,
+        "main_net": -191530317.0,
+        "main_pct": -20.98
       }
     ]
   },
   "limits": {
     "limit_up": 20,
-    "limit_down": 20
+    "limit_down": 4
   },
-  "turnover": 1657793292330.5085,
-  "net_inflow_top20": 9725854814.0,
+  "turnover": 1482611321625.0908,
+  "net_inflow_top20": 47984197056.0,
   "insights": [
     {
       "tone": "bad",
-      "text": "全市场 725 涨 / 4483 跌，上涨占比 14%——普跌格局。"
+      "text": "全市场 2077 涨 / 3028 跌，上涨占比 39%——普跌格局。"
     },
     {
       "tone": "neutral",
-      "text": "板块分化：视频媒体 领涨 +6.25%，印制电路板 垫底 -5.86%，首尾差 12.11 个百分点。"
+      "text": "板块分化：焦炭Ⅲ 领涨 +5.39%，教育运营及其他 垫底 -6.67%，首尾差 12.06 个百分点。"
     },
     {
       "tone": "good",
-      "text": "主力资金最偏好 公用事业（净流入 +9.59 亿），最回避 电子（净流出 -138.64 亿）。"
+      "text": "主力资金最偏好 电子（净流入 +93.39 亿），最回避 电力设备（净流出 -42.17 亿）。"
+    },
+    {
+      "tone": "warn",
+      "text": "上证 +0.32% 收红，但沪市下跌 1340 家多于上涨 919 家——指数由权重股拉动，个股体感偏弱。"
     },
     {
       "tone": "neutral",
-      "text": "涨停 20 家 / 跌停 20 家（口径：涨跌幅绝对值 ≥ 9.8%）。"
+      "text": "涨停 20 家 / 跌停 4 家（口径：涨跌幅绝对值 ≥ 9.8%）。"
     }
   ]
 }
