@@ -232,5 +232,18 @@
     "limit_down": 6,
     "net_inflow_top20": 103834725552.0,
     "sh_index": 0.46
+  },
+  {
+    "date": "2026-11-12",
+    "generated_at": "2026-11-12 15:39:29",
+    "turnover": 1932076980671.0254,
+    "up": 846.0,
+    "down": 4379.0,
+    "flat": 70.0,
+    "up_ratio": 15.98,
+    "limit_up": 20,
+    "limit_down": 20,
+    "net_inflow_top20": 17427038165.0,
+    "sh_index": -0.67
   }
 ]
