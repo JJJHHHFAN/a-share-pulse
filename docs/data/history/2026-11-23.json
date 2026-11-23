@@ -1,0 +1,13 @@
+{
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23 15:47:52",
+  "turnover": 1552880172836.8428,
+  "up": 4344.0,
+  "down": 806.0,
+  "flat": 140.0,
+  "up_ratio": 82.12,
+  "limit_up": 20,
+  "limit_down": 7,
+  "net_inflow_top20": 59922655952.0,
+  "sh_index": 0.15
+}
